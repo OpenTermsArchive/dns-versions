@@ -560,6 +560,8 @@ Version Juillet 2022
 
 Doctolib SAS – 54 quai Charles Pasqua 92300 Levallois Perret – RCS : 794 598 813
 
+- - -
+
 CONDITIONS D’UTILISATION DES SERVICES DOCTOLIB
 
 
