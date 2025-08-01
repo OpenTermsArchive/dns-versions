@@ -27,6 +27,12 @@ Dans le présent Contrat, les termes ou expressions suivants, s'ils commencent p
 
 **« Contrat » ou « Conditions Générales » ou « Conditions Générales d’Utilisation »** : désigne le présent contrat conclu entre l’Utilisateur et FEELVERYBIEN, y compris son préambule, et précisant l'ensemble des droits et obligations de ceux-ci dans le cadre de l’accès aux Supports.
 
+**« Master »** : désigne le particulier personne physique qui souscrit à l’Offre « Famille », et qui en est l’utilisateur principal.
+
+**« Membre Invité »** : désigne le particulier personne physique qui accepte l’invitation émise par le Master dans le cadre de l’Offre « Famille ».
+
+**« Offre "Famille" »** : désigne une formule d’Abonnement distincte, qui donne au Master un accès Premium aux Services et lui permet d’inviter, sans surcoût, jusqu’à trois (3) personnes de son choix à bénéficier de son Abonnement, que ces dernières disposent ou non déjà d’un compte sur les Supports.
+
 **« Site »** : désigne le site [https://www.petitbambou.com/](https://www.petitbambou.com/).
 
 **« Service »** : désigne tout produit et/ou service mis à la disposition de l’Utilisateur à titre onéreux ou gratuit par FEELVERYBIEN au travers des Supports. Figurent parmi les Services, et sans que cette liste ne soit exhaustive, les produits et/ou services suivants :
@@ -110,7 +116,50 @@ L’Utilisateur peut se désabonner de ces courriels en suivant les instructions
 
 Les Services auxquels l’Utilisateur accède en tant que membre sont ceux définis en Article 1 des présentes Conditions Générales d’Utilisation.
 
-### 5.4 Carte Cadeau
+### 5.4 Offre étudiante - UNiDAYS
+
+L’accès à cette offre est conditionné à la vérification du statut étudiant via notre partenaire et/ou la plateforme UNiDAYS, selon les conditions définies par ce dernier.
+
+### 5.5 Offre Famille
+
+#### 5.5.1 Objet de l'Offre
+
+Chaque Membre Invité dispose d’un accès Premium complet, équivalent à celui d’un Abonné ayant souscrit à un Abonnement payant, sans qu’aucun coût supplémentaire ne lui soit facturé. Le Master est seul titulaire de l’Abonnement et seul redevable de l’ensemble des frais d’abonnement.
+
+Est entendue par « Famille » la famille au sens large, ce qui inclut tant les proches du Master, qu’ils résident ou non sous le même toit, que sa famille « de cœur ». Il importe peu que le Membre Invité soit ou non titulaire d’un compte existant sur les Supports, il lui suffit de disposer d’une adresse e-mail afin de créer, ou le cas échéant, rattacher un compte existant.
+
+Dans le cadre de l’Offre, le Master comme les Membres Invités disposent d’un compte autonome et conservent la maîtrise de leurs propres données. Le Master n’a pas accès ni aux favoris et statistiques détaillées ni aux historiques de méditation des Membres Invités.
+
+#### 5.5.2 Conditions d'éligibilité et Invitations
+
+Le Master émet les invitations depuis les paramètres des Supports, dans l’onglet « Abonnement » (pour le Site) ou « Gérer mon abonnement » (pour l’Application), en renseignant l’adresse e-mail des personnes qu’il souhaite inviter. L’invitation n’est assortie d’aucun délai d’activation, sous réserve qu’elle n’ait pas été révoquée par le Master, que l’Abonnement du Master soit actif et que le Membre Invité ne soit pas déjà titulaire d’un Abonnement payant en cours au moment de l’acceptation.
+
+Une fois l’invitation envoyée, le Membre Invité recevra un e-mail de confirmation, puis après la première connexion, une notification interne :
+
+* **Pour le Site.** Une pastille de couleur et un message dédié ;
+* **Pour l’Application.** Un écran d’acceptation ou de refus obligatoire lors du chargement.
+
+Lorsqu’un même Utilisateur détient plusieurs invitations, seule la plus récente est présentée ; les précédentes redeviennent accessibles s’il décline la dernière ou s’il se détache d’un autre Abonnement « Famille ».
+
+#### 5.5.3 Gestion des Membres Invités
+
+Le Master peut, sur son compte, ajouter, remplacer ou révoquer un Membre Invité à tout moment, avant ou après acceptation de l'invitation, sans délai de carence ni limitation de fréquence.
+
+De son côté, le Membre Invité est libre d’accepter ou de refuser l’invitation, et de quitter l’abonnement Famille quand il le souhaite.
+
+Dans tous les cas de départ (révocation par le Master, résiliation volontaire par le Membre Invité ou fin d’Abonnement), le compte concerné sera automatiquement converti en compte gratuit, sauf s’il est couvert par un Abonnement payant.
+
+S’il quitte l’abonnement, il peut, s’il le désire, souscrire immédiatement à une formule individuelle ou activer une carte cadeau, et son rattachement à l’Offre « Famille » prendra alors fin de plein droit dès la validation de la nouvelle souscription.
+
+#### 5.5.4 Migration depuis un Abonnement existant
+
+Si le Membre Invité quitte l’abonnement « Famille », il peut, s’il le désire, souscrire immédiatement à une formule individuelle ou activer une carte cadeau, et son rattachement à l’Offre « Famille » prendra alors fin de plein droit dès la validation de la nouvelle souscription.
+
+De plus, un Abonné ayant souscrit sur le Site peut convertir son Abonnement en abonnement « Famille » à tout moment depuis son espace client disponible dans les paramètres, la nouvelle tarification s’appliquant immédiatement.
+
+Et, les Abonnements contractés via le Play Store ou l’App Store doivent, préalablement à la migration, être résiliés dans le store concerné, et l’Abonné pourra alors souscrire à l’Offre « Famille » à l’expiration de sa période d’Abonnement en cours.
+
+### 5.6 Carte Cadeau
 
 FEELVERYBIEN propose également un accès aux Services via l’achat de cartes cadeaux, uniquement à travers la rubrique dédiée du Site.
 
@@ -230,4 +279,4 @@ Tout litige entre les parties, relatif à la conclusion, l'interprétation, l'ex
 
 Il est également rappelé qu’en cas de litige, l’Utilisateur peut recourir à la plateforme européenne de règlement en ligne des litiges (RLL) accessible à l'adresse suivante : [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)
 
-**Dernière mise à jour : le 20/01/2025.**
+**Dernière mise à jour : le 01/08/2025.**
