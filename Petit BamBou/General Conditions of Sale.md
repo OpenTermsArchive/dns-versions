@@ -33,6 +33,12 @@ Les termes ou expressions suivants, s'ils commencent par une majuscule, qu'ils s
 
 **« Contrat » ou « Conditions Générales » ou « Conditions Générales de Vente »** : désigne le présent contrat conclu entre le Client et FEELVERYBIEN, y compris son préambule, et précisant l'ensemble des droits et obligations de ceux-ci dans le cadre de l'utilisation du Service fourni par FEELVERYBIEN.
 
+**« Master »** : désigne le particulier personne physique qui souscrit à l’Offre « Famille », et qui en est l’utilisateur principal.
+
+**« Membre Invité »** : désigne le particulier personne physique qui accepte l’invitation émise par le Master dans le cadre de l’Offre « Famille ».
+
+**« Offre "Famille" »** : désigne une formule d’Abonnement distincte, qui donne au Master un accès Premium aux Services et lui permet d’inviter, sans surcoût, jusqu’à trois (3) personnes de son choix à bénéficier de son Abonnement, que ces dernières disposent ou non déjà d’un compte sur les Supports.
+
 **« Site »** : désigne le site [https://www.petitbambou.com/fr](https://www.petitbambou.com/fr).
 
 **« Service »** : désigne tout produit et/ou service mis à la disposition de l’Utilisateur à titre onéreux ou gratuit par FEELVERYBIEN au travers des Supports. Figurent parmi les Services, et sans que cette liste ne soit exhaustive, les produits et/ou services suivants :
@@ -59,11 +65,56 @@ L’ensemble des offres et conditions d’abonnement, les tarifs, descriptions, 
 
 L’offre d’abonnement est une offre permettant à l’Abonné de souscrire simultanément compte et droits d’accès au Site et à l’Application. La souscription de l’Abonnement est effectuée soit en ligne directement sur le Site, soit sur l’Application.
 
+Dans le cadre de l’offre « Solo - À vie », la notion « À vie » s’entend comme une période de cent (100) ans à compter de la date de souscription ou, si elle survient plus tôt, de la date à laquelle FEELVERYBIEN cesse de commercialiser les Services ; la première de ses échéances prévalant.
+
 L’Abonnement suppose le remplissage d’un formulaire d’abonnement pour la création d’un compte Abonné, nécessitant de fournir une adresse e-mail valide et de créer un mot de passe, qui permettront à l’Abonné de s’authentifier. L’Abonné reçoit ensuite par mail confirmation de l’acceptation de sa demande d’abonnement.
 
 Les Abonnements sont payables au jour de la souscription pour la durée définie.
 
-### 3.2 Carte cadeau
+### 3.2 Offre étudiante - UNiDAYS
+
+FEELVERYBIEN propose une offre préférentielle réservée aux étudiants, non cumulable avec un abonnement déjà en cours. Cette offre permet aux étudiants éligibles de bénéficier d’une réduction exclusive sur l’abonnement annuel aux Services de FEELVERYBIEN, dont le montant varie selon les territoires. Valable pour une durée limitée à un (1) an, elle prendra fin automatiquement à l'issue de cette période, sauf souscription à une nouvelle offre aux tarifs standards.
+
+L’accès à cette offre est conditionné à la vérification du statut étudiant via notre partenaire et/ou la plateforme UNiDAYS, selon les conditions définies par ce dernier.
+
+Conformément à l’article L. 221-18 du Code de la consommation, et compte tenu de la réduction exceptionnelle accordée, l’Utilisateur reconnaît expressément qu’en bénéficiant de l’offre étudiante, l’accès aux Services est activé immédiatement après la validation du paiement. De ce fait, il renonce à son droit de rétractation de quatorze (14) jours applicable aux contrats conclus à distance.
+
+Afin d’assurer une information claire et sans ambiguïté, l’Utilisateur sera invité à cocher une case lors de la souscription sur UNiDAYS, confirmant son accord explicite sur la renonciation à son droit de rétractation.
+
+Toute souscription à l’offre étudiante est définitive et non remboursable, sauf en cas de motifs exceptionnels prévus par la loi.
+
+Pour toute question relative à l’éligibilité ou au processus de validation de l’offre étudiante, l’Utilisateur est invité à consulter les conditions générales d’utilisation de UNiDAYS ou à contacter notre service client à l’adresse suivante : [onestlapourvous@petitbambou.com](mailto:onestlapourvouspetitbambou.com).
+
+### 3.3 Offre Famille
+
+#### 3.3.1 Formules et Disponibilité
+
+L’Offre « Famille » constitue un abonnement distinct, proposé aux mêmes conditions de qualité et de service que l’abonnement « Solo », mais assorti de la faculté de pouvoir inviter jusqu’à trois (3) personnes de son choix. Accessible aux liens détaillés en Article 3.1, l’Offre « Famille » est commercialisée sous deux options :
+
+* Une formule annuelle accessible dans tous les pays où les Services sont distribués ;
+* Une formule mensuelle disponible uniquement dans les États membres de l’Union européenne, à l’exception de l’Espagne, de l’Italie et des Pays-Bas.
+
+Est entendue par « Famille » la famille au sens large, ce qui inclut tant les proches du Master, qu’ils résident ou non sous le même toit, que sa famille « de cœur ».
+
+#### 3.3.2 Facturation et Reconduction
+
+Dans le cadre de l’Offre « Famille », le Master, utilisateur principal de l’Abonnement, est seul redevable des sommes dues par la souscription de l’Abonnement. Lors de la souscription, le Master règle la totalité du prix de l’Abonnement « Famille », soit au mois, soit à l’année selon la périodicité choisie au moyen d’un mode de paiement tel que décrit en Article 3.5.
+
+Le Master est seul habilité à gérer le renouvellement ou la résiliation depuis son compte. L’Offre « Famille » est tacitement reconduite pour des périodes successives identiques à la durée initiale et facturée à la date anniversaire correspondante, dans la devise et au tarif en vigueur au jour de la reconduction, sauf résiliation préalable opérée par le Master depuis son espace personnel au plus tard quarante-huit (48) heures avant l’échéance.
+
+#### 3.3.3 Impayés et Résiliation
+
+Toute défaillance de paiement entraîne la suspension immédiate de l’accès Premium pour le Master et pour l’ensemble des Membres Invités.
+
+La résiliation par le Master ou la conversion vers une autre offre produit ses effets à la prochaine échéance de facturation. À cette date, les Membres Invités perdent alors leur statut Premium, sauf s’ils ont souscrit leur propre formule payante ou activé une carte cadeau.
+
+#### 3.3.4 Migration depuis un Abonnement existant
+
+Un Abonné ayant souscrit sur le Site peut convertir son Abonnement en abonnement « Famille » à tout moment depuis son espace client disponible dans les paramètres, la nouvelle tarification s’appliquant immédiatement.
+
+Toutefois, les Abonnements contractés via le Play Store ou l’App Store doivent, préalablement à la migration, être résiliés dans le store concerné, et l’Abonné pourra alors souscrire à l’Offre « Famille » à l’expiration de sa période d’Abonnement en cours.
+
+### 3.4 Carte cadeau
 
 FEELVERYBIEN propose également un accès aux Services via l'achat de cartes cadeaux, uniquement à travers la rubrique dédiée du Site.
 
@@ -79,7 +130,7 @@ Aucun remboursement ne sera accordé après l'activation du code figurant sur la
 
 Les cartes cadeaux ne sont valides que pour une durée de douze (12) mois à compter de leur date d’émission.
 
-### 3.3 Tarifs et modes de paiement
+### 3.5 Tarifs et modes de paiement
 
 Les tarifs, indiqués en euros, sont accessibles sur les Supports, et s’entendent toutes taxes comprises (TTC). Ils ne comprennent pas les coûts liés à l’équipement et aux communications électroniques, nécessaires à la souscription et à l’utilisation des Services, lesdits coûts restant à charge de l’Abonné.
 
@@ -107,11 +158,11 @@ Le paiement sur le Site peut également se faire par virement bancaire (disponib
 
 Tout retard de paiement à date échue ou à celle éventuellement acceptée par FEELVERYBIEN peut entraîner, à la seule discrétion de cette dernière, la facturation d’une indemnité forfaitaire de quarante (40) euros, majorée des intérêts de retard égal à 3 fois le taux d’intérêt légal par jour de retard.
 
-### 3.4 Intuitu personae
+### 3.6 Intuitu personae
 
 L’Abonnement est conclu intuitu personae pour une utilisation exclusivement destinée à l’Abonné. L’Abonné s’interdit de céder, partiellement ou totalement, l’Abonnement et/ou tout droit et obligation qui en découlent à un tiers par quelque moyen que ce soit, à titre onéreux ou gratuit, ou par apport en fonds de commerce.
 
-### 3.5 Service relation client
+### 3.7 Service relation client
 
 Pour tout suivi d’Abonnement ou toute autre question, le service client est joignable à l’adresse e-mail suivante : [onestlapourvous@petitbambou.com](mailto:onestlapourvouspetitbambou.com).
 
@@ -245,4 +296,4 @@ Il est également rappelé qu’en cas de litige, l’Abonné peut recourir à l
 
 Étant présent dans plusieurs pays, FEELVERYBIEN traduit les Conditions Générales en plusieurs langues (anglaise, espagnole, allemande, italienne et néerlandaise), de ce fait, seule la rédaction en langue française prévaut en cas de contradiction ou interprétation nécessaire.
 
-**Dernière mise à jour : le 14/01/2025.**
+**Dernière mise à jour : le 01/08/2025.**
