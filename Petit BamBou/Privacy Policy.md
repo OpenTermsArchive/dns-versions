@@ -27,7 +27,8 @@ Vos données à caractère personnel peuvent être collectées ou traitées, en 
 * L’inscription à une Infolettre ;
 * Le contact du support client ;
 * L’usage des Services, tels que définis dans les Conditions Générales de Vente des Supports ;
-* La navigation.
+* La navigation ;
+* L'analyse de votre activité et de vos interactions avec les fonctionnalités proposées sur les Supports.
 
 5\. QUELLES CATÉGORIES DE DONNÉES DE DONNÉES TRAITONS-NOUS ?
 ------------------------------------------------------------
@@ -38,7 +39,7 @@ Les catégories de données personnelles concernées par ces traitements corresp
 * Données de contact (adresse e-mail, adresse postale, numéro de téléphone) ;
 * Données de connexion (ID, adresse IP, localisation géographique, type et modèle d’appareil, système d’exploitation) ;
 * Données de transaction (quatre derniers numéro de carte bancaire) ;
-* Autres dont programmes écoutés et/ou téléchargés, et temps passé à méditer.
+* Données d'usage (programmes écoutés et/ou téléchargés, temps passé à méditer, parcours, clics, interactions avec le catalogue, le player, le compte, etc..
 
 Le choix d’une authentification via Apple permet à FEELVERYBIEN de collecter une adresse e-mail (soit la vôtre, soit un Apple Relay) et un ID. À l’instar, le choix d’une authentification via Facebook permet à FEELVERYBIEN de collecter une adresse e-mail, un ID ainsi qu’un login status.
 
@@ -118,6 +119,8 @@ Aucune donnée à caractère personnel n’est collectée via les cookies. Si to
 
 En ce qui concerne les traceurs de mesures d’audience, qui sont exemptés du recueil du consentement de l’Utilisateur, les informations collectées grâce à ces traceurs pourront être conservées pendant une durée maximale de 25 mois.
 
+La gestion du consentement relatif aux traceurs utilisés dans le cadre de notre mesure d’audience et d’usages est assurée via la plateforme Axeptio, qui permet à chaque Utilisateur de consentir librement, de manière éclairée et granulaire, à l’activation de ces cookies analytiques. Pour les autres types de cookies, le consentement est recueilli directement via des checkboxs et toggle switchs intégrés à l’interface du Site ou de l’Application, en fonction de la finalité du cookie concerné. L’Utilisateur peut, à tout moment, modifier ses préférences via l’icône Axeptio disponible en permanence dans le pied de page du Site, ou dans la section « Mes cookies » accessible dans les paramètres de l’Application.
+
 **Pour le Site.** Des cookies dits « cookies techniques » sont déposés sur le Site, c’est-à-dire strictement nécessaires au bon fonctionnement du Site. Ils sont essentiels pour l’utilisation des fonctionnalités et des services proposés sur le Site.
 
 Vous avez la possibilité de consulter la section d’aide de votre navigateur pour savoir de quelle manière il vous permet de choisir les cookies acceptés ou refusés. Cela signifie que l'enregistrement d'un cookie sur votre appareil dépend principalement de vos préférences, que vous pouvez définir et modifier à tout moment, gratuitement, via les options proposées par votre navigateur.
@@ -152,4 +155,4 @@ La version applicable de la présente Politique est celle disponible sur les Sup
 
 En cas de modification, la nouvelle version Politique de confidentialité sera notifiée à l’Utilisateur au moment de sa nouvelle connexion à son espace personnel.
 
-**Dernière mise à jour : le 01/10/2024**
+**Dernière mise à jour : le 01/08/2025**
