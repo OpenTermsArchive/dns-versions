@@ -4,7 +4,7 @@ Patients
 
 
 
-Version : Avril 2025
+Version : Août 2025
 
 
 
@@ -594,11 +594,17 @@ de prévention, etc..
 
 
 
-Intérêt légitime : pour les
+Pour les questionnaires
 
-questionnaires de
+de satisfaction : intérêt
 
-satisfaction
+légitime de Doctolib de
+
+connaître et d’analyser
+
+l'avis des utilisateurs sur
+
+les services.
 
 
 
@@ -830,13 +836,19 @@ Intérêt légitime de
 
 Doctolib SAS agissant en
 
-Responsable de
+qualité de Responsable
 
-traitement lorsqu’aucune
+de traitement d’
 
-Donnée de santé n’est
+améliorer les services et
 
-utilisée
+produire des statistiques
+
+sur les services
+
+(lorsqu’aucune Donnée
+
+de santé n’est utilisée)
 
 
 
@@ -1252,7 +1264,15 @@ pour la navigation,
 
 
 
-Intérêt légitime
+Intérêt légitime de
+
+Doctolib d’assurer la
+
+sécurité des services
+
+Doctolib et prévenir les
+
+incidents de sécurité.
 
 
 
@@ -1550,7 +1570,13 @@ personnalisés
 
 
 
-\- Intérêt légitime : si la
+\- Intérêt légitime de
+
+Doctolib de promouvoir
+
+ses produits et services
+
+similaires : si la
 
 communication
 
@@ -1573,14 +1599,6 @@ services non similaires
 aux Services
 
 Personnalisés.
-
-
-
-Pour les Patients n’ayant
-
-pas activé les Services
-
-Personnalisés
 
 
 
@@ -1651,6 +1669,14 @@ Combien de temps les
 Données personnelles
 
 sont-elles conservées ?
+
+
+
+Pour les Patients n’ayant
+
+pas activé les Services
+
+Personnalisés
 
 
 
@@ -1772,7 +1798,13 @@ Proches dans le compte
 
 
 
-Intérêt légitime
+Intérêt légitime de
+
+Doctolib d’informer les
+
+utilisateurs sur des
+
+sujets de santé publique
 
 
 
@@ -1852,14 +1884,6 @@ acteurs extérieurs
 
 
 
-\- Fourniture et envoi de
-
-contenu informatif sur les
-
-questions de santé publique
-
-
-
 Selon le canal de communication
 
 :
@@ -1868,39 +1892,17 @@ Selon le canal de communication
 
 \- Sexe,
 
-\- Âge (date de naissance),
-
-\- code postal,
-
-\- Adresse IP tronquée,
 
 
+Intérêt légitime de
 
-Intérêt légitime :
+Doctolib d’envoyer des
 
-Communications
+communications via
 
-envoyées par
-
-notifications in-app
-
-
-
-Consentement :
-
-
+notifications dans
 
 Au plus tôt entre :
-
-
-
-En fonction du cas, retrait
-
-du consentement ou
-
-jusqu’à opposition de
-
-l’Utilisateur
 
 Pourquoi les Données
 
@@ -1931,6 +1933,12 @@ Données personnelles
 sont-elles conservées ?
 
 
+
+\- Fourniture et envoi de
+
+contenu informatif sur les
+
+questions de santé publique
 
 en collaboration avec des
 
@@ -1978,6 +1986,12 @@ contenus sur la Plateforme,
 
 
 
+\- Âge (date de naissance),
+
+\- code postal,
+
+\- Adresse IP tronquée,
+
 \- Date de création/modification
 
 du compte,
@@ -2012,6 +2026,20 @@ l’Application
 
 
 
+l’application :
+
+Communications
+
+envoyées par
+
+notifications in-app
+
+
+
+Consentement :
+
+
+
 \- Communications
 
 envoyées par mail et par
@@ -2031,6 +2059,16 @@ dans “Gestion des
 cookies” dans la
 
 Plateforme)
+
+
+
+En fonction du cas, retrait
+
+du consentement ou
+
+jusqu’à opposition de
+
+l’Utilisateur
 
 
 
@@ -2112,22 +2150,6 @@ des praticiens favoris, Profil
 
 médical de l’Utilisateur
 
-(historique médical,
-
-chirurgical et vaccinal, etc.)
-
-
-
-\- Gestion des Documents,
-
-Prescriptions et informations
-
-relatives à la santé des
-
-Utilisateurs et ceux de leurs
-
-Proches, fournies par les
-
 
 
 Pour chaque Utilisateur, et le cas
@@ -2153,16 +2175,6 @@ de téléphone,
 - Historique de
 
 rendez-vous y compris :
-
-motif de consultation,
-
-spécialité de l’Acteur de
-
-santé, date, lieu du
-
-rendez-vous, statut du
-
-rendez-vous (passé,
 
 
 
@@ -2196,14 +2208,6 @@ varier d’un Professionnel
 
 de santé à un autre. Les
 
-données sont conservées
-
-pour une durée définie,
-
-en accord avec Doctolib,
-
-par le Professionnel de
-
 Pourquoi les Données
 
 personnelles sont-elles
@@ -2233,6 +2237,22 @@ Données personnelles
 sont-elles conservées ?
 
 
+
+(historique médical,
+
+chirurgical et vaccinal, etc.)
+
+
+
+\- Gestion des Documents,
+
+Prescriptions et informations
+
+relatives à la santé des
+
+Utilisateurs et ceux de leurs
+
+Proches, fournies par les
 
 Utilisateurs ou leur équipe
 
@@ -2286,6 +2306,16 @@ créés par l’Utilisateur
 
 
 
+motif de consultation,
+
+spécialité de l’Acteur de
+
+santé, date, lieu du
+
+rendez-vous, statut du
+
+rendez-vous (passé,
+
 annulé, confirmé), détails
 
 et documents associés
@@ -2337,6 +2367,14 @@ Médicales créées par
 l’Utilisateur.
 
 
+
+données sont conservées
+
+pour une durée définie,
+
+en accord avec Doctolib,
+
+par le Professionnel de
 
 santé dans son agenda
 
@@ -2426,14 +2464,6 @@ la suppression ou la
 
 fermeture du Compte
 
-Utilisateur, Doctolib
-
-conserve les Documents
-
-et informations liées au
-
-Compte Utilisateur en
-
 Pourquoi les Données
 
 personnelles sont-elles
@@ -2463,6 +2493,14 @@ Données personnelles
 sont-elles conservées ?
 
 
+
+Utilisateur, Doctolib
+
+conserve les Documents
+
+et informations liées au
+
+Compte Utilisateur en
 
 base d’archive pour une
 
@@ -2530,7 +2568,11 @@ Vos Données personnelles sont conservées, dans certains cas pour une période 
 
 
 
-7\. QUE FAIT DOCTOLIB DE VOS DONNÉESPERSONNELLES QUAND ELLE AGIT COMMESOUS-TRAITANT POUR LE COMPTE DESPROFESSIONNELS DE SANTÉ?
+7\. QUE FAIT DOCTOLIB DE VOS DONNÉESPERSONNELLES QUAND ELLE AGIT COMME
+
+SOUS-TRAITANT POUR LE COMPTE DESPROFESSIONNELS DE SANTÉ?
+
+
 
 Dans cette section, Doctolib présente les principaux traitements pour lesquels le Professionnelde santé décide des raisons et de la façon dont vos Données personnelles sont utilisées. Dans cecas, Doctolib agit comme Sous-traitant, pour le compte du Professionnel de santé.
 
@@ -2648,12 +2690,6 @@ Service qui permet à l’Utilisateur
 
 
 
-\- d’envoyer une demande au Professionnel de santé si ce
-
-dernier le permet
-
-
-
 \- Sexe, Nom, Prénom
 
 \- Date de naissance
@@ -2664,13 +2700,13 @@ dernier le permet
 
 \- Numéro de téléphone
 
-\- Objet de la demande envoyée au Professionnel santé,
-
-spécialité du Professionnel de santé, date de la demande,
-
-fréquence de la demande,
-
 Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
+
+
+
+\- d’envoyer une demande au Professionnel de santé si ce
+
+dernier le permet
 
 
 
@@ -2687,6 +2723,12 @@ et tout Document partagé par le Professionnel de santé en
 rapport avec la demande envoyée/le message reçu.
 
 
+
+\- Objet de la demande envoyée au Professionnel santé,
+
+spécialité du Professionnel de santé, date de la demande,
+
+fréquence de la demande,
 
 \- Statut de la demande (en cours de traitement, brouillon et
 
@@ -2780,6 +2822,8 @@ nécessaires au diagnostic et aux soins ;
 
 \- Enregistrements vocaux;
 
+Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
+
 
 
 \- Données de paiement : genre, nom de famille, prénom,
@@ -2787,10 +2831,6 @@ nécessaires au diagnostic et aux soins ;
 adresse, identifiant patient, identifiant de la transaction,
 
 code postal, date de la création du compte Utilisateur,
-
-Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
-
-
 
 coordonnées bancaires, date et heure de la transaction,
 
@@ -2886,17 +2926,19 @@ soins, traitements prescrits et tout élément de nature à
 
 caractériser la santé du Patient et/ou de ses Proches.
 
+Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
+
 
 
 Fourniture d’un Service de Messagerie
+
+
 
 \- Données d’identification ;
 
 
 
 \- Données de contact ;
-
-Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
 
 
 
@@ -3016,11 +3058,13 @@ Fourniture d’un Service de pré-admission
 
 \- Données de biométrie et biologie ;
 
+Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
+
+
+
 \- Données relatives à l’équipe soignante ;
 
 \- Données contenues dans les documents transmis.
-
-Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
 
 
 
@@ -3160,21 +3204,21 @@ Gestion de l’agenda et de la prise en charge des Patients en
 
 cas de crise sanitaire
 
-Mise en place d’une organisation adaptée du cabinet ou de
-
-l’établissement de santé en cas de crise sanitaire
-
-
-
 \- Sexe, nom, Prénom, Informations relatives au
 
 rendez-vous
 
+Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
+
+
+
+Mise en place d’une organisation adaptée du cabinet ou de
+
+l’établissement de santé en cas de crise sanitaire
+
 \- Question sur les symptômes ou l’état de santé du Patient
 
 préalablement à la prise de rendez-vous
-
-Pourquoi les Données personnelles sont-elles utilisées ? Quelles sont les Données personnelles utilisées ?
 
 
 
@@ -3230,7 +3274,11 @@ L’ENSEMBLE DES DONNÉES DE SANTÉ SONT HÉBERGÉES AU SEIN DE L’UNION EUROP�
 
 
 
-Transfert transfrontalier : Afin de fournir ses Services, Doctolib peut avoir recours à desprestataires se situant hors de l’Union européenne. Si le transfert a lieu vers un pays tiers danslequel la législation n'a pas été reconnue comme offrant un niveau de protection adéquat desDonnées personnelles Doctolib veille à ce que les mesures nécessaires soient mises en placeconformément à la Loi Informatique et Libertés et aux articles 46, paragraphes 2 et 3 du ainsiqu’à l’article 49 paragraphe 1 du RGPD, et notamment, lorsque nécessaire à ce que des clausescontractuelles types de l’Union européenne ou des clauses ad hoc équivalentes soient intégréesdans le contrat conclu entre Doctolib et ses prestataires.
+Transfert transfrontalier : Afin de fournir ses Services, Doctolib peut avoir recours à desprestataires se situant hors de l’Union européenne. Si le transfert a lieu vers un pays tiers danslequel la législation n'a pas été reconnue comme offrant un niveau de protection adéquat desDonnées personnelles Doctolib veille à ce que les mesures nécessaires soient mises en placeconformément à la Loi Informatique et Libertés et aux articles 46, paragraphes 2 et 3 du ainsiqu’à l’article 49 paragraphe 1 du RGPD, et notamment, lorsque nécessaire à ce que des clauses
+
+contractuelles types de l’Union européenne ou des clauses ad hoc équivalentes soient intégréesdans le contrat conclu entre Doctolib et ses prestataires.
+
+
 
 Autres destinataires: Afin de satisfaire ses obligations légales, Doctolib peut transmettre desDonnées personnelles à des autorités publiques ou judiciaires.
 
@@ -3284,9 +3332,9 @@ notamment de la CNIL (https://www.cnil.fr/fr/plaintes).
 
 Pour plus d’information sur vos droits, vous pouvez consulter le site de la CNIL ici
 
-
-
 2\. Comment exercer vos droits
+
+
 
 2.1. Pour toutes les demandes concernant des Données personnelles pour lesquelles Doctolibagit en tant que Responsable de traitement :
 
@@ -3332,11 +3380,7 @@ Chaque Professionnel de santé qui reçoit des Données personnelles en lien ave
 
 11\. ET CONCERNANT LES COOKIES?
 
-
-
-Lorsque vous naviguez sur la Plateforme ou utilisez les Services, Doctolib dépose des cookiessur vos appareils (ordinateurs, smartphone, tablette, etc...) avec ou sans votre consentement
-
-selon la finalité des cookies. Les informations relatives aux cookies et aux modalités de refus des
+Lorsque vous naviguez sur la Plateforme ou utilisez les Services, Doctolib dépose des cookiessur vos appareils (ordinateurs, smartphone, tablette, etc...) avec ou sans votre consentementselon la finalité des cookies. Les informations relatives aux cookies et aux modalités de refus des
 
 cookies sont précisées dans la Politique en matière de cookies.
 
@@ -3382,9 +3426,9 @@ Tout accès et utilisation des Services Doctolib passé ce délai seront soumis 
 
 Vous êtes informé que l’unique version de la Politique qui fait foi est celle qui se trouve en ligne,ce que vous reconnaissez.
 
-
-
 Vous êtes tenus de vous référer à la version en ligne de la Politique à la date de votre accès et dechaque utilisation des Services.
+
+
 
 14. COMMENT CONTACTER DOCTOLIB POUR DESQUESTIONS LIÉES AU DONNÉES PERSONNELLES?
 
