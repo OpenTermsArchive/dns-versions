@@ -55,7 +55,11 @@ _IX. POLITIQUE DE PROTECTION DES DONNÉES PERSONNELLES DES UTILISATEURS DE LA FO
 
 Des dispositions spécifiques relatives à la collecte et à l’utilisation des Données personnelles vous concernant s'appliquent lorsque vous utilisez la fonctionnalité Cardio Check-up.
 
-_X. CONDITIONS GÉNÉRALES_ Les présentes Conditions Générales d'Utilisation sont soumises aux Conditions Générales.
+_X. POLITIQUE D'UTILISATION PAR DES TIERS DES SIGNES DISTINCTIFS (Y COMPRIS LES MARQUES COMMERCIALES) DE WITHINGS_
+
+Les signes distinctifs de Withings font partie de nos actifs les plus précieux. Ils représentent la marque Withings et doivent être utilisés par nos partenaires conformément à la politique suivante (ci-après dénommée « la politique »).
+
+_XI. CONDITIONS GÉNÉRALES_ Les présentes Conditions Générales d'Utilisation sont soumises aux Conditions Générales.
 
 ### I. QUELQUES NOTIONS CLES
 
@@ -234,6 +238,11 @@ _B) COMMUNICATION ET SUPPORT_
 * BASE LÉGALE : Obligation légale
 * DURÉE DE CONSERVATION : 15 ans à compter du signalement
 
+**9\. Anonymisation de vos interactions sur l’application mobile et les produits Withings afin d’améliorer votre expérience**
+
+* DONNEES TRAITEES : Interactions réalisées sur l’application mobile et les produits (prise d’une mesure, utilisation d’une fonctionnalité…)
+* BASE LÉGALE : Intérêt légitime
+
 _C) SÉCURITÉ ET EXERCICE DE VOS DROITS_
 
 **1\. Activation de la double authentification (2FA)**
@@ -343,7 +352,7 @@ _a. Applicabilité aux Utilisateurs patients._ Nous collectons et utilisons les 
 
 _b. Conditions générales d'utilisation des Utilisateurs patients._ La présente Politique de confidentialité des patients fait partie des Conditions d'utilisation des Utilisateurs patients de WITHINGS disponibles [ici](https://www./fr/fr/legal/sales-conditions). En accédant ou en utilisant nos Services pour Utilisateurs patients, vous reconnaissez avoir lu et accepté les Conditions d'utilisation applicables. Si vous n'êtes pas d'accord, vous devez cesser d'utiliser nos Services aux patients. Nous vous informerons de toute modification importante de notre Politique de confidentialité des patients.
 
-\*\*8.2. DROITS DES UTILISATEURS PATIENTS.\*\* Certaines informations sont envoyées par votre professionnel de santé et ne sont donc pas directement sous notre contrôle. Les questions ou préoccupations concernant votre dossier médical ou les Données personnelles qui nous sont fournies par votre professionnel de santé doivent être adressées à ce dernier. Ces informations ne sont pas sous le contrôle direct de WITHINGS.
+**8.2. DROITS DES UTILISATEURS PATIENTS.** Certaines informations sont envoyées par votre professionnel de santé et ne sont donc pas directement sous notre contrôle. Les questions ou préoccupations concernant votre dossier médical ou les Données personnelles qui nous sont fournies par votre professionnel de santé doivent être adressées à ce dernier. Ces informations ne sont pas sous le contrôle direct de WITHINGS.
 
 ### IX. POLITIQUE DE PROTECTION DES DONNÉES PERSONNELLES DES UTILISATEURS DE LA FONCTIONNALITÉ CARDIO CHECK-UP
 
@@ -359,16 +368,90 @@ Ce traitement de Données personnelles est nécessaire pour les finalités décr
 
 **9.3. L’envoi de communications marketing de la part de nos partenaires** DONNEES TRAITEES : adresse email BASE LÉGALE : consentement
 
-### X. CONDITIONS GENERALES
+### X. POLITIQUE D'UTILISATION PAR DES TIERS DES SIGNES DISTINCTIFS (Y COMPRIS LES MARQUES COMMERCIALES) DE WITHINGS
+
+Les signes distinctifs de Withings (c'est-à-dire les signes distinctifs de Withings protégés tels que les marques commerciales ou marques de service enregistrées ou non enregistrées, les logos, slogans, accroches, identité visuelle, noms commerciaux, noms de domaine, etc.) font partie de nos actifs les plus précieux. Ils représentent la marque Withings et doivent être utilisés par nos partenaires conformément à la politique suivante (ci-après dénommée « la politique »).
+
+**10.1 Conditions générales**
+
+Toute utilisation des signes distinctifs de Withings nécessite l'autorisation écrite de Withings, définissant une utilisation autorisée (ci-après dénommée « licence »). La licence peut prendre la forme d'une clause de licence dans tout type d'accord ou d'un contrat de licence dédié.
+
+Dans certains cas, conformément aux lois locales applicables, les marques verbales peuvent être utilisées sans autorisation écrite afin de transmettre de manière loyale des informations sur Withings, l'entreprise, ses produits, ses services ou leur compatibilité, à condition que cette utilisation ne prête pas à confusion quant à la source ou à l'affiliation.
+
+Toutefois, vous ne pouvez pas utiliser les logos de Withings sans licence. En outre, vous ne pouvez pas utiliser les signes distinctifs de Withings dans des métadonnées, des champs de recherche, du texte caché ou toute autre forme ayant pour but ou pour effet de semer la confusion ou de détourner les consommateurs. Si vous disposez d'une licence de Withings, cette utilisation n'est pas incluse dans la licence, sauf indication contraire.
+
+En utilisant tout signe distinctif de Withings, vous reconnaissez que Withings est le seul propriétaire du signe distinctif et vous acceptez de ne pas porter atteinte aux droits de Withings sur les marques déposées, y compris en contestant l'utilisation, l'enregistrement ou la demande d'enregistrement de ces marques par Withings.
+
+**10.2 Applicabilité de la politique**
+
+La présente politique s'applique aux employés, clients, titulaires de licence, consultants, revendeurs agréés, fournisseurs externes, journalistes et autres tiers de Withings, y compris toute entité (personne physique ou morale) avec laquelle Withings a conclu ou conclut un accord.
+
+La politique est susceptible d'être mise à jour à tout moment sans préavis. Withings s'engage à conserver l'historique des versions de la politique sur son site web. La politique applicable est celle en vigueur au moment de l'entrée en vigueur de la licence.
+
+**10.3 Signes distinctifs de Withings**
+
+Une liste des signes distinctifs de Withings est disponible sur la page correspondante à l'adresse [https://www.withings.com/ip](https://www.withings.com/ip). Cette liste n'est pas exhaustive et sera mise à jour régulièrement.
+
+**10.4 Directives générales**
+
+Si vous disposez d'une licence, les directives générales suivantes doivent être respectées, sauf indication différente dans la licence.
+
+_a. Portée de l'utilisation autorisée par la licence_
+
+Sauf indication différente dans la licence, l'utilisation autorisée par la licence ne peut s'étendre au-delà de la portée généralement définie par l'accord qui comprend la clause de licence ou par l'accord en relation avec lequel un accord de licence dédié a été signé. Par exemple, un accord de recherche impliquant Withings sur un capteur n'autorise pas le partenaire à utiliser les signes distinctifs de Withings dans le cadre d'une collaboration commerciale ou à utiliser des métadonnées utilisant « Withings » pour diriger les demandes des clients sur les moteurs de recherche vers le site web du partenaire.
+
+Sauf indication différente dans la licence, l'utilisation autorisée par la licence ne peut ni montrer ni suggérer une relation ou une affiliation avec Withings qui n'existe pas.
+
+Sauf indication différente dans la licence, l'utilisation de tout signe distinctif de Withings sur le matériel d'un licencié ne doit pas être interprétée comme signifiant que ce matériel est approuvé ou approuvé par Withings.
+
+_b. Utilisation des signes distinctifs de Withings_
+
+Les signes distinctifs de Withings doivent être conformes à l'usage généralement fait par Withings (par exemple : forme, couleurs, etc. des signes distinctifs).
+
+Le ou les signes distinctifs de Withings, et en particulier toute marque déposée de Withings, doivent être utilisés comme adjectifs, accompagnés d'un nom générique approprié qui définit le produit ou le service concerné (par exemple : « Les balances Withings® sont des produits élégants ») et jamais comme nom (par exemple : « Withings® est un produit durable »). Cela ne s'applique pas aux slogans ou aux accroches publicitaires.
+
+Les signes distinctifs de Withings ne peuvent être modifiés de quelque manière que ce soit (formes plurielles ou possessives, combinaison avec d'autres éléments dans un mot composé ou avec un trait d'union, etc.).
+
+Le cas échéant, le symbole de marque approprié (®, ™ ou SM, selon le cas) doit être utilisé, de préférence en exposant pour le symbole de marque.
+
+Tout support intégrant le(s) signe(s) distinctif(s) de Withings doit être de qualité suffisante et refléter positivement la marque Withings.
+
+Le(s) signe(s) distinctif(s) de Withings ne doit (doivent) pas être utilisé(s) de manière dénigrante.
+
+_c. Reconnaissance des signes distinctifs de Withings_
+
+Pour les marques déposées, une mention de propriété identifiant chaque marque Withings reproduite comme étant la propriété de Withings SAS (par exemple : « Withings ® et le logo de l'application Withings sont des marques commerciales de Withings SAS ») doit être incluse.
+
+_d. Withings en tant que marque ou nom commercial_
+
+« Withings » est parfois utilisé comme marque commerciale pour identifier la marque et les produits, et parfois comme nom commercial, notamment pour la société mère Withings SAS ou ses filiales telles que Withings Inc.
+
+Lorsque Withings est utilisé comme marque, le symbole « ® » doit être ajouté après « Withings » (par exemple : Withings®).
+
+Lorsque Withings est utilisé comme nom commercial, le symbole de marque après « Withings » n'a pas besoin d'être ajouté.
+
+Withings s'écrit sans majuscule. « WITHINGS » en majuscules est un logo.
+
+**10.5 Respect des droits par Withings**
+
+Withings surveille de près l'utilisation de ses signes distinctifs. En cas de violation de cette politique, Withings pourra demander la cessation de l'utilisation non autorisée de son ou ses signes distinctifs et, le cas échéant, résilier le contrat conclu avec Withings.
+
+Dans tous les cas, Withings pourra engager des poursuites judiciaires afin de protéger sa propriété intellectuelle et ses signes distinctifs protégés.
+
+**10.6 Contact**
+
+Pour toute question ou demande de licences, veuillez contacter ip@withings.com ou legal@withings.com. Une fois la licence approuvée, Withings vous enverra les fichiers de logo appropriés pour votre usage.
+
+### XI. CONDITIONS GENERALES
 
 La présente Politique de confidentialité est soumise aux [Conditions Générales](https://www.withings.com/fr/fr/legal/general-conditions)
 
   
 
-Reference: privacy-policy/20250626
+Reference: privacy-policy/20250804
 
 * * *
 
-Updated on 26 Jun 2025.
+Updated on 04 Aug 2025.
 
-Versions: [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
+Versions: [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [01 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250801) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
