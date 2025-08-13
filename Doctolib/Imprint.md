@@ -58,7 +58,7 @@ Conformément à l’article 11 du Règlement (UE) 2022/2065 du Parlement europ�
 
 
 
-Version Mars 2025
+Version Août 2025
 
 Doctolib SAS – 54 quai Charles Pasqua 92300 Levallois Perret – RCS : 794 598 813
 
@@ -100,7 +100,7 @@ Doctolib a calculé les destinataires actifs mensuels moyens de son service en s
 
 
 
-Pour la période du 1er août 2024 au 1er février 2025, le nombre moyen de destinataires actifsmensuels de la plateforme Doctolib.fr était inférieur au seuil de 45 millions.
+Pour la période du 1er février 2025 au 31 juillet 2025, le nombre moyen de destinataires actifsmensuels de la plateforme Doctolib.fr était inférieur au seuil de 45 millions.
 
 
 
@@ -116,6 +116,6 @@ Conformément au DSA, le rapport annuel de transparence pour l'année 2024 est d
 
 
 
-Version Mars 2025
+Version Août 2025
 
 Doctolib SAS – 54 quai Charles Pasqua 92300 Levallois Perret – RCS : 794 598 813
