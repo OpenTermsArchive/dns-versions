@@ -455,8 +455,8 @@ Nous utilisons des cookies. Vous pouvez consulter notre politique relative aux c
 Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@livi.fr](mailto:privacy@kry.se "privacy@livifr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
   
 Digital Medical Supply France  
-52, rue de la Verrerie  
-75004 PARIS
+33 rue du Louvre  
+75002 PARIS
 
 13) Modifications
 -----------------
