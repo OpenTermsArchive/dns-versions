@@ -1,6 +1,9 @@
 Mentions légales
 ================
 
+Mentions légales
+================
+
 Le présent site et l’application qu’il désigne sont exploités par la société Kelindi, SAS au capital de 16 601,21 € immatriculée sous le numéro 881 771 513 au RCS de Lille Métropole dont le siège social est situé au 150 avenue de l’espace, 59118 Wambrechies, en France. Le **Directeur de Publication** du site est le Président de Kelindi SAS, que vous pouvez contacter par email à [\[email protected\]](https://heloa.app/cdn-cgi/l/email-protection) . Pour toute question, n’hésitez pas à vous rendre sur [notre centre de contact](https://heloa.app/contacts/). Ce site web a été réalisé par la SAS Kelindi. L’hébergement du site heloa.app est opéré par la société Kelindi SAS, avec des ressources techniques fournies par :
 
 * Scalingo SAS, située 15 avenue du Rhin, F-67100 Strasbourg
