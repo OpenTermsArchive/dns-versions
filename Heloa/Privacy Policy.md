@@ -1,6 +1,9 @@
 Politique de confidentialité
 ============================
 
+Politique de confidentialité
+============================
+
 ‍‍_En vigueur au 13 décembre 2024_
 
 * Le 13 décembre 2024, nous avons changé d’hébergeur pour le site internet
