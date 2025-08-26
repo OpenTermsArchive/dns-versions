@@ -1,6 +1,9 @@
 Conditions générales d’utilisation
 ==================================
 
+Conditions générales d’utilisation
+==================================
+
 _Mises à jour le 6 juillet 2021._ Les présentes conditions générales d’utilisation (dites « **CGU** ») ont pour objet l’encadrement juridique des modalités de mise à disposition de l’application et des services par _KELINDI SAS_ et de définir les conditions d’accès et d’utilisation des services par « l’Utilisateur » de Heloa.Les présentes CGU sont accessibles sur l’application à la rubrique «**CGU**». Toute utilisation de l’application implique l’acceptation sans aucune réserve ni restriction des présentes CGU par l’Utilisateur. Lors du premier accès sur l’application, chaque Utilisateur accepte expressément les présentes CGU. En cas de non-acceptation des CGU stipulées dans le présent contrat, l’Utilisateur se doit de renoncer à l’accès aux services proposés par l’application. KELINDI SAS se réserve le droit de modifier unilatéralement et à tout moment le contenu des présentes CGU.
 
 ARTICLE 1 : Entités légale
