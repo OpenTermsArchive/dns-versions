@@ -92,7 +92,7 @@ Pour toute question relative à l’éligibilité ou au processus de validation 
 L’Offre « Famille » constitue un abonnement distinct, proposé aux mêmes conditions de qualité et de service que l’abonnement « Solo », mais assorti de la faculté de pouvoir inviter jusqu’à trois (3) personnes de son choix. Accessible aux liens détaillés en Article 3.1, l’Offre « Famille » est commercialisée sous deux options :
 
 * Une formule annuelle accessible dans tous les pays où les Services sont distribués ;
-* Une formule mensuelle disponible uniquement dans les États membres de l’Union européenne, à l’exception de l’Espagne, de l’Italie et des Pays-Bas.
+* Une formule mensuelle disponible dans tous les pays où les Services sont distribués.
 
 Est entendue par « Famille » la famille au sens large, ce qui inclut tant les proches du Master, qu’ils résident ou non sous le même toit, que sa famille « de cœur ».
 
