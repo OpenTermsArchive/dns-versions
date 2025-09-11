@@ -1,8 +1,3 @@
-Politique de confidentialité
-============================
-
-Version Juin 2025
-
 1) Introduction
 ---------------
 
