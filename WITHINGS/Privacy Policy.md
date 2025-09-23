@@ -111,19 +111,19 @@ Votre consentement est recueilli pour des traitements spécifiques. Vous pouvez 
 
 **3.1. LE RECUEIL DE VOTRE CONSENTEMENT.** Nous recueillons votre consentement pour le traitement des données pour :
 
-* 1. La création de votre compte Withings
-* 2. La participation à nos programmes de recherche ;
-* 3. Le partage de vos données à des applications partenaire tierces ;
-* 4. L’activation de la double authentification (2FA) ;
-* 5. Les communications marketing.
+*   1.  La création de votre compte Withings
+*   2.  La participation à nos programmes de recherche ;
+*   3.  Le partage de vos données à des applications partenaire tierces ;
+*   4.  L’activation de la double authentification (2FA) ;
+*   5.  Les communications marketing.
 
 **3.2. LE RETRAIT DE VOTRE CONSENTEMENT.** tout moment, vous pouvez retirer votre consentement. Pour cela, il vous suffit de :
 
-* 1. Supprimer votre compte ([ici](https://support.withings.com/hc/fr/articles/115010170567-Confidentialit%C3%A9-Comment-puis-je-supprimer-mon-compte-)) ;
-* 2. Décocher "Pôle de recherche" dans votre centre des notifications ([Android](https://support.withings.com/hc/fr/articles/360001399627) / [iOS](https://support.withings.com/hc/fr/articles/360001399187-Health-Mate-App-iOS-G%C3%A9rer-mes-notifications)) ;
-* 3. Supprimer la connexion avec les applications tierces ;
-* 4. Supprimer la double authentification dans les paramètres de votre compte ([Android](https://support.withings.com/hc/fr/articles/4409339333009) / [iOS](https://support.withings.com/hc/fr/articles/5281114453137)) ;
-* 5. Décocher “Offre promotionnelle” dans votre centre des notifications ([Android](https://support.withings.com/hc/fr/articles/360001399627) / [iOS](https://support.withings.com/hc/fr/articles/360001399187-Health-Mate-App-iOS-G%C3%A9rer-mes-notifications)).
+*   1.  Supprimer votre compte ([ici](https://support.withings.com/hc/fr/articles/115010170567-Confidentialit%C3%A9-Comment-puis-je-supprimer-mon-compte-)) ;
+*   2.  Décocher "Pôle de recherche" dans votre centre des notifications ([Android](https://support.withings.com/hc/fr/articles/360001399627) / [iOS](https://support.withings.com/hc/fr/articles/360001399187-Health-Mate-App-iOS-G%C3%A9rer-mes-notifications)) ;
+*   3.  Supprimer la connexion avec les applications tierces ;
+*   4.  Supprimer la double authentification dans les paramètres de votre compte ([Android](https://support.withings.com/hc/fr/articles/4409339333009) / [iOS](https://support.withings.com/hc/fr/articles/5281114453137)) ;
+*   5.  Décocher “Offre promotionnelle” dans votre centre des notifications ([Android](https://support.withings.com/hc/fr/articles/360001399627) / [iOS](https://support.withings.com/hc/fr/articles/360001399187-Health-Mate-App-iOS-G%C3%A9rer-mes-notifications)).
 
 ### IV. TRAITEMENT DES DONNÉES PERSONNELLES
 
@@ -133,154 +133,154 @@ Votre consentement est recueilli pour des traitements spécifiques. Vous pouvez 
 _A) UTILISATION DES PRODUITS ET SERVICES_  
 **1\. Achat et livraison de vos produits et services WITHINGS via notre site internet**
 
-* DONNEES TRAITEES : Nom / Prénom / Adresse mail / Adresse postale / Numéro de téléphone / Numéro de la carte bancaire / Adresse IP / Adresse MAC du produit acheté
-* BASE LÉGALE : Exécution du contrat (acceptation des [Conditions générales de Vente)](https://www.withings.com/fr/fr/legal/sales-conditions)
-* DURÉE DE CONSERVATION : WITHINGS doit conserver durant 10 ans les données de facturation pour des raisons légales. Lors de la souscription à un abonnement Withings+, les données bancaires peuvent être stockées auprès d’un partenaire afin de faciliter le renouvellement de votre abonnement.
+*   DONNEES TRAITEES : Nom / Prénom / Adresse mail / Adresse postale / Numéro de téléphone / Numéro de la carte bancaire / Adresse IP / Adresse MAC du produit acheté
+*   BASE LÉGALE : Exécution du contrat (acceptation des [Conditions générales de Vente)](https://www.withings.com/fr/fr/legal/sales-conditions)
+*   DURÉE DE CONSERVATION : WITHINGS doit conserver durant 10 ans les données de facturation pour des raisons légales. Lors de la souscription à un abonnement Withings+, les données bancaires peuvent être stockées auprès d’un partenaire afin de faciliter le renouvellement de votre abonnement.
 
 **2\. Création du compte Withings App**
 
-* DONNEES TRAITEES : Adresse mail / Date de naissance / Nom et Prénom / Mot de passe (optionnel) / Adresse IP / Adresse MAC / Image de profil (optionnel) / Taille / Poids
-* BASE LÉGALE : Exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
-* DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression de votre compte Withings App.
+*   DONNEES TRAITEES : Adresse mail / Date de naissance / Nom et Prénom / Mot de passe (optionnel) / Adresse IP / Adresse MAC / Image de profil (optionnel) / Taille / Poids
+*   BASE LÉGALE : Exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
+*   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression de votre compte Withings App.
 
 **3\. Présentation graphique des données vous concernant via Withings App**
 
-* DONNEES TRAITEES : Données physiologiques et techniques collectées lors de l’utilisation de nos Produits et Services. Pour plus de détails concernant les données de santé collectées par nos différents produits, veuillez vous référer à notre [Guide utilisateur](https://support.withings.com/hc/fr/articles/360015730074-Confidentialit%C3%A9-Guide-utilisateur).
-* BASE LÉGALE : Exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
-* DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression de votre compte Withings. Vous avez aussi la possibilité de supprimer certaines Données via l’application Withings App.
+*   DONNEES TRAITEES : Données physiologiques et techniques collectées lors de l’utilisation de nos Produits et Services. Pour plus de détails concernant les données de santé collectées par nos différents produits, veuillez vous référer à notre [Guide utilisateur](https://support.withings.com/hc/fr/articles/360015730074-Confidentialit%C3%A9-Guide-utilisateur).
+*   BASE LÉGALE : Exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
+*   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression de votre compte Withings. Vous avez aussi la possibilité de supprimer certaines Données via l’application Withings App.
 
 **4\. Partage facultatif des données personnelles avec des applications tierces**
 
-* DONNEES TRAITEES : Les données échangées varient en fonction du service utilisé.
-* BASE LÉGALE : Votre consentement au partage des Données personnelles vous concernant.
-* DURÉE DE CONSERVATION : Les données sont partagées jusqu’à la désactivation du partage ou la suppression du compte utilisateur.
+*   DONNEES TRAITEES : Les données échangées varient en fonction du service utilisé.
+*   BASE LÉGALE : Votre consentement au partage des Données personnelles vous concernant.
+*   DURÉE DE CONSERVATION : Les données sont partagées jusqu’à la désactivation du partage ou la suppression du compte utilisateur.
 
 **5\. Affichage du parcours effectué lors d’une activité via l’application Withings App**
 
-* DONNEES TRAITEES : Données de localisation dans le cadre d’une activité physique
-* BASE LÉGALE : Consentement
-* DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression du compte utilisateur.
+*   DONNEES TRAITEES : Données de localisation dans le cadre d’une activité physique
+*   BASE LÉGALE : Consentement
+*   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression du compte utilisateur.
 
 **6\. Programmes Withings+ et personnalisation de l’expérience utilisateur (service payant)**
 
-* DONNEES TRAITEES : Identifiant utilisateur / Objectif de poids / Masse musculaire / Masse graisseuse
-* BASE LÉGALE : Consentement
-* DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression du compte utilisateur.
+*   DONNEES TRAITEES : Identifiant utilisateur / Objectif de poids / Masse musculaire / Masse graisseuse
+*   BASE LÉGALE : Consentement
+*   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression du compte utilisateur.
 
 **7\. Affichage météo sur les balances**
 
-* DONNEES TRAITEES : Adresse IP / Emplacement géographique
-* BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions)
-* DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression du compte utilisateur.
+*   DONNEES TRAITEES : Adresse IP / Emplacement géographique
+*   BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions)
+*   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression du compte utilisateur.
 
 **8\. Activation de la fonctionnalité ECG sur ScanWatch (Applicable aux Etats-Unis uniquement)**
 
-* DONNEES TRAITEES : Nom / Prénom / Date de naissance / Numéro de téléphone / Adresse mail / Etat de résidence
-* BASE LÉGALE : Consentement
-* DURÉE DE CONSERVATION : Les données sont conservées 7 ans par le prestataire Heartbeat Health.
+*   DONNEES TRAITEES : Nom / Prénom / Date de naissance / Numéro de téléphone / Adresse mail / Etat de résidence
+*   BASE LÉGALE : Consentement
+*   DURÉE DE CONSERVATION : Les données sont conservées 7 ans par le prestataire Heartbeat Health.
 
 **9\. L’utilisation d’algorithmes d’intelligence artificielle pour vous permettre une expérience personnalisée (Applicable uniquement aux utilisateurs du service Withings+)**
 
-* DONNEES TRAITEES : Données liées à votre profil utilisateur tels que votre prénom, âge, taille, poids, sexe. Données physiologiques y compris vos données de santé. Ces données sont des données pseudonymisées de sorte qu’elles ne permettent pas vous de ré identifier directement.
-* BASE LÉGALE : Nécessaire à l’exécution du contrat acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions)
+*   DONNEES TRAITEES : Données liées à votre profil utilisateur tels que votre prénom, âge, taille, poids, sexe. Données physiologiques y compris vos données de santé. Ces données sont des données pseudonymisées de sorte qu’elles ne permettent pas vous de ré identifier directement.
+*   BASE LÉGALE : Nécessaire à l’exécution du contrat acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions)
 
 _B) COMMUNICATION ET SUPPORT_
 
 **1\. Création et gestion des groupes d’audience utilisateurs (segmentation)**
 
-* DONNEES TRAITEES : Adresse email, ID utilisateur, données relatives aux produits utilisés, vos interactions avec Withings
-* BASE LÉGALE : Intérêt légitime - Permettre d’adapter nos communications à vos intérêts et besoins pour vous offrir une expérience personnalisée
-* DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
+*   DONNEES TRAITEES : Adresse email, ID utilisateur, données relatives aux produits utilisés, vos interactions avec Withings
+*   BASE LÉGALE : Intérêt légitime - Permettre d’adapter nos communications à vos intérêts et besoins pour vous offrir une expérience personnalisée
+*   DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
 
 **2\. Envoi de communications marketing personnalisées (via email, notifications ou via des plateformes tierces)**
 
-* DONNEES TRAITEES : Adresse email, ID utilisateur, groupe d’audience
-* BASE LÉGALE :
-    * Personnes ayant réalisé un achat sur le site withings.com : Intérêt légitime (conformément à l’art. L34-5 du Code des postes et des communications électroniques) - Vous proposer des produits ou solutions en lien avec vos achats précédents
-    * Autres : consentement à l’envoi des communications marketing
-* DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
+*   DONNEES TRAITEES : Adresse email, ID utilisateur, groupe d’audience
+*   BASE LÉGALE :
+    *   Personnes ayant réalisé un achat sur le site withings.com : Intérêt légitime (conformément à l’art. L34-5 du Code des postes et des communications électroniques) - Vous proposer des produits ou solutions en lien avec vos achats précédents
+    *   Autres : consentement à l’envoi des communications marketing
+*   DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
 
 **3\. Envoi de communications concernant l’activation de nouvelles fonctionnalités (via emails ou notifications)**
 
-* DONNEES TRAITEES : Adresse email, ID utilisateur, groupe d’audience
-* BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des CGV/CGU)
-* DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
+*   DONNEES TRAITEES : Adresse email, ID utilisateur, groupe d’audience
+*   BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des CGV/CGU)
+*   DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
 
 **4\. Amélioration de la navigation sur le Site**
 
-* DONNEES TRAITEES : Données de connexion [(Politique sur les cookies)](https://www.withings.com/fr/fr/legal/cookies)
-* BASE LÉGALE : Consentement obtenu au moyen de la bannière cookies
-* DURÉE DE CONSERVATION : 3 mois
+*   DONNEES TRAITEES : Données de connexion [(Politique sur les cookies)](https://www.withings.com/fr/fr/legal/cookies)
+*   BASE LÉGALE : Consentement obtenu au moyen de la bannière cookies
+*   DURÉE DE CONSERVATION : 3 mois
 
 **5\. Support Client - Demandes faites via notre Help Center**
 
-* DONNEES TRAITEES : Adresse mail / Nom / Prénom / Contenu de la demande.
-* BASE LÉGALE :
-    * Personnes ayant réalisé un achat sur le site withings.com : Intérêt légitime (conformément à l’art. L34-5 du Code des postes et des communications électroniques) - Vous proposer des produits ou solutions en lien avec vos achats précédents
-    * Autres : consentement à l’envoi des communications marketing
-* DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
+*   DONNEES TRAITEES : Adresse mail / Nom / Prénom / Contenu de la demande.
+*   BASE LÉGALE :
+    *   Personnes ayant réalisé un achat sur le site withings.com : Intérêt légitime (conformément à l’art. L34-5 du Code des postes et des communications électroniques) - Vous proposer des produits ou solutions en lien avec vos achats précédents
+    *   Autres : consentement à l’envoi des communications marketing
+*   DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
 
 **6\. Support Client - Demandes faites via les comptes réseaux sociaux officiels de Withings**
 
-* DONNEES TRAITEES : Adresse mail / Nom / Prénom / Contenu de la demande.
-* BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des CGV/CGU)
-* DURÉE DE CONSERVATION : Les données associées au ticket sont conservées 10 ans ou à la suppression du compte utilisateur.
+*   DONNEES TRAITEES : Adresse mail / Nom / Prénom / Contenu de la demande.
+*   BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des CGV/CGU)
+*   DURÉE DE CONSERVATION : Les données associées au ticket sont conservées 10 ans ou à la suppression du compte utilisateur.
 
 **7\. Retour satisfaction sur Support client**
 
-* DONNEES TRAITEES : Adresse mail
-* BASE LÉGALE : Intérêt légitime
-* DURÉE DE CONSERVATION : Les données associées au ticket sont conservées 5 ans au maximum.
+*   DONNEES TRAITEES : Adresse mail
+*   BASE LÉGALE : Intérêt légitime
+*   DURÉE DE CONSERVATION : Les données associées au ticket sont conservées 5 ans au maximum.
 
 **8\. Matériovigilance des produits WITHINGS**
 
-* DONNEES TRAITEES : Nom / Prénom / Adresse mail / Adresse postale / Numéro de téléphone / Âge / Conséquence de l'événement indésirable pour l’utilisateur / Pathologies (dans le cadre d'événement indésirable survenu pendant une recherche clinique).
-* BASE LÉGALE : Obligation légale
-* DURÉE DE CONSERVATION : 15 ans à compter du signalement
+*   DONNEES TRAITEES : Nom / Prénom / Adresse mail / Adresse postale / Numéro de téléphone / Âge / Conséquence de l'événement indésirable pour l’utilisateur / Pathologies (dans le cadre d'événement indésirable survenu pendant une recherche clinique).
+*   BASE LÉGALE : Obligation légale
+*   DURÉE DE CONSERVATION : 15 ans à compter du signalement
 
 **9\. Anonymisation de vos interactions sur l’application mobile et les produits Withings afin d’améliorer votre expérience**
 
-* DONNEES TRAITEES : Interactions réalisées sur l’application mobile et les produits (prise d’une mesure, utilisation d’une fonctionnalité…)
-* BASE LÉGALE : Intérêt légitime
+*   DONNEES TRAITEES : Interactions réalisées sur l’application mobile et les produits (prise d’une mesure, utilisation d’une fonctionnalité…)
+*   BASE LÉGALE : Intérêt légitime
 
 _C) SÉCURITÉ ET EXERCICE DE VOS DROITS_
 
 **1\. Activation de la double authentification (2FA)**
 
-* DONNEES TRAITEES : Numéro de téléphone
-* BASE LÉGALE : Votre consentement lors de l’activation de cette fonctionnalité
-* DUREE DE CONSERVATION : Le numéro est conservé jusqu’à la suppression du compte utilisateur ou de la désactivation de cette fonctionnalité
+*   DONNEES TRAITEES : Numéro de téléphone
+*   BASE LÉGALE : Votre consentement lors de l’activation de cette fonctionnalité
+*   DUREE DE CONSERVATION : Le numéro est conservé jusqu’à la suppression du compte utilisateur ou de la désactivation de cette fonctionnalité
 
 **2\. Prévention et lutte contre la fraude informatique et les cyberattaques**
 
-* DONNÉES TRAITÉES : Données pseudonymisées concernant les différentes actions réalisées par l’utilisateur
-* BASE LÉGALE : Intérêt légitime
-* DUREE DE CONSERVATION : 1 an à compter de l’enregistrement de l’action.
+*   DONNÉES TRAITÉES : Données pseudonymisées concernant les différentes actions réalisées par l’utilisateur
+*   BASE LÉGALE : Intérêt légitime
+*   DUREE DE CONSERVATION : 1 an à compter de l’enregistrement de l’action.
 
 _D) RECHERCHE ET DÉVELOPPEMENT_
 
 **1\. Envoi de Questionnaires “Recherche” et analyse des réponses reçues**
 
-* DONNEES TRAITEES : Identifiant utilisateur / Le contenu du questionnaire varie en fonction des problématiques adressées
-* BASE LÉGALE : Consentement de la personne qui remplit le questionnaire
-* DURÉE DE CONSERVATION : Les données pseudonymisées sont conservées jusqu’à la suppression du compte.
+*   DONNEES TRAITEES : Identifiant utilisateur / Le contenu du questionnaire varie en fonction des problématiques adressées
+*   BASE LÉGALE : Consentement de la personne qui remplit le questionnaire
+*   DURÉE DE CONSERVATION : Les données pseudonymisées sont conservées jusqu’à la suppression du compte.
 
 **2\. Anonymisation des données à des fins de recherche**
 
-* DONNÉES TRAITÉES : Données de santé pertinentes pour l’étude
-* BASE LÉGALE : Consentement de la personne
+*   DONNÉES TRAITÉES : Données de santé pertinentes pour l’étude
+*   BASE LÉGALE : Consentement de la personne
 
 **3\. Réalisation de recherche à des fins d’intérêt publique**
 
-* DONNÉES TRAITÉES : Données jugées pertinentes pour l’étude
-* BASE LÉGALE : Intérêt légitime
-* DURÉE DE CONSERVATION : Les données personnelles sont conservées pour une durée jugée nécessaire en fonction de l’étude. Cette information vous sera communiquée au travers de la notice d’information.
+*   DONNÉES TRAITÉES : Données jugées pertinentes pour l’étude
+*   BASE LÉGALE : Intérêt légitime
+*   DURÉE DE CONSERVATION : Les données personnelles sont conservées pour une durée jugée nécessaire en fonction de l’étude. Cette information vous sera communiquée au travers de la notice d’information.
 
 **4\. Amélioration des Produits et Services (comprenant l’amélioration de la performance des algorithmes et la réalisation de statistiques)**
 
-* DONNÉES TRAITÉES : Les données pertinentes liées à la réalisation de ces traitements. Il s’agit exclusivement de données pseudonymisées
-* BASE LÉGALE : Intérêt légitime
-* DURÉE DE CONSERVATION : Les données personnelles sont conservées jusqu’à suppression du compte utilisateur
+*   DONNÉES TRAITÉES : Les données pertinentes liées à la réalisation de ces traitements. Il s’agit exclusivement de données pseudonymisées
+*   BASE LÉGALE : Intérêt légitime
+*   DURÉE DE CONSERVATION : Les données personnelles sont conservées jusqu’à suppression du compte utilisateur
 
 **4.3. PARTAGE DE DONNÉES.** Nous ne partageons ces données que dans les circonstances décrites ci-après :
 
