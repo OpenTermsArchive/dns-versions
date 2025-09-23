@@ -50,20 +50,20 @@ L’Utilisateur désigne l’adhérent éligible au service Vivoptim accédant a
 
 L’Organisme, en tant que responsable de traitement, respecte les principes suivants :
 
-* Les données à caractère personnel sont utilisées uniquement pour des finalités (objectifs) explicites, légitimes et déterminées en lien avec l’utilisation du Portail :
-    * La fourniture des contenus et services en ligne aux Utilisateurs et du service Vivoptim aux utilisateurs  ou dans le cadre de l’application mobile,
-    * La réutilisation des données produites dans le cadre du service Vivoptim afin de l’évaluer, le cas échéant par des évaluateurs habilités,
-    * La production d’analyses statistiques garantissant l’anonymat des utilisateurs.
-* Seules les données à caractère personne qui sont strictement utiles sont collectées et traitées : L’Organisme applique ainsi le principe de minimisation qui prévient toute collecte excessive de données ;
-* Les données ne sont pas conservées au-delà de la durée nécessaire pour les opérations pour lesquelles elles ont été collectées et ce en tenant compte de la nature des opérations et des obligations légales en présence ;
-* L’Organisme ne communique, ni ne cède les données à caractère personnel des utilisateurs et des  à des tiers, mais seulement à des destinataires autorisés et habilités dans le cadre strict des finalités définies au préalable ;
-* L’Organisme confie les données à caractère personnel à des prestataires sous-traitants choisis en fonction de garanties techniques et organisationnelles appropriées, afin de garantir la protection des données qui leur sont confiées sous les instructions de l’Organisme ;
-* Les utilisateurs en tant que personnes concernées sont informées préalablement et régulièrement, de manière claire et transparente, notamment sur la finalité d’utilisation de leurs données, le caractère facultatif ou obligatoire de leurs réponses dans les formulaires, des droits dont ils disposent en matière de protection des données et des modalités d’exercice effectif de ces droits, des destinataires ;
-* Chaque fois que la réglementation l’impose, un consentement libre, spécifique, exprès, préalable, éclairé, univoque et actif des utilisateurs  est recueilli au titre du traitement de leurs données à caractère personnel ;
-* Des mesures de sécurité appropriées, sur le plan logique, technique, organisationnel et juridique, ont été définies sur la base d’une analyse de risques des traitements de données à caractère personnel, et sont mises en œuvre par l’Organisme et ses sous-traitants engagés par contrat, pour assurer la protection des données à caractère personnel ;
-* Une analyse d’impact sur la vie privée et la protection des données à caractère personnel des personnes concernées a été effectuée par l’Organisme afin d’adopter des mesures concrètes et adaptées ; 
-* L’Organisme et ses sous-traitants sont engagés à concevoir des outils et systèmes programmant au cœur même de leurs fonctionnalités le respect de la réglementation et la protection de la vie privée des personnes concernées, en intégrant le respect de ces règles au stade même de la conception et du développement : l'Organisme applique ainsi les concepts de PRIVACY BY DESIGN  et de PRIVACY BY DEFAULT qui permettent le développement d’outils et de systèmes responsables tout au long de la vie du traitement;
-* L’Organisme et ses sous-traitants sont engagés à veiller à toute violation éventuelle et exceptionnelle de données et à prendre toutes les mesures de protection et de correction consécutives à une violation en informant la CNIL et le cas échéant, les personnes concernées.
+*   Les données à caractère personnel sont utilisées uniquement pour des finalités (objectifs) explicites, légitimes et déterminées en lien avec l’utilisation du Portail :
+    *   La fourniture des contenus et services en ligne aux Utilisateurs et du service Vivoptim aux utilisateurs  ou dans le cadre de l’application mobile,
+    *   La réutilisation des données produites dans le cadre du service Vivoptim afin de l’évaluer, le cas échéant par des évaluateurs habilités,
+    *   La production d’analyses statistiques garantissant l’anonymat des utilisateurs.
+*   Seules les données à caractère personne qui sont strictement utiles sont collectées et traitées : L’Organisme applique ainsi le principe de minimisation qui prévient toute collecte excessive de données ;
+*   Les données ne sont pas conservées au-delà de la durée nécessaire pour les opérations pour lesquelles elles ont été collectées et ce en tenant compte de la nature des opérations et des obligations légales en présence ;
+*   L’Organisme ne communique, ni ne cède les données à caractère personnel des utilisateurs et des  à des tiers, mais seulement à des destinataires autorisés et habilités dans le cadre strict des finalités définies au préalable ;
+*   L’Organisme confie les données à caractère personnel à des prestataires sous-traitants choisis en fonction de garanties techniques et organisationnelles appropriées, afin de garantir la protection des données qui leur sont confiées sous les instructions de l’Organisme ;
+*   Les utilisateurs en tant que personnes concernées sont informées préalablement et régulièrement, de manière claire et transparente, notamment sur la finalité d’utilisation de leurs données, le caractère facultatif ou obligatoire de leurs réponses dans les formulaires, des droits dont ils disposent en matière de protection des données et des modalités d’exercice effectif de ces droits, des destinataires ;
+*   Chaque fois que la réglementation l’impose, un consentement libre, spécifique, exprès, préalable, éclairé, univoque et actif des utilisateurs  est recueilli au titre du traitement de leurs données à caractère personnel ;
+*   Des mesures de sécurité appropriées, sur le plan logique, technique, organisationnel et juridique, ont été définies sur la base d’une analyse de risques des traitements de données à caractère personnel, et sont mises en œuvre par l’Organisme et ses sous-traitants engagés par contrat, pour assurer la protection des données à caractère personnel ;
+*   Une analyse d’impact sur la vie privée et la protection des données à caractère personnel des personnes concernées a été effectuée par l’Organisme afin d’adopter des mesures concrètes et adaptées ; 
+*   L’Organisme et ses sous-traitants sont engagés à concevoir des outils et systèmes programmant au cœur même de leurs fonctionnalités le respect de la réglementation et la protection de la vie privée des personnes concernées, en intégrant le respect de ces règles au stade même de la conception et du développement : l'Organisme applique ainsi les concepts de PRIVACY BY DESIGN  et de PRIVACY BY DEFAULT qui permettent le développement d’outils et de systèmes responsables tout au long de la vie du traitement;
+*   L’Organisme et ses sous-traitants sont engagés à veiller à toute violation éventuelle et exceptionnelle de données et à prendre toutes les mesures de protection et de correction consécutives à une violation en informant la CNIL et le cas échéant, les personnes concernées.
 
 Au sein de l’Organisme tous les salariés et intervenants sont sensibilisés aux principes de protection des données, par des formations régulières adaptées à leur activité et à leurs responsabilités.
 
@@ -75,23 +75,23 @@ L’Organisme a désigné un délégué à la protection des données afin veill
 
 Le délégué à la protection des données veille notamment :
 
-* à établir et tenir à jour un registre des traitements de données à caractère personnel mis en œuvre dans l’entreprise,
-* à s’assurer de la conformité des pratiques avec la réglementation et ses évolutions,
-* à sensibiliser l’ensemble des équipes aux exigences et bonnes pratiques en matière de protection des données à caractère personnel,
-* à l’exercice effectif des droits des personnes concernées .
+*   à établir et tenir à jour un registre des traitements de données à caractère personnel mis en œuvre dans l’entreprise,
+*   à s’assurer de la conformité des pratiques avec la réglementation et ses évolutions,
+*   à sensibiliser l’ensemble des équipes aux exigences et bonnes pratiques en matière de protection des données à caractère personnel,
+*   à l’exercice effectif des droits des personnes concernées .
 
 Le délégué à la protection des données est joignable aux coordonnées suivantes :
 
-* Par email : dpo@vivoptim.com
-* Par courrier : VIVOPTIM SOLUTIONS - DPO - 3 Square Max Hymans, 75015 Paris
+*   Par email : dpo@vivoptim.com
+*   Par courrier : VIVOPTIM SOLUTIONS - DPO - 3 Square Max Hymans, 75015 Paris
 
 **4 - L’utilisation des données**
 
 L’Organisme utilise les données à caractère personnel pour les objectifs principaux suivants :
 
-* La fourniture des contenus et services en ligne du Portail Vivoptim aux Utilisateurs et du Service Vivoptim aux utilisateurs s ou dans le cadre de l’application mobile,
-* La réutilisation des données produites dans le cadre du Service Vivoptim afin de l’évaluer, le cas échéant par des évaluateurs habilités,
-* La production d’analyses statistiques garantissant l’anonymat des utilisateurs.
+*   La fourniture des contenus et services en ligne du Portail Vivoptim aux Utilisateurs et du Service Vivoptim aux utilisateurs s ou dans le cadre de l’application mobile,
+*   La réutilisation des données produites dans le cadre du Service Vivoptim afin de l’évaluer, le cas échéant par des évaluateurs habilités,
+*   La production d’analyses statistiques garantissant l’anonymat des utilisateurs.
 
 Les traitements ci-dessus présentés sont basés sur le consentement de la personne concernée et l’exécution des conditions générales d’utilisation formant contrat entre les utilisateurs et l’Organisme.
 
@@ -101,13 +101,13 @@ L’Organisme détermine les destinataires des données en fonction de leurs mis
 
 Selon le cas, ces destinataires peuvent être :
 
-* Les Utilisateurs,
-* L’Organisme,
-* Les professionnels de santé et autres personnels habilités à traiter les données à caractère personnel,
-* Les sous-traitants désignés par l’Organisme en raison des garanties offertes de mises en œuvre de mesures de sécurité techniques et organisationnelles appropriées,
-* Les évaluateurs du Service Vivoptim,
-* L’hébergeur agréé/certifié de données de santé au sens de l’article L 1111-8 CSP
-* Toute profession réglementée autorisée à recevoir les données pour la satisfaction d’obligations légales et règlementaires, tels que notamment des commissaires aux comptes, des experts-comptables, tout auditeur d’une autorité compétente, les juridictions, les autorités judiciaires par exemple.
+*   Les Utilisateurs,
+*   L’Organisme,
+*   Les professionnels de santé et autres personnels habilités à traiter les données à caractère personnel,
+*   Les sous-traitants désignés par l’Organisme en raison des garanties offertes de mises en œuvre de mesures de sécurité techniques et organisationnelles appropriées,
+*   Les évaluateurs du Service Vivoptim,
+*   L’hébergeur agréé/certifié de données de santé au sens de l’article L 1111-8 CSP
+*   Toute profession réglementée autorisée à recevoir les données pour la satisfaction d’obligations légales et règlementaires, tels que notamment des commissaires aux comptes, des experts-comptables, tout auditeur d’une autorité compétente, les juridictions, les autorités judiciaires par exemple.
 
 **6 - La durée de conservation des données**
 
@@ -115,9 +115,9 @@ L’Organisme a déterminé des règles précises concernant la durée de conser
 
 Au terme de la durée ainsi fixée, et suivant le cas, les données à caractère personnel font l’objet dans le respect de la Réglementation applicable de l’une de ces mesures :
 
-* Suppression,
-* Anonymisation irréversible,
-* Archivage.
+*   Suppression,
+*   Anonymisation irréversible,
+*   Archivage.
 
 Pour plus d’informations sur les durées de conservation appliquées par l’Organisme :
 
@@ -133,10 +133,10 @@ Pour plus d’informations sur les durées de conservation appliquées par l’O
 
 La sécurité des données porte sur les mesures prises afin de protéger les données des faits suivants :
 
-* la destruction,
-* la perte,
-* l'altération,
-* la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées,
+*   la destruction,
+*   la perte,
+*   l'altération,
+*   la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées,
 
 l'accès non autorisé à de telles données, de manière accidentelle ou illicite.
 
@@ -144,9 +144,9 @@ Afin de garantir la sécurité des données à caractère personnel, l’Organis
 
 En particulier et chaque fois que nécessaire, les mesures suivantes ont été prises :
 
-* le déploiement de moyens permettant de garantir la confidentialité, l'intégrité, la disponibilité et la résilience constantes des systèmes et des traitements;
-* le déploiement de moyens permettant de rétablir la disponibilité des données à caractère personnel et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique;
-* la mise en œuvre d’une procédure visant à tester, à analyser et à évaluer régulièrement l'efficacité des mesures techniques et organisationnelles pour assurer la sécurité des traitements.
+*   le déploiement de moyens permettant de garantir la confidentialité, l'intégrité, la disponibilité et la résilience constantes des systèmes et des traitements;
+*   le déploiement de moyens permettant de rétablir la disponibilité des données à caractère personnel et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique;
+*   la mise en œuvre d’une procédure visant à tester, à analyser et à évaluer régulièrement l'efficacité des mesures techniques et organisationnelles pour assurer la sécurité des traitements.
 
 Ainsi, l’Organisme et ses sous-traitants se sont dotés de dispositifs adaptés et conformes aux règles de l’art et aux normes imposées, pour garantir la protection de vos données personnelles.
 
@@ -160,12 +160,12 @@ Un hébergeur agréé/certifié de données de santé est en charge de l’hébe
 
 Chaque utilisateur dispose des droits suivants :
 
-* d’accéder à ses données (droit d’accès) : la personne concernée peut demander directement à l’Organisme si il détient des informations sur elle, et demander à ce que lui soit communiqué la liste des données,
-* de demander leur rectification (droit de rectification) : la personne concernée peut demander la rectification des informations inexactes la concernant. Le droit de rectification complète le droit d’accès,
-* de demander l’effacement de ses données (droit à l’oubli): la personne concernée peut demander l’effacement des informations la concernant, pour un motif prévu par la réglementation,
-* de demander la limitation du traitement de ses données (droit à la limitation) : la personne concernée peut obtenir la limitation du traitement de ses données, pour un motif prévu par la réglementation,
-* de demander la portabilité de ses données (droit à la portabilité): la personne concernée peut demander à recevoir les données qu’elle a fourni à l’Organisme, ou demander à l’Organisme qu’elles soient transmises à un autre responsable de traitement pour un motif prévu par la réglementation,
-* de définir des directives anticipées relatives au sort de ses données après son décès.
+*   d’accéder à ses données (droit d’accès) : la personne concernée peut demander directement à l’Organisme si il détient des informations sur elle, et demander à ce que lui soit communiqué la liste des données,
+*   de demander leur rectification (droit de rectification) : la personne concernée peut demander la rectification des informations inexactes la concernant. Le droit de rectification complète le droit d’accès,
+*   de demander l’effacement de ses données (droit à l’oubli): la personne concernée peut demander l’effacement des informations la concernant, pour un motif prévu par la réglementation,
+*   de demander la limitation du traitement de ses données (droit à la limitation) : la personne concernée peut obtenir la limitation du traitement de ses données, pour un motif prévu par la réglementation,
+*   de demander la portabilité de ses données (droit à la portabilité): la personne concernée peut demander à recevoir les données qu’elle a fourni à l’Organisme, ou demander à l’Organisme qu’elles soient transmises à un autre responsable de traitement pour un motif prévu par la réglementation,
+*   de définir des directives anticipées relatives au sort de ses données après son décès.
 
 L’utilisateur peut également s’opposer, pour des motifs légitimes, à ce que les données le concernant soient traitées, diffusées, transmises, conservées ou hébergées.
 
@@ -173,13 +173,13 @@ Pour plus d’informations sur la signification des droits ; la CNIL a créé u
 
 Pour exercer ses droits ou pour toute question, concernant ses données à caractère personnel, l’Utilisateur peut s’adresser, en fournissant une copie d’un justificatif de son identité au responsable des données personnelles de l’Organisme en charge de répondre aux demandes d’exercice de droits : 
 
-* à l’adresse postale VIVOPTIM SOLUTIONS – DPO – 3 Square Max Hymans, 75015 Paris ou électronique : dpo@vivoptim.com.
+*   à l’adresse postale VIVOPTIM SOLUTIONS – DPO – 3 Square Max Hymans, 75015 Paris ou électronique : dpo@vivoptim.com.
 
 Pour faciliter les démarches, l’Organisme invite chaque personne concernée, lors de l’envoi d’une demande d’exercice des droits, à :
 
-* Indiquer quel(s) droit(s) elle souhaite exercer,
-* Mentionner clairement ses noms / prénoms / coordonnées auxquels elle souhaite recevoir les réponses,
-* Joindre une copie d’une pièce d’identité. 
+*   Indiquer quel(s) droit(s) elle souhaite exercer,
+*   Mentionner clairement ses noms / prénoms / coordonnées auxquels elle souhaite recevoir les réponses,
+*   Joindre une copie d’une pièce d’identité. 
 
 **9 - Le consentement des personnes concernées**
 
@@ -193,9 +193,9 @@ Chaque utilisateur dispose du droit d’introduire une réclamation auprès d’
 
 En France, cette autorité est la CNIL, voici ses coordonnées :
 
-* Site internet : https://www.cnil.fr/
-* Téléphone : 01 53 73 22 22
-* Adresse postale :
+*   Site internet : https://www.cnil.fr/
+*   Téléphone : 01 53 73 22 22
+*   Adresse postale :
 
 CNIL
 
@@ -241,18 +241,18 @@ Pour plus d’information, veuillez consulter notre « charte de protection des
 
 En apprenant à connaitre le comportement des internautes sur le Portail, l’Organisme pourra :
 
-* enregistrer les informations relatives à la navigation de l’internaute ou du utilisateur au sein du Site ou du Portail telle que notamment toute information relative aux pages consultées et aux dates et heures de consultation sur le Site ou le Portail ;
-* améliorer la navigation au sein du Site et du Portail ;
-* établir des statistiques et volumes de fréquentation et d’utilisation des divers éléments composant le Site et le Portail (rubriques et contenus visités, parcours, date et heure de consultation...), permettant d’améliorer leur intérêt et leur ergonomie;
-* reconnaître le navigateur de tout Internaute comme un ancien visiteur enregistré, pour se souvenir de toutes les préférences qui peuvent être envoyées lors de l’utilisation du Site par son navigateur ;
-* adapter la présentation du Site aux préférences d'affichage de tout Internaute (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc) lors de leurs visites sur le Site, selon les matériels et les logiciels de visualisation ou de lecture que leur terminal comporte.
+*   enregistrer les informations relatives à la navigation de l’internaute ou du utilisateur au sein du Site ou du Portail telle que notamment toute information relative aux pages consultées et aux dates et heures de consultation sur le Site ou le Portail ;
+*   améliorer la navigation au sein du Site et du Portail ;
+*   établir des statistiques et volumes de fréquentation et d’utilisation des divers éléments composant le Site et le Portail (rubriques et contenus visités, parcours, date et heure de consultation...), permettant d’améliorer leur intérêt et leur ergonomie;
+*   reconnaître le navigateur de tout Internaute comme un ancien visiteur enregistré, pour se souvenir de toutes les préférences qui peuvent être envoyées lors de l’utilisation du Site par son navigateur ;
+*   adapter la présentation du Site aux préférences d'affichage de tout Internaute (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc) lors de leurs visites sur le Site, selon les matériels et les logiciels de visualisation ou de lecture que leur terminal comporte.
 
 A ce titre, et pour les cookies qui n’ont pas pour finalité exclusive de permettre ou faciliter la navigation ou qui ne sont pas strictement nécessaires à la Commande de Services, un bandeau d’information s’affiche lors de la connexion de l’Internaute au Site afin de l’informer préalablement au dépôt de ces cookies :
 
-* des finalités précises des cookies utilisés ;
-* de son droit d’accès aux données collectées ;
-* de la possibilité de s’opposer au dépôt de cookies pour l’analyse de sa navigation, et du fait que la poursuite de la navigation vaut accord au dépôt de cookies sur son terminal ;
-* des modalités lui permettant de changer les paramètres (paramétrage interne, opposition au traçage, ou encore paramétrage du navigateur), au titre du dépôt de cookies ayant pour finalité d’accéder à des informations déjà stockées dans son terminal, le cas échéant.
+*   des finalités précises des cookies utilisés ;
+*   de son droit d’accès aux données collectées ;
+*   de la possibilité de s’opposer au dépôt de cookies pour l’analyse de sa navigation, et du fait que la poursuite de la navigation vaut accord au dépôt de cookies sur son terminal ;
+*   des modalités lui permettant de changer les paramètres (paramétrage interne, opposition au traçage, ou encore paramétrage du navigateur), au titre du dépôt de cookies ayant pour finalité d’accéder à des informations déjà stockées dans son terminal, le cas échéant.
 
 Via le bandeau, l’Internaute est invité à exprimer son consentement ou son refus au titre du dépôt de cookies ayant pour finalité d’accéder à des informations déjà stockées dans son terminal, le cas échéant.
 
@@ -320,13 +320,13 @@ Date de la publication de la politique de confidentialité : 21/06/2021
 
 Le présent document a été validé préalablement à sa diffusion par le Délégué à la protection des données de l’Organisme. Il fait l’objet d’une révision au minimum tous les ans.
 
-* Adresse postale
-* Numéro du standard
-* Mail standard
+*   Adresse postale
+*   Numéro du standard
+*   Mail standard
 
 **14 - Questions et commentaires : nous contacter**
 
 Nous vous remercions d’avoir lu notre politique de protection des données. Si vous avez des questions, commentaires et préoccupations s’agissant de cette politique, contactez notre délégué à la protection des données, joignable :
 
-* Par email : dpo@vivoptim.com
-* Par courrier : VIVOPTIM SOLUTIONS – DPO – 3 Square Max Hymans, 75015 Paris
+*   Par email : dpo@vivoptim.com
+*   Par courrier : VIVOPTIM SOLUTIONS – DPO – 3 Square Max Hymans, 75015 Paris
