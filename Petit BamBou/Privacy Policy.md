@@ -23,23 +23,23 @@ La présente Politique de confidentialité a pour objet de vous informer sur les
 
 Vos données à caractère personnel peuvent être collectées ou traitées, en tout ou partie, pour les raisons suivantes :
 
-* La création de compte pour bénéficier des Services des Supports, tels que définis dans les Conditions Générales de Vente des Supports ;
-* L’inscription à une Infolettre ;
-* Le contact du support client ;
-* L’usage des Services, tels que définis dans les Conditions Générales de Vente des Supports ;
-* La navigation ;
-* L'analyse de votre activité et de vos interactions avec les fonctionnalités proposées sur les Supports.
+*   La création de compte pour bénéficier des Services des Supports, tels que définis dans les Conditions Générales de Vente des Supports ;
+*   L’inscription à une Infolettre ;
+*   Le contact du support client ;
+*   L’usage des Services, tels que définis dans les Conditions Générales de Vente des Supports ;
+*   La navigation ;
+*   L'analyse de votre activité et de vos interactions avec les fonctionnalités proposées sur les Supports.
 
 5\. QUELLES CATÉGORIES DE DONNÉES DE DONNÉES TRAITONS-NOUS ?
 ------------------------------------------------------------
 
 Les catégories de données personnelles concernées par ces traitements correspondent aux catégories suivantes :
 
-* Données d’identification (sexe, nom, prénom, civilité, âge) ;
-* Données de contact (adresse e-mail, adresse postale, numéro de téléphone) ;
-* Données de connexion (ID, adresse IP, localisation géographique, type et modèle d’appareil, système d’exploitation) ;
-* Données de transaction (quatre derniers numéro de carte bancaire) ;
-* Données d'usage (programmes écoutés et/ou téléchargés, temps passé à méditer, parcours, clics, interactions avec le catalogue, le player, le compte, etc..
+*   Données d’identification (sexe, nom, prénom, civilité, âge) ;
+*   Données de contact (adresse e-mail, adresse postale, numéro de téléphone) ;
+*   Données de connexion (ID, adresse IP, localisation géographique, type et modèle d’appareil, système d’exploitation) ;
+*   Données de transaction (quatre derniers numéro de carte bancaire) ;
+*   Données d'usage (programmes écoutés et/ou téléchargés, temps passé à méditer, parcours, clics, interactions avec le catalogue, le player, le compte, etc..
 
 Le choix d’une authentification via Apple permet à FEELVERYBIEN de collecter une adresse e-mail (soit la vôtre, soit un Apple Relay) et un ID. À l’instar, le choix d’une authentification via Facebook permet à FEELVERYBIEN de collecter une adresse e-mail, un ID ainsi qu’un login status.
 
@@ -50,12 +50,12 @@ Lors de la collecte, vous êtes informé du caractère obligatoire ou facultatif
 
 FEELVERYBIEN peut être amené à traiter vos données personnelles pour les finalités suivantes :
 
-* La gestion de la base de données Clients des Supports ;
-* La gestion de l’architecture technique et technologique des Services de FEELVERYBIEN ;
-* La gestion et le suivi du support Client et des témoignages Utilisateurs ;
-* La gestion des transactions et paiements en ligne ;
-* La gestion de l’audience marketing et du tracking tiers des Utilisateurs ;
-* La gestion des demandes, plaintes et réclamations adressées au DPO.
+*   La gestion de la base de données Clients des Supports ;
+*   La gestion de l’architecture technique et technologique des Services de FEELVERYBIEN ;
+*   La gestion et le suivi du support Client et des témoignages Utilisateurs ;
+*   La gestion des transactions et paiements en ligne ;
+*   La gestion de l’audience marketing et du tracking tiers des Utilisateurs ;
+*   La gestion des demandes, plaintes et réclamations adressées au DPO.
 
 7\. À QUI SONT TRANSMISES VOS DONNÉES PERSONNELLES ?
 ----------------------------------------------------
@@ -84,12 +84,12 @@ Vos données personnelles sont conservées par FEELVERYBIEN conformément à une
 
 En vertu des dispositions de la loi Informatique et Libertés du 06 janvier 1978 et du RGPD du 27 avril 2016, vous disposez, sous réserve de justifier de votre identité, des droits suivants :
 
-* Droit d’accès aux données personnelles que nous traitons vous concernant ;
-* Droit de rectification de toute donnée personnelle qui s’avérerait erronée ;
-* Droit à l’effacement de vos données personnelles en l’absence d’un motif légal ou légitime pour les conserver ;
-* Droit d’opposition à l’utilisation de vos données personnelles ;
-* Droit de retirer, à tout moment, votre consentement ;
-* Droit à la portabilité de vos données personnelles et d’en obtenir la communication, dans un format technologique structuré et couramment utilisé.
+*   Droit d’accès aux données personnelles que nous traitons vous concernant ;
+*   Droit de rectification de toute donnée personnelle qui s’avérerait erronée ;
+*   Droit à l’effacement de vos données personnelles en l’absence d’un motif légal ou légitime pour les conserver ;
+*   Droit d’opposition à l’utilisation de vos données personnelles ;
+*   Droit de retirer, à tout moment, votre consentement ;
+*   Droit à la portabilité de vos données personnelles et d’en obtenir la communication, dans un format technologique structuré et couramment utilisé.
 
 Si toutefois, après nous avoir contactés, vous estimez que vos droits « Informatique et Libertés » n’ont pas été respectés, il vous est possible d’adresser une réclamation auprès de la CNIL soit par voie électronique sur leur site web, soit par voie postale en écrivant à l’adresse suivante : CNIL - Service des Plaintes - 3, place de Fontenoy - TSA 80715 - 75334 Paris Cedex 07. Pour plus d’informations sur vos droits, vous pouvez consulter le site [www.cnil.fr](https://www.cnil.fr/).
 
@@ -100,9 +100,9 @@ Pour exercer vos droits en matière de données personnelles, nous vous invitons
 
 En principe, seule la personne concernée est habilitée à faire une demande d’exercice de droits pour ses propres données personnelles. Toutefois, sous certaines conditions, il existe certains cas particuliers dans lequel une autre personne peut effectuer cette demande pour le compte d’une autre :
 
-* Un mandataire, personne physique ou morale, sous réserve de pouvoir fournir le mandat et de justifier de son identité et de celle du mandant ;
-* Pour les mineurs ou les majeurs incapables, les parents, tuteurs ou détenteurs de l'autorité parentale, à condition que les tuteurs et détenteurs de l'autorité parentale puissent en apporter la preuve ;
-* Si une personne, avant son décès, vous a laissé des directives concernant le traitement de ses données personnelles, sous réserve de respecter les dispositions de l’article 63 de la loi n°2016-1321 du 07 octobre 2016 pour une République numérique.
+*   Un mandataire, personne physique ou morale, sous réserve de pouvoir fournir le mandat et de justifier de son identité et de celle du mandant ;
+*   Pour les mineurs ou les majeurs incapables, les parents, tuteurs ou détenteurs de l'autorité parentale, à condition que les tuteurs et détenteurs de l'autorité parentale puissent en apporter la preuve ;
+*   Si une personne, avant son décès, vous a laissé des directives concernant le traitement de ses données personnelles, sous réserve de respecter les dispositions de l’article 63 de la loi n°2016-1321 du 07 octobre 2016 pour une République numérique.
 
 En cas de doute raisonnable, et afin de garantir la confidentialité et la protection des données personnelles, FEELVERYBIEN pourra être amenée à réclamer un document d’identité de l‘Utilisateur avant de répondre à sa demande.
 
@@ -133,9 +133,9 @@ Nous souhaitons également vous informer que si vous choisissez de refuser l'ins
 
 **Pour l’Application.** Des cookies dits « cookies techniques » sont déposés sur l’Application, c’est-à-dire strictement nécessaires au bon fonctionnement de l’Application. Ils sont essentiels pour l’utilisation des fonctionnalités et des services proposés sur l’Application. D’autres cookies sont également déposés, et dont les finalités sont les suivantes :
 
-* La bonne gestion et le suivi du Service Client ;
-* L'amélioration de l'Application pour un meilleur fonctionnement et de meilleures communications ;
-* La mesure des audiences marketing.
+*   La bonne gestion et le suivi du Service Client ;
+*   L'amélioration de l'Application pour un meilleur fonctionnement et de meilleures communications ;
+*   La mesure des audiences marketing.
 
 Vous avez la possibilité d’accepter ou de refuser ces cookies, à l'exclusion des cookies dits techniques, dès la création de votre compte Abonné sur l’Application. Cela signifie que l'enregistrement d'un cookie sur votre appareil dépend principalement de vos préférences, que vous pouvez définir et modifier à tout moment, gratuitement, via la section « Mes cookies » disponible dans les paramètres de l’Application.
 
