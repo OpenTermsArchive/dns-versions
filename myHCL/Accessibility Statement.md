@@ -5,7 +5,7 @@ Les Hospices civils de Lyon s’engagent à rendre ses sites internet et ses pro
 
 Cette déclaration d’accessibilité s’applique à :
 
-* [https://myhcl.sante-ra.fr/](https://myhcl.sante-ra.fr/)
+*   [https://myhcl.sante-ra.fr/](https://myhcl.sante-ra.fr/)
 
 État de conformité
 ------------------
