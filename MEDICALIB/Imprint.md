@@ -21,8 +21,8 @@ Medicalib est particulièrement attentif aux remarques et réclamations de ses c
   
 En cas de désaccord, d'incompréhension ou d'insatisfaction, vous pouvez remplir le **[formulaire de contact](https://www.medicalib.fr/contact/)** figurant sur ce site et adresser votre réclamation :
 
-* à l'adresse mail : **[contact@medicalib.fr](mailto:contact@medicalib.fr)**
-* à l'adresse postale :
+*   à l'adresse mail : **[contact@medicalib.fr](mailto:contact@medicalib.fr)**
+*   à l'adresse postale :
 
 SAS HELLOSANTE  
 11 boulevard Delessert  
