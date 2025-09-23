@@ -37,11 +37,11 @@ Dans le présent Contrat, les termes ou expressions suivants, s'ils commencent p
 
 **« Service »** : désigne tout produit et/ou service mis à la disposition de l’Utilisateur à titre onéreux ou gratuit par FEELVERYBIEN au travers des Supports. Figurent parmi les Services, et sans que cette liste ne soit exhaustive, les produits et/ou services suivants :
 
-* Des contenus de méditation, respiration, sophrologie et autres techniques, sous forme de programmes thématiques composés de plusieurs séances de durée variable, et d’outils paramétrables ;
-* Des « Méditations du jour », consistant en une séance quotidienne de 8, 12 ou 16 minutes ;
-* Des Musiques, Sons et Ambiances exclusifs ;
-* Des Histoires, sous forme de courtes animations, pour expliquer de manière pédagogique les grands principes de la méditation ;
-* Un accompagnement et une assistance personnalisés.
+*   Des contenus de méditation, respiration, sophrologie et autres techniques, sous forme de programmes thématiques composés de plusieurs séances de durée variable, et d’outils paramétrables ;
+*   Des « Méditations du jour », consistant en une séance quotidienne de 8, 12 ou 16 minutes ;
+*   Des Musiques, Sons et Ambiances exclusifs ;
+*   Des Histoires, sous forme de courtes animations, pour expliquer de manière pédagogique les grands principes de la méditation ;
+*   Un accompagnement et une assistance personnalisés.
 
 **« Support »** : désigne collectivement les supports numériques par lesquels les Utilisateurs peuvent accéder aux Services proposés par FEELVERYBIEN, incluant notamment le Site ainsi que l’Application.
 
@@ -136,8 +136,8 @@ Le Master émet les invitations depuis les paramètres des Supports, dans l’on
 
 Une fois l’invitation envoyée, le Membre Invité recevra un e-mail de confirmation, puis après la première connexion, une notification interne :
 
-* **Pour le Site.** Une pastille de couleur et un message dédié ;
-* **Pour l’Application.** Un écran d’acceptation ou de refus obligatoire lors du chargement.
+*   **Pour le Site.** Une pastille de couleur et un message dédié ;
+*   **Pour l’Application.** Un écran d’acceptation ou de refus obligatoire lors du chargement.
 
 Lorsqu’un même Utilisateur détient plusieurs invitations, seule la plus récente est présentée ; les précédentes redeviennent accessibles s’il décline la dernière ou s’il se détache d’un autre Abonnement « Famille ».
 
@@ -204,8 +204,8 @@ De manière générale, l’Utilisateur s'interdit de porter atteinte à l'ensem
 
 FEELVERYBIEN permet aux Utilisateurs de poser des questions et/ou de publier des commentaires et/ou de suggérer de nouvelles fonctionnalités et programmes :
 
-* **Pour le Site.** Cette possibilité est offerte via la partie « Foire aux Questions » du Site, hébergée par la société Zendesk, disponible à l’adresse suivante : [https://support.petitbambou.com/hc/fr](https://support.petitbambou.com/hc/fr).
-* **Pour l'Application.** Cette possibilité est offerte via la section « Assistance », disponible dans les paramètres, qui permet de contacter directement le service client, mais également d’accéder à un Forum. Ce Forum permet aux Utilisateurs de faire des suggestions de programmes et de fonctionnalités, ainsi que d’échanger sur ces suggestions ou sur leur pratique.
+*   **Pour le Site.** Cette possibilité est offerte via la partie « Foire aux Questions » du Site, hébergée par la société Zendesk, disponible à l’adresse suivante : [https://support.petitbambou.com/hc/fr](https://support.petitbambou.com/hc/fr).
+*   **Pour l'Application.** Cette possibilité est offerte via la section « Assistance », disponible dans les paramètres, qui permet de contacter directement le service client, mais également d’accéder à un Forum. Ce Forum permet aux Utilisateurs de faire des suggestions de programmes et de fonctionnalités, ainsi que d’échanger sur ces suggestions ou sur leur pratique.
 
 Dans ses publications, l’Utilisateur est tenu de respecter les règles de la Netiquette ainsi que les règles de droit en vigueur. FEELVERYBIEN dispose du droit d’exercer une modération à priori sur les publications et peut refuser leur mise en ligne sans avoir à fournir de justification.
 
