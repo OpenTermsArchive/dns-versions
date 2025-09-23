@@ -6,9 +6,9 @@ _Maiia est une marque de l’entreprise Cegedim Santé._ 
 **LA PROTECTION DES DONNEES PERSONNELLES EST UNE DES VALEURS CLE DE CEGEDIM SANTE ET A CE TITRE :**
 ---------------------------------------------------------------------------------------------------
 
-* **CEGEDIM SANTE PREND LES MESURES NECESSAIRES A LA PROTECTION DES DONNEES PERSONNELLES QUI LUI SONT CONFIEES DANS LE CADRE DE SES SERVICES.**
-* **VOS DONNEES SONT HEBERGEES EN FRANCE AUPRES D’UNE SOCIETE FRANCAISE cegedim.cloud CERTIFIEE HEBERGEUR DE DONNEES DE SANTE PERENNE, ISO 27001, ISO 20000-1,  ISO 27017 et ISO 27018 QUI FAIT DONC L’OBJET D’AUDITS DE SECURITE REGULIERS PAR DES ORGANISMES AGREES.**
-* **CEGEDIM SANTE NE TRANSMET AUCUNEMENT VOS DONNEES A DES ACTEURS COMMERCIAUX ET PUBLICITAIRES.**
+*   **CEGEDIM SANTE PREND LES MESURES NECESSAIRES A LA PROTECTION DES DONNEES PERSONNELLES QUI LUI SONT CONFIEES DANS LE CADRE DE SES SERVICES.**
+*   **VOS DONNEES SONT HEBERGEES EN FRANCE AUPRES D’UNE SOCIETE FRANCAISE cegedim.cloud CERTIFIEE HEBERGEUR DE DONNEES DE SANTE PERENNE, ISO 27001, ISO 20000-1,  ISO 27017 et ISO 27018 QUI FAIT DONC L’OBJET D’AUDITS DE SECURITE REGULIERS PAR DES ORGANISMES AGREES.**
+*   **CEGEDIM SANTE NE TRANSMET AUCUNEMENT VOS DONNEES A DES ACTEURS COMMERCIAUX ET PUBLICITAIRES.**
 
 **Une conformité native au RGPD**
 ---------------------------------
@@ -36,8 +36,8 @@ Cette Politique peut être modifiée, complétée ou mise à jour afin notamment
 
 _NB : Le responsable d’un traitement de Données Personnelles, au sens du RGPD, est la personne, l’autorité publique, la société ou l’organisme qui détermine les finalités et les moyens du traitement, qui décide de sa mise en place (ci-après le « Responsable de traitement »)._
 
-* **CEGEDIM SANTE** est Responsable de traitement dans le cadre de l’utilisation du Site/Application et/ou des Services ;
-* **Le professionnel de santé** contribuant à l’offre de services de CEGEDIM SANTE (ci-après « Professionnel de Santé ») est responsable de traitement lorsque vous transmettez vos Données Personnelles, y compris les Données Personnelles de Santé, pour la prise de rendez-vous ou dans le cadre d’une Téléconsultation.
+*   **CEGEDIM SANTE** est Responsable de traitement dans le cadre de l’utilisation du Site/Application et/ou des Services ;
+*   **Le professionnel de santé** contribuant à l’offre de services de CEGEDIM SANTE (ci-après « Professionnel de Santé ») est responsable de traitement lorsque vous transmettez vos Données Personnelles, y compris les Données Personnelles de Santé, pour la prise de rendez-vous ou dans le cadre d’une Téléconsultation.
 
 ### **CEGEDIM SANTE peut également agir en tant que sous-traitant au sens du RGPD**
 
@@ -126,11 +126,11 @@ NB : Ces Données Personnelles peuvent également être collectées pour le proc
 
 Les Données Personnelles vous concernant ainsi que celles de vos Proches sont susceptibles d’être traitées par :
 
-* Les Professionnels de santé lors de la prise de rendez-vous et/ou de la téléconsultation, et les personnes dûment habilitées par ceux-ci;
-* Les personnes habilitées au sein de la société CEGEDIM SANTE en charge de l’exécution des services concernés. Celles-ci n’ont accès qu’aux seules Données Personnelles qui leur sont nécessaires dans le cadre de leurs fonctions;
-* Le personnel habilité des autorités administratives et judiciaires compétentes dans le cadre de réquisitions judiciaires (par exemple dans le cadre d’une procédure judiciaire) ;
-* Notre hébergeur de données de santé certifiée Cegedim.cloud;
-* Le cas échéant, les personnes autorisées chez nos sous-traitants ou partenaires, dans des conditions de stricte confidentialité et exclusivement afin de réaliser les finalités de traitement exposées par la présente Politique. La liste des sous-traitants est prévue en Annexe 1.
+*   Les Professionnels de santé lors de la prise de rendez-vous et/ou de la téléconsultation, et les personnes dûment habilitées par ceux-ci;
+*   Les personnes habilitées au sein de la société CEGEDIM SANTE en charge de l’exécution des services concernés. Celles-ci n’ont accès qu’aux seules Données Personnelles qui leur sont nécessaires dans le cadre de leurs fonctions;
+*   Le personnel habilité des autorités administratives et judiciaires compétentes dans le cadre de réquisitions judiciaires (par exemple dans le cadre d’une procédure judiciaire) ;
+*   Notre hébergeur de données de santé certifiée Cegedim.cloud;
+*   Le cas échéant, les personnes autorisées chez nos sous-traitants ou partenaires, dans des conditions de stricte confidentialité et exclusivement afin de réaliser les finalités de traitement exposées par la présente Politique. La liste des sous-traitants est prévue en Annexe 1.
 
 **Transfert transfrontalier :**  
 En vue de fournir certains services, CEGEDIM SANTE fait appel à des sous-traitants pouvant être situés hors de l’Union européenne. La liste de ces sous-traitants est prévue en Annexe 1.  
@@ -170,8 +170,8 @@ Vous pouvez, à tout moment, demander la suppression de votre compte personnel d
 **JE SUIS UN MINEUR OU UNE PERSONNE SOUS TUTELLE/CURATELLE (Rendez-vous pour un proche) :**
 -------------------------------------------------------------------------------------------
 
-* Personnes mineures : l’utilisateur ayant moins de seize ans devra obtenir le consentement de son représentant légal préalablement à la saisie de ses Données Personnelles sur le Site et/ou l’Application. En fonction de la règlementation locale de résidence habituelle de l’utilisateur, l’âge de seize ans peut être rabaissé à treize ans.
-* Personnes sous curatelle/tutelle : la collecte, le traitement et conservation des Données Personnelles n’est autorisé que si le curateur ou tuteur a donné son consentement.
+*   Personnes mineures : l’utilisateur ayant moins de seize ans devra obtenir le consentement de son représentant légal préalablement à la saisie de ses Données Personnelles sur le Site et/ou l’Application. En fonction de la règlementation locale de résidence habituelle de l’utilisateur, l’âge de seize ans peut être rabaissé à treize ans.
+*   Personnes sous curatelle/tutelle : la collecte, le traitement et conservation des Données Personnelles n’est autorisé que si le curateur ou tuteur a donné son consentement.
 
 En tout état de cause, l’utilisateur s’engage à ce que le consentement ait été donné par la personne responsable légalement de celle-ci.
 
@@ -225,11 +225,11 @@ ANNEXE 1 – Liste des Sous-traitants :    
 
 **LA PROTECTION DES DONNEES PERSONNELLES EST UNE DES VALEURS CLE DE TBNO INVEST ET A CE TITRE :**
 
-* **TBNO INVEST PREND LES MESURES NECESSAIRES A LA PROTECTION DES DONNEES PERSONNELLES QUI LUI SONT CONFIEES DANS LE CADRE DU SERVICE.**
+*   **TBNO INVEST PREND LES MESURES NECESSAIRES A LA PROTECTION DES DONNEES PERSONNELLES QUI LUI SONT CONFIEES DANS LE CADRE DU SERVICE.**
 
-* **VOS DONNEES SONT HEBERGEES EN FRANCE AUPRES D’UNE SOCIETE FRANCAISE cegedim.cloud CERTIFIEE HEBERGEUR DE DONNEES DE SANTE PERENNE, ISO 27001, ISO 20000-1,  ISO 27017 et ISO 27018 QUI FAIT DONC L’OBJET D’AUDITS DE SECURITE REGULIERS PAR DES ORGANISMES AGREES.**
+*   **VOS DONNEES SONT HEBERGEES EN FRANCE AUPRES D’UNE SOCIETE FRANCAISE cegedim.cloud CERTIFIEE HEBERGEUR DE DONNEES DE SANTE PERENNE, ISO 27001, ISO 20000-1,  ISO 27017 et ISO 27018 QUI FAIT DONC L’OBJET D’AUDITS DE SECURITE REGULIERS PAR DES ORGANISMES AGREES.**
 
-* **TBNO INVEST NE TRANSMET AUCUNEMENT VOS DONNEES A DES ACTEURS COMMERCIAUX ET PUBLICITAIRES.**
+*   **TBNO INVEST NE TRANSMET AUCUNEMENT VOS DONNEES A DES ACTEURS COMMERCIAUX ET PUBLICITAIRES.**
 
 ### **Une conformité native au RGPD**
 
@@ -255,9 +255,9 @@ Cette Politique Maiia 7/7 peut être modifiée, complétée ou mise à jour afin
 
 _NB : Le responsable d’un traitement de Données Personnelles, au sens du RGPD, est la personne, l’autorité publique, la société ou l’organisme qui détermine les finalités et les moyens du traitement, qui décide de sa mise en place (ci-après le « Responsable de traitement »)._
 
-* **TBNO INVEST** est Responsable de traitement dans le cadre de l’utilisation du Service ;
-* **TBNO INVEST par** l’intermédiaire de sa Direction médicale composée de Médecins uniquement est Responsable de traitement dans le cadre de l’accès à vos données de santé et documents médicaux par la Direction Médicale. La Direction médicale constitue au sein de TBNO INVEST un organe indépendant des directions générale, administrative et opérationnelle, auxquelles le secret médical est opposable. La Direction médicale constitue, avec tous les Professionnels de santé intervenant dans la prise en charge du Patient dans le cadre du Services, l’équipe de soins du Patient.
-* **Le professionnel de santé** partenaires de TBNO INVEST et contribuant à l’offre de services de TBNO INVEST (ci-après « Professionnel de Santé ») est responsable de traitement lorsque vous transmettez vos Données Personnelles, y compris les Données Personnelles de Santé, pour la prise de rendez-vous ou dans le cadre d’une Téléconsultation 7/7.
+*   **TBNO INVEST** est Responsable de traitement dans le cadre de l’utilisation du Service ;
+*   **TBNO INVEST par** l’intermédiaire de sa Direction médicale composée de Médecins uniquement est Responsable de traitement dans le cadre de l’accès à vos données de santé et documents médicaux par la Direction Médicale. La Direction médicale constitue au sein de TBNO INVEST un organe indépendant des directions générale, administrative et opérationnelle, auxquelles le secret médical est opposable. La Direction médicale constitue, avec tous les Professionnels de santé intervenant dans la prise en charge du Patient dans le cadre du Services, l’équipe de soins du Patient.
+*   **Le professionnel de santé** partenaires de TBNO INVEST et contribuant à l’offre de services de TBNO INVEST (ci-après « Professionnel de Santé ») est responsable de traitement lorsque vous transmettez vos Données Personnelles, y compris les Données Personnelles de Santé, pour la prise de rendez-vous ou dans le cadre d’une Téléconsultation 7/7.
 
 **TBNO INVEST peut également agir en tant que sous-traitant au sens du RGPD**
 
@@ -351,12 +351,12 @@ Vos Données Personnelles peuvent également être collectées et traitées par 
 
 Les Données Personnelles vous concernant sont susceptibles d’être traitées par :
 
-* les Professionnels de santé lors de la prise de rendez-vous et/ou de la téléconsultation ;
-* les personnes habilitées au sein de la société TBNO INVEST et CEGEDIM SANTE pour les services applicatifs et pour l’exécution des services concernés. Celles-ci n’ont accès qu’aux seules Données Personnelles qui leur sont nécessaires dans le cadre de leurs fonctions ;
-* le personnel habilité des autorités administratives et judiciaires compétentes dans le cadre de réquisitions judiciaires (par exemple dans le cadre d’une procédure judiciaire) ;
-* Notre hébergeur de Données Personnelles de Santé certifié cegedim.cloud ;
-* les personnes habilitées au sein de la société Cegedim Outsourcing Maroc lors de la formation et l’accompagnement sur le Service et plus généralement pour les prestations relatives au service client ;
-* Le cas échéant, les personnes autorisées chez nos sous-traitants ou partenaires, dans des conditions de stricte confidentialité et exclusivement afin de réaliser les finalités de traitement exposées par la présente Politique. La liste des sous-traitants est prévue en Annexe 1.
+*   les Professionnels de santé lors de la prise de rendez-vous et/ou de la téléconsultation ;
+*   les personnes habilitées au sein de la société TBNO INVEST et CEGEDIM SANTE pour les services applicatifs et pour l’exécution des services concernés. Celles-ci n’ont accès qu’aux seules Données Personnelles qui leur sont nécessaires dans le cadre de leurs fonctions ;
+*   le personnel habilité des autorités administratives et judiciaires compétentes dans le cadre de réquisitions judiciaires (par exemple dans le cadre d’une procédure judiciaire) ;
+*   Notre hébergeur de Données Personnelles de Santé certifié cegedim.cloud ;
+*   les personnes habilitées au sein de la société Cegedim Outsourcing Maroc lors de la formation et l’accompagnement sur le Service et plus généralement pour les prestations relatives au service client ;
+*   Le cas échéant, les personnes autorisées chez nos sous-traitants ou partenaires, dans des conditions de stricte confidentialité et exclusivement afin de réaliser les finalités de traitement exposées par la présente Politique. La liste des sous-traitants est prévue en Annexe 1.
 
 **Transfert transfrontalier :**
 
