@@ -11,8 +11,8 @@ Pour toute information sur la protection des données personnelles, vous pouvez 
   
 Cette Politique est complétée par :
 
-* Nos **[mentions légales](https://www.medicalib.fr/mentions-legales)**
-* Nos **[CGU/CGV](https://www.medicalib.fr/conditions-generales-utilisation)** 
+*   Nos **[mentions légales](https://www.medicalib.fr/mentions-legales)**
+*   Nos **[CGU/CGV](https://www.medicalib.fr/conditions-generales-utilisation)** 
 
 1 - Quelques définitions
 ------------------------
@@ -156,32 +156,32 @@ Dans les formulaires de collecte de Données à caractère personnel sur le site
 
 Pour délivrer nos services, nous collectons des Données à caractère personnel sur les individus et sociétés. La collecte de vos Données peut s’effectuer lors de :
 
-* Votre navigation ou visites sur nos Sites et applications : **[www.medicalib.fr](http://www.medicalib.fr/)**, **[pro.medicalib.fr](https://pro.medicalib.fr/)**, **[saas.medicalib.fr](https://saas.medicalib.fr/)** ;
-* L’utilisation de nos services ;
-* La création d’une demande de soins en ligne ;
-* La création d’un Compte professionnel en ligne ;
-* La connexion à l’espace professionnel en ligne ;
-* L’utilisation du chat présent sur le site en ligne ;
-* La réception et le suivi d’avis laissés par nos patients ou des professionnels ;
-* Votre réponse ou participation à une enquête de satisfaction ;
-* Nos échanges et vos actions sur nos pages de réseaux sociaux : Facebook, Twitter, LinkedIn et Instagram ;
-* Une demande de renseignements, d’un échange téléphonique ou d’une prise de contact avec l’un de nos collaborateurs ;
-* Votre paiement en ligne ;
-* La visite du Blog **[https://blog.medicalib.fr/](https://www.medicalib.fr/blog/)** et la mise en ligne de commentaires ;
-* Votre participation à des événements organisés par l’entreprise. 
+*   Votre navigation ou visites sur nos Sites et applications : **[www.medicalib.fr](http://www.medicalib.fr/)**, **[pro.medicalib.fr](https://pro.medicalib.fr/)**, **[saas.medicalib.fr](https://saas.medicalib.fr/)** ;
+*   L’utilisation de nos services ;
+*   La création d’une demande de soins en ligne ;
+*   La création d’un Compte professionnel en ligne ;
+*   La connexion à l’espace professionnel en ligne ;
+*   L’utilisation du chat présent sur le site en ligne ;
+*   La réception et le suivi d’avis laissés par nos patients ou des professionnels ;
+*   Votre réponse ou participation à une enquête de satisfaction ;
+*   Nos échanges et vos actions sur nos pages de réseaux sociaux : Facebook, Twitter, LinkedIn et Instagram ;
+*   Une demande de renseignements, d’un échange téléphonique ou d’une prise de contact avec l’un de nos collaborateurs ;
+*   Votre paiement en ligne ;
+*   La visite du Blog **[https://blog.medicalib.fr/](https://www.medicalib.fr/blog/)** et la mise en ligne de commentaires ;
+*   Votre participation à des événements organisés par l’entreprise. 
 
 5 - Vos droits
 --------------
 
 En application de la Loi Informatique et Liberté Loi 78-17 du 6 janvier 1978 modifiée et du Règlement Général sur la Protection des Données Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016, toute personne physique utilisant le service a la faculté d’exercer les droits suivants :
 
-* **Droit d’accès** : à ce titre, vous pouvez avoir la confirmation que vos Données personnelles sont ou ne sont pas traitées par l’entreprise et lorsqu’elles le sont, vous disposez du droit de demander une copie de vos Données et des informations vous concernant conformément aux dispositions de l’article 15 du RGPD.
-* **Un droit de rectification** : vous pouvez nous demander que vos Données personnelles soient, selon les cas, rectifiées, complétées si elles sont inexactes, incomplètes, équivoques.
-* **Un droit d’opposition** : vous disposez du droit de vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos Données à caractère personnel dont la base juridique est l’intérêt légitime poursuivi par HELLOSANTE sauf si nous pouvons démontrer que nous pouvons avoir des motifs légitimes et impérieux pour maintenir ce traitement.
-* **Un droit à l’effacement de vos Données** : vous pouvez demander l’effacement de vos Données personnelles dans les cas prévus par la législation et la réglementation. Le droit à l’effacement des données n’est pas un droit général. Il ne pourra y être fait droit que si vos Données ne sont plus nécessaires, si l’Utilisateur a retiré son consentement sur lequel est fondé le traitement, si l’Utilisateur s’oppose au traitement de ses Données, si le traitement est illicite ou pour respecter une obligation légale à laquelle le Responsable de traitement est soumis.
-* **Un droit à la limitation du traitement de vos Données** : vous avez la possibilité d’obtenir de HELLOSANTE la limitation du traitement de vos Données à caractère personnel. Dans ce cas, vos Données seront conservées mais ne pourront plus être utilisées sauf sous certaines conditions. Ce droit vient compléter le droit à la rectification et le droit d’opposition au traitement de vos Données.
-* **Un droit à la portabilité de vos Données à caractère personnel** : vous avez le droit d’obtenir de HELLOSANTE une copie des Données que vous aurez fournies et que vous souhaitez transférer, à votre guise, à une autre plateforme. Nous attirons votre attention sur le fait que ce droit est limité aux traitements dont la base juridique est votre consentement ou l’exécution des mesures précontractuelles ou contractuelles. Ce droit ne concerne que les traitements automatisés à l’exclusion des traitements manuels ou papiers.
-* **Droit de définir le sort des Données à caractère personnel** : vous avez la possibilité de définir des directives particulières relatives à la conservation, à l’effacement et à la communication de vos Données personnelles après votre décès. Ces directives particulières ne concerneront que les traitements mis en œuvre par nos soins et seront limitées à ce seul périmètre. En l’absence de telles directives, la société fera droit aux demandes des héritiers telles que limitativement énoncées par les dispositions applicables de la Loi Informatique et Libertés. 
+*   **Droit d’accès** : à ce titre, vous pouvez avoir la confirmation que vos Données personnelles sont ou ne sont pas traitées par l’entreprise et lorsqu’elles le sont, vous disposez du droit de demander une copie de vos Données et des informations vous concernant conformément aux dispositions de l’article 15 du RGPD.
+*   **Un droit de rectification** : vous pouvez nous demander que vos Données personnelles soient, selon les cas, rectifiées, complétées si elles sont inexactes, incomplètes, équivoques.
+*   **Un droit d’opposition** : vous disposez du droit de vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos Données à caractère personnel dont la base juridique est l’intérêt légitime poursuivi par HELLOSANTE sauf si nous pouvons démontrer que nous pouvons avoir des motifs légitimes et impérieux pour maintenir ce traitement.
+*   **Un droit à l’effacement de vos Données** : vous pouvez demander l’effacement de vos Données personnelles dans les cas prévus par la législation et la réglementation. Le droit à l’effacement des données n’est pas un droit général. Il ne pourra y être fait droit que si vos Données ne sont plus nécessaires, si l’Utilisateur a retiré son consentement sur lequel est fondé le traitement, si l’Utilisateur s’oppose au traitement de ses Données, si le traitement est illicite ou pour respecter une obligation légale à laquelle le Responsable de traitement est soumis.
+*   **Un droit à la limitation du traitement de vos Données** : vous avez la possibilité d’obtenir de HELLOSANTE la limitation du traitement de vos Données à caractère personnel. Dans ce cas, vos Données seront conservées mais ne pourront plus être utilisées sauf sous certaines conditions. Ce droit vient compléter le droit à la rectification et le droit d’opposition au traitement de vos Données.
+*   **Un droit à la portabilité de vos Données à caractère personnel** : vous avez le droit d’obtenir de HELLOSANTE une copie des Données que vous aurez fournies et que vous souhaitez transférer, à votre guise, à une autre plateforme. Nous attirons votre attention sur le fait que ce droit est limité aux traitements dont la base juridique est votre consentement ou l’exécution des mesures précontractuelles ou contractuelles. Ce droit ne concerne que les traitements automatisés à l’exclusion des traitements manuels ou papiers.
+*   **Droit de définir le sort des Données à caractère personnel** : vous avez la possibilité de définir des directives particulières relatives à la conservation, à l’effacement et à la communication de vos Données personnelles après votre décès. Ces directives particulières ne concerneront que les traitements mis en œuvre par nos soins et seront limitées à ce seul périmètre. En l’absence de telles directives, la société fera droit aux demandes des héritiers telles que limitativement énoncées par les dispositions applicables de la Loi Informatique et Libertés. 
 
 5.1. Comment exercer vos droits ?
 
@@ -203,11 +203,11 @@ Pour plus d’informations sur vos droits, vous pouvez consulter le site de la C
 
 La communication de vos Données personnelles est dans la plupart des cas délibérée. Lorsque vos informations nous sont indispensables pour le traitement de vos demandes, nous vous le signalons par un astérisque (\*). Dans le cadre de nos prestations de services, nous collectons des Données à caractère personnel dites sensibles et notamment des Données de santé afin que la personne concernée (Patient) reçoive ceux adaptés à sa condition et délivrés par le Professionnel de santé le plus qualifié.
 
-* **Données relatives aux patients** : civilité, nom, prénom, adresse postale, année de naissance, adresse électronique, numéro de téléphone, Données de santé, prescriptions, fréquence de la demande de soins, durée des soins, date de début des soins, disponibilités horaires pour les soins, lieu des soins souhaité (domicile ou cabinet), Données de connexion (adresse IP, type de terminal, Identifiant technique des appareils…), avis et commentaires liés à l’utilisation des services, réclamations, Données liées à la satisfaction clients, copie d’une pièce d’identité du patient lorsque cela est nécessaire pour vérifier son identité et en particulier lors d’une introduction d’une demande d’exercice de droit.
-* **Données relatives aux Professionnels de santé** :civilité, profession, nom, prénom, date de naissance, numéro de téléphone portable, nom du cabinet, numéro de téléphone du cabinet , adresse électronique, adresse postale, disponibilités du professionnel de santé, numéro SIRET du cabinet, adresse de facturation, structure juridique du cabinet de l’Infirmier, point central des tournées, numéro RPPS, moyens de paiement, coordonnées bancaires, Professionnel, historique des prises en charge acceptées par le professionnel , historique de réponses aux demandes de prises en charge envoyées, Données concernant les réclamations, contentieux, avis et commentaires liés à l’utilisation des services, données de connexion (adresse IP, type de terminal, Identifiants techniques des appareils…), données liées à la satisfaction clients, données liées au compte utilisateur, copie d’une pièce d’identité lorsque cela est nécessaire pour vérifier l’identité du professionnel et éviter ainsi toute usurpation d’identité, carte CPS, Siret.
-* **Données relatives aux personnes dépistées** : nom, prénom, adresse mail ainsi que les données liées à l’enquête de satisfaction si le volontaire l’a complété.  
+*   **Données relatives aux patients** : civilité, nom, prénom, adresse postale, année de naissance, adresse électronique, numéro de téléphone, Données de santé, prescriptions, fréquence de la demande de soins, durée des soins, date de début des soins, disponibilités horaires pour les soins, lieu des soins souhaité (domicile ou cabinet), Données de connexion (adresse IP, type de terminal, Identifiant technique des appareils…), avis et commentaires liés à l’utilisation des services, réclamations, Données liées à la satisfaction clients, copie d’une pièce d’identité du patient lorsque cela est nécessaire pour vérifier son identité et en particulier lors d’une introduction d’une demande d’exercice de droit.
+*   **Données relatives aux Professionnels de santé** :civilité, profession, nom, prénom, date de naissance, numéro de téléphone portable, nom du cabinet, numéro de téléphone du cabinet , adresse électronique, adresse postale, disponibilités du professionnel de santé, numéro SIRET du cabinet, adresse de facturation, structure juridique du cabinet de l’Infirmier, point central des tournées, numéro RPPS, moyens de paiement, coordonnées bancaires, Professionnel, historique des prises en charge acceptées par le professionnel , historique de réponses aux demandes de prises en charge envoyées, Données concernant les réclamations, contentieux, avis et commentaires liés à l’utilisation des services, données de connexion (adresse IP, type de terminal, Identifiants techniques des appareils…), données liées à la satisfaction clients, données liées au compte utilisateur, copie d’une pièce d’identité lorsque cela est nécessaire pour vérifier l’identité du professionnel et éviter ainsi toute usurpation d’identité, carte CPS, Siret.
+*   **Données relatives aux personnes dépistées** : nom, prénom, adresse mail ainsi que les données liées à l’enquête de satisfaction si le volontaire l’a complété.  
     
-* **Données relatives aux candidats** : nom, prénom, adresse électronique, numéro de téléphone, curriculum vitae, lettre de motivation.
+*   **Données relatives aux candidats** : nom, prénom, adresse électronique, numéro de téléphone, curriculum vitae, lettre de motivation.
 
 S’agissant des Données à Caractère Personnel relatives à des personnes mineures, HELLOSANTE s’engage à n’utiliser les Données de mineurs de moins 15 ans que dans l’hypothèse d’un consentement conjointement donné par le mineur concerné et le ou les titulaires de l’autorité parentale à l’égard de ce mineur.  
 
@@ -216,61 +216,61 @@ S’agissant des Données à Caractère Personnel relatives à des personnes min
 
 Lorsque HELLOSANTE collecte et traite les Données caractère personnel des Patients en sa qualité de Responsable de traitement, les finalités sont les suivantes :
 
-* Traitement des demandes de mise en relation entre le Patient et le Professionnel de santé ;
-* Fourniture et suivi des Services de mise en relation entre les Professionnels de santé et le Patient ;
-* Suivi et statistiques d’utilisation du Site, de l’Application et du Blog ;
-* Elaboration de statistiques produits et satisfaction ;
-* Recueil des commentaires sur le Blog et l’Application ;
-* Recueil des avis des Utilisateurs : Google Avis, App Store & Play Store ;
-* Traitement et réponse aux éventuelles questions et /réclamations des Utilisateurs ;
-* Gestion des demandes d’exercice de droits ;
-* Assistance technique et support aux utilisateurs ;
-* Réalisation d’enquêtes de satisfaction anonymes sauf si le patient décide de communiquer des informations personnelles en commentaire libre ;
-* Prévention et lutte contre les fraudes informatiques ;
-* Envoi de mail et SMS de confirmation de prise en charge de la demande par un professionnel de santé ;
-* Envoi de SMS de confirmation de rendez-vous ;
-* Suivi de la qualité des Services et la formation des collaborateurs notamment lors des enregistrements des appels téléphoniques ;
-* Organisation des campagnes de dépistages et gestion des prises de rendez-vous.  
+*   Traitement des demandes de mise en relation entre le Patient et le Professionnel de santé ;
+*   Fourniture et suivi des Services de mise en relation entre les Professionnels de santé et le Patient ;
+*   Suivi et statistiques d’utilisation du Site, de l’Application et du Blog ;
+*   Elaboration de statistiques produits et satisfaction ;
+*   Recueil des commentaires sur le Blog et l’Application ;
+*   Recueil des avis des Utilisateurs : Google Avis, App Store & Play Store ;
+*   Traitement et réponse aux éventuelles questions et /réclamations des Utilisateurs ;
+*   Gestion des demandes d’exercice de droits ;
+*   Assistance technique et support aux utilisateurs ;
+*   Réalisation d’enquêtes de satisfaction anonymes sauf si le patient décide de communiquer des informations personnelles en commentaire libre ;
+*   Prévention et lutte contre les fraudes informatiques ;
+*   Envoi de mail et SMS de confirmation de prise en charge de la demande par un professionnel de santé ;
+*   Envoi de SMS de confirmation de rendez-vous ;
+*   Suivi de la qualité des Services et la formation des collaborateurs notamment lors des enregistrements des appels téléphoniques ;
+*   Organisation des campagnes de dépistages et gestion des prises de rendez-vous.  
     
 
   
   
 Lorsque HELLOSANTE collecte et traite les Données à caractère personnel des Professionnels en sa qualité de Responsable de traitement, les finalités sont :
 
-* Fourniture et suivi des Services de mise en relation entre le Professionnel de santé et le Patient ;
-* Gestion de la création des comptes utilisateurs professionnels et de l’espace client ;
-* Création de l’annuaire en ligne des Professionnels de santé ;
-* Suivi et statistiques d’utilisation du Site, de l’Application et du Blog ;
-* Recueil des commentaires sur le Blog et de l’Application ;
-* Recueil des avis des Utilisateurs : Google Avis, App Store & Play Store ;
-* Traitement et réponse aux éventuelles questions et /réclamations des Clients ;
-* Gestion des demandes d’exercice de droits ;
-* Assistance technique et support aux utilisateurs ;
-* Gestion de la relation commerciale ;
-* Facturation des souscriptions ;
-* Gestion des impayés et du contentieux ;
-* Elaboration de statistiques commerciales, produits et satisfaction ;
-* Prévention et lutte contre les fraudes informatiques ;
-* Envoi de mail de suivi d’inscription, d’abonnement et de gestion de compte ;
-* Envoi d’invitations à participer à certains événements organisés par l’entreprise ;
-* Envoi de newsletters ;
-* Envoi d’offres promotionnelles et codes avantages par mail et SMS ;
-* Réalisation d’actions de prospection commerciale ;
-* Suivi de la qualité des Services et la formation des collaborateurs notamment lors des enregistrements des appels téléphoniques.
+*   Fourniture et suivi des Services de mise en relation entre le Professionnel de santé et le Patient ;
+*   Gestion de la création des comptes utilisateurs professionnels et de l’espace client ;
+*   Création de l’annuaire en ligne des Professionnels de santé ;
+*   Suivi et statistiques d’utilisation du Site, de l’Application et du Blog ;
+*   Recueil des commentaires sur le Blog et de l’Application ;
+*   Recueil des avis des Utilisateurs : Google Avis, App Store & Play Store ;
+*   Traitement et réponse aux éventuelles questions et /réclamations des Clients ;
+*   Gestion des demandes d’exercice de droits ;
+*   Assistance technique et support aux utilisateurs ;
+*   Gestion de la relation commerciale ;
+*   Facturation des souscriptions ;
+*   Gestion des impayés et du contentieux ;
+*   Elaboration de statistiques commerciales, produits et satisfaction ;
+*   Prévention et lutte contre les fraudes informatiques ;
+*   Envoi de mail de suivi d’inscription, d’abonnement et de gestion de compte ;
+*   Envoi d’invitations à participer à certains événements organisés par l’entreprise ;
+*   Envoi de newsletters ;
+*   Envoi d’offres promotionnelles et codes avantages par mail et SMS ;
+*   Réalisation d’actions de prospection commerciale ;
+*   Suivi de la qualité des Services et la formation des collaborateurs notamment lors des enregistrements des appels téléphoniques.
 
   
 Lorsque HELLOSANTE collecte et traite les Données à caractère personnel, en sa qualité de Sous-traitant, pour le compte des Professionnels de santé, les finalités poursuivies sont les suivantes :
 
-* Mise à disposition d’un outil SAAS pour la gestion et le suivi des patients ;
-* Gestion du partage des documents entre les patients et les professionnels de santé (Ex : prescription) ;
-* Hébergement des données par l’intermédiaire d’un Sous-traitant de second rang certifié HDS ;
-* Gestion des maintenances correctives et applicatives de l’outil SAAS.
+*   Mise à disposition d’un outil SAAS pour la gestion et le suivi des patients ;
+*   Gestion du partage des documents entre les patients et les professionnels de santé (Ex : prescription) ;
+*   Hébergement des données par l’intermédiaire d’un Sous-traitant de second rang certifié HDS ;
+*   Gestion des maintenances correctives et applicatives de l’outil SAAS.
 
   
 Lorsque HELLOSANTE collecte et traite les Données à caractère personnel des candidats en sa qualité de Responsable de traitement, les finalités sont les suivantes :
 
-* Gestion des candidatures spontanées (collecte, traitement, réponse et conservation) ;
-* Constitution d’une CVthèque. 
+*   Gestion des candidatures spontanées (collecte, traitement, réponse et conservation) ;
+*   Constitution d’une CVthèque. 
 
 7.1 Quels sont les fondements juridiques de la collecte et du traitement des Données à caractère personnel lorsque HELLOSANTE agit en qualité de Responsable de traitement
 
@@ -448,18 +448,18 @@ Marketing, comptabilité, ressources humaines, communication, service commercial
 
 Dans le cadre de la mise à disposition de nos services, nous faisons également appel à des Sous-traitants pour les opérations suivantes :
 
-* Le recouvrement des impayés ;
-* Le paiement en ligne ;
-* La gestion du tchat ;
-* La gestion et l’enregistrement des appels téléphoniques ;
-* La personnalisation des contenus de nos sites et applications mobiles ;
-* La réalisation d’opération de maintenance et de développement technique du site internet, des applications internes et du système d’information ;
-* La lutte contre la fraude informatique et la sécurisation du site internet et de l’application mobile ;
-* Le recueil des avis clients ;
-* L’expédition des courriels de prospection commerciale ;
-* L’expédition de newsletters ;
-* L’envoi de SMS ;
-* La gestion de la facturation.
+*   Le recouvrement des impayés ;
+*   Le paiement en ligne ;
+*   La gestion du tchat ;
+*   La gestion et l’enregistrement des appels téléphoniques ;
+*   La personnalisation des contenus de nos sites et applications mobiles ;
+*   La réalisation d’opération de maintenance et de développement technique du site internet, des applications internes et du système d’information ;
+*   La lutte contre la fraude informatique et la sécurisation du site internet et de l’application mobile ;
+*   Le recueil des avis clients ;
+*   L’expédition des courriels de prospection commerciale ;
+*   L’expédition de newsletters ;
+*   L’envoi de SMS ;
+*   La gestion de la facturation.
 
 La liste complète des Sous-traitants auxquels nous faisons appel est disponible **[ici](https://www.medicalib.fr/sous-traitant/)**.
 
@@ -520,10 +520,10 @@ Pour plus d’informations concernant le traitement de vos données, la politiqu
 
 Nous attirons votre attention sur les réseaux sociaux dont les liens paraissent en bas de notre site et avec lesquels vous pouvez être amenés à interagir pour nous soutenir et/ou partager l’une de nos publications. Lors de votre interaction, HELLOSANTE ne peut être tenue comme responsable en cas de problème. Sachez que lorsque vous utilisez ces liens, des informations à votre sujet peuvent être collectées par les réseaux en leur qualité de Responsable de traitement. Nous vous encourageons à consulter les politiques et paramètres de confidentialité des réseaux sociaux avec lesquels vous interagissez, afin de connaître les informations susceptibles d'être recueillies, utilisées ou partagées par ces sites.
 
-* Facebook : **[https://fr-fr.facebook.com/policies/cookies/](https://fr-fr.facebook.com/policies/cookies/)**
-* Twitter : **[https://help.twitter.com/fr/rules-and-policies/twitter-cookies](https://help.twitter.com/fr/rules-and-policies/twitter-cookies)**
-* LinkedIn : **[https://www.linkedin.com/legal/cookie-policy?\_l=fr\_FR](https://www.linkedin.com/legal/cookie-policy?_l=fr_FR)**
-* Instagram: **[https://help.instagram.com/1896641480634370?ref=ig](https://help.instagram.com/1896641480634370?ref=ig)** 
+*   Facebook : **[https://fr-fr.facebook.com/policies/cookies/](https://fr-fr.facebook.com/policies/cookies/)**
+*   Twitter : **[https://help.twitter.com/fr/rules-and-policies/twitter-cookies](https://help.twitter.com/fr/rules-and-policies/twitter-cookies)**
+*   LinkedIn : **[https://www.linkedin.com/legal/cookie-policy?\_l=fr\_FR](https://www.linkedin.com/legal/cookie-policy?_l=fr_FR)**
+*   Instagram: **[https://help.instagram.com/1896641480634370?ref=ig](https://help.instagram.com/1896641480634370?ref=ig)** 
 
 15 - Modification de la présente politique
 ------------------------------------------
