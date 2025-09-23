@@ -43,11 +43,11 @@ Les termes ou expressions suivants, s'ils commencent par une majuscule, qu'ils s
 
 **« Service »** : désigne tout produit et/ou service mis à la disposition de l’Utilisateur à titre onéreux ou gratuit par FEELVERYBIEN au travers des Supports. Figurent parmi les Services, et sans que cette liste ne soit exhaustive, les produits et/ou services suivants :
 
-* Des contenus de méditation, respiration, sophrologie et autres techniques, sous forme de programmes thématiques composés de plusieurs séances de durée variable, et d’outils paramétrables ;
-* Des « Méditations du jour », consistant en une séance quotidienne de 8, 12 ou 16 minutes ;
-* Des Musiques, Sons et Ambiances exclusifs ;
-* Des Histoires, sous forme de courtes animations, pour expliquer de manière pédagogique les grands principes de la méditation ;
-* Un accompagnement et une assistance personnalisés.
+*   Des contenus de méditation, respiration, sophrologie et autres techniques, sous forme de programmes thématiques composés de plusieurs séances de durée variable, et d’outils paramétrables ;
+*   Des « Méditations du jour », consistant en une séance quotidienne de 8, 12 ou 16 minutes ;
+*   Des Musiques, Sons et Ambiances exclusifs ;
+*   Des Histoires, sous forme de courtes animations, pour expliquer de manière pédagogique les grands principes de la méditation ;
+*   Un accompagnement et une assistance personnalisés.
 
 **« Support »** : désigne collectivement les supports numériques par lesquels les Utilisateurs peuvent accéder aux Services proposés par FEELVERYBIEN, incluant notamment le Site ainsi que l’Application.
 
@@ -60,8 +60,8 @@ FEELVERYBIEN est libre de modifier les Services et Contenus à tout moment.
 
 L’ensemble des offres et conditions d’abonnement, les tarifs, descriptions, caractéristiques techniques et d’utilisation des services proposés sont accessibles, sauf en cas de force majeure, panne ou opération de maintenance, en permanence sous les liens suivants :
 
-* **Pour le Site :** [https://www.petitbambou.com/fr/subscriptions](https://www.petitbambou.com/fr/subscriptions)
-* **Pour l'Application :** [https://www.petitbambou.com/subscribe](https://www.petitbambou.com/subscribe)
+*   **Pour le Site :** [https://www.petitbambou.com/fr/subscriptions](https://www.petitbambou.com/fr/subscriptions)
+*   **Pour l'Application :** [https://www.petitbambou.com/subscribe](https://www.petitbambou.com/subscribe)
 
 L’offre d’abonnement est une offre permettant à l’Abonné de souscrire simultanément compte et droits d’accès au Site et à l’Application. La souscription de l’Abonnement est effectuée soit en ligne directement sur le Site, soit sur l’Application.
 
@@ -91,8 +91,8 @@ Pour toute question relative à l’éligibilité ou au processus de validation 
 
 L’Offre « Famille » constitue un abonnement distinct, proposé aux mêmes conditions de qualité et de service que l’abonnement « Solo », mais assorti de la faculté de pouvoir inviter jusqu’à trois (3) personnes de son choix. Accessible aux liens détaillés en Article 3.1, l’Offre « Famille » est commercialisée sous deux options :
 
-* Une formule annuelle accessible dans tous les pays où les Services sont distribués ;
-* Une formule mensuelle disponible dans tous les pays où les Services sont distribués.
+*   Une formule annuelle accessible dans tous les pays où les Services sont distribués ;
+*   Une formule mensuelle disponible dans tous les pays où les Services sont distribués.
 
 Est entendue par « Famille » la famille au sens large, ce qui inclut tant les proches du Master, qu’ils résident ou non sous le même toit, que sa famille « de cœur ».
 
@@ -146,11 +146,11 @@ L’Abonné est seul responsable du paiement de l’ensemble des sommes dues au 
 
 **Pour le Site.** Le paiement s’effectue au moment de la commande, avec les modes de paiement suivants :
 
-* Carte bancaire sur le Site ;
-* Apple Pay pour les mobiles Apple ou Google Pay pour les mobiles Android sur le Site ;
-* PayPal ;
-* Bancontact (disponible exclusivement pour les utilisateurs belges) ;
-* iDEAL (disponible exclusivement pour les utilisateurs néerlandais) ;
+*   Carte bancaire sur le Site ;
+*   Apple Pay pour les mobiles Apple ou Google Pay pour les mobiles Android sur le Site ;
+*   PayPal ;
+*   Bancontact (disponible exclusivement pour les utilisateurs belges) ;
+*   iDEAL (disponible exclusivement pour les utilisateurs néerlandais) ;
 
 Le paiement sur le Site peut également se faire par virement bancaire (disponible dans les pays de l'Union européenne) dans les trente (30) jours suivant la date de facture. Dans l'hypothèse d'un virement bancaire, le paiement sera considéré effectif dès lors que les fonds seront reçus intégralement sur le compte bancaire de FEELVERYBIEN. Si le paiement venait à ne pas être effectof, FEELVERYBIEN se réserve le droit de couper les accès de l'Abonné.
 
@@ -195,18 +195,18 @@ Le Site, ainsi que l’Application, sont accessibles 24 heures sur 24, 7 jours s
 
 L’Abonné utilise les Services du Site et de l’Application en l’état. L’Abonné déclare aussi accepter les caractéristiques et les limites de l’Internet, et en particulier reconnaître que :
 
-* Son utilisation des Supports se fait à ses risques et périls ;
-* Les Supports sont accessibles en l’état et en fonction de leur disponibilité ;
-* Tout téléchargement par l’Abonné est fait sous son entière responsabilité ;
-* L’Abonné est seul responsable pour tout dommage subi par son ordinateur ou toute perte de données consécutive au téléchargement ou à la consultation des Supports ;
-* Il appartient à l’Abonné de prendre toutes les mesures appropriées de façon à protéger ses propres données et/ou logiciels de la contamination par d’éventuels virus circulant à travers les Supports et/ou les informations et contenus ;
-* Aucun conseil et aucune information, qu’ils soient oraux ou écrits, obtenus par l’Abonné de FEELVERYBIEN ou lors de l’utilisation des Supports ne sont susceptibles de créer des garanties non expressément prévues par les présentes Conditions Générales ;
-* L’Abonné est seul responsable de l’utilisation faite des informations présentes sur les Supports et, en conséquence, FEELVERYBIEN ne saurait être tenue responsable de dommages directs ou indirects découlant de l’utilisation de ces informations ;
-* L’Abonné est seul responsable de l’utilisation des sites ayant un lien hypertexte avec les Supports ;
-* L’Abonné a connaissance de la nature de l’internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer les informations ;
-* La communication des codes d’accès de l’Abonné ou de toute information jugée confidentielle est faite sous sa propre responsabilité ;
-* Il appartient à l’Abonné de prendre toutes mesures nécessaires pour s’assurer que les caractéristiques techniques de son équipement lui permettent de consulter les informations ;
-* Les Services proposés par FEELVERYBIEN sont conformes à la législation française en vigueur.
+*   Son utilisation des Supports se fait à ses risques et périls ;
+*   Les Supports sont accessibles en l’état et en fonction de leur disponibilité ;
+*   Tout téléchargement par l’Abonné est fait sous son entière responsabilité ;
+*   L’Abonné est seul responsable pour tout dommage subi par son ordinateur ou toute perte de données consécutive au téléchargement ou à la consultation des Supports ;
+*   Il appartient à l’Abonné de prendre toutes les mesures appropriées de façon à protéger ses propres données et/ou logiciels de la contamination par d’éventuels virus circulant à travers les Supports et/ou les informations et contenus ;
+*   Aucun conseil et aucune information, qu’ils soient oraux ou écrits, obtenus par l’Abonné de FEELVERYBIEN ou lors de l’utilisation des Supports ne sont susceptibles de créer des garanties non expressément prévues par les présentes Conditions Générales ;
+*   L’Abonné est seul responsable de l’utilisation faite des informations présentes sur les Supports et, en conséquence, FEELVERYBIEN ne saurait être tenue responsable de dommages directs ou indirects découlant de l’utilisation de ces informations ;
+*   L’Abonné est seul responsable de l’utilisation des sites ayant un lien hypertexte avec les Supports ;
+*   L’Abonné a connaissance de la nature de l’internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer les informations ;
+*   La communication des codes d’accès de l’Abonné ou de toute information jugée confidentielle est faite sous sa propre responsabilité ;
+*   Il appartient à l’Abonné de prendre toutes mesures nécessaires pour s’assurer que les caractéristiques techniques de son équipement lui permettent de consulter les informations ;
+*   Les Services proposés par FEELVERYBIEN sont conformes à la législation française en vigueur.
 
 7\. FORCE MAJEURE
 -----------------
