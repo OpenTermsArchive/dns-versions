@@ -29,30 +29,30 @@ En parcourant notre site internet et en utilisant nos services à destination de
 
 La nature et la qualité des données personnelles collectées à votre sujet varient selon les relations que vous entreprenez avec **LIBHEROS** :
 
-* Données d’identification : par exemple votre identité, votre adresse mail, l’adresse où vous souhaitez que le(s) soin(s) soi(en)t effectué(s), numéro de téléphone, âge, etc.;
-* Données de connexion : ce sont toutes les informations dont nous avons besoin pour vous permettre d’accéder à votre compte personnel, comme le mot de passe, et autres informations nécessaires à l’authentification et à l’accès à votre compte patient;
-* Informations relatives à votre navigation : en navigant sur notre site internet, vous interagissez avec lui. Par conséquent, certaines informations relatives à votre navigation sont collectées telles que les pages que vous consultez, le navigateur utilisé, etc.; En outre, la solution d'analyse d'audience que nous utilisons nous permet d'anonymiser les données de navigation. Ces dernières ne permettent donc pas de vous identifier, et ne sont donc pas des données personnelles au sens du RGPD.
-* Données de santé : ordonnances (vous avez en effet la possibilité de joindre une ordonnance lors de votre prise de rendez-vous), motif du rendez-vous, historique des rendez-vous ;
-* Données professionnelles : ce sont toutes les informations liées à la gestion des comptes des professionnels de santé et aux échanges avec eux, telles que la profession, la spécialité, les coordonnées professionnelles ou les avis donnés par les patients ;
-* Historique des conversations avec le service support.
+*   Données d’identification : par exemple votre identité, votre adresse mail, l’adresse où vous souhaitez que le(s) soin(s) soi(en)t effectué(s), numéro de téléphone, âge, etc.;
+*   Données de connexion : ce sont toutes les informations dont nous avons besoin pour vous permettre d’accéder à votre compte personnel, comme le mot de passe, et autres informations nécessaires à l’authentification et à l’accès à votre compte patient;
+*   Informations relatives à votre navigation : en navigant sur notre site internet, vous interagissez avec lui. Par conséquent, certaines informations relatives à votre navigation sont collectées telles que les pages que vous consultez, le navigateur utilisé, etc.; En outre, la solution d'analyse d'audience que nous utilisons nous permet d'anonymiser les données de navigation. Ces dernières ne permettent donc pas de vous identifier, et ne sont donc pas des données personnelles au sens du RGPD.
+*   Données de santé : ordonnances (vous avez en effet la possibilité de joindre une ordonnance lors de votre prise de rendez-vous), motif du rendez-vous, historique des rendez-vous ;
+*   Données professionnelles : ce sont toutes les informations liées à la gestion des comptes des professionnels de santé et aux échanges avec eux, telles que la profession, la spécialité, les coordonnées professionnelles ou les avis donnés par les patients ;
+*   Historique des conversations avec le service support.
 
 5\. Pourquoi collectons-nous vos données personnelles, et comment ?
 
 Nous collectons vos données personnelles pour des finalités déterminées et sur différents fondements juridiques.
 
-* Gestion de la prise de rendez-vous en ligne : Consentement
-* Gestion des comptes patients : Exécution d’un contrat
-* Support patient : Intérêt légitime
-* Suivi de votre navigation en ligne (utilisation de cookies pour veiller au bon fonctionnement du site internet et réaliser des statistiques) : Exemption CNIL
-* Prise de contact avec les patients pour l’amélioration de nos services : Consentement
-* Communications sur les services et offres adaptés aux besoins des patients : Consentement
-* Campagne de prévention en entreprise : Nécessaire à l’exécution d’un contrat et concernant les données de santé traitées dans le cadre de ce traitement, l’exception prévue à l’article 9 2.h du RGPD : Consentement exprès
-* Projets de recherche clinique : Consentement exprès
-* Gestion des demandes d’accompagnement transmises par les professionnels de santé : Consentement
-* Gestion des échanges avec les professionnels de santé partenaires : Exécution d’un contrat
-* Gestion des échanges avec les professionnels de santé non partenaires : Intérêt légitime
-* Mise en oeuvre de mesures techniques et organisationnelles appropriées afin d'assurer la sécurité des données personnelles : Intérêt légitime
-* Traitement des demandes d'exercice de droit en application du RGPD : Intérêt légitime
+*   Gestion de la prise de rendez-vous en ligne : Consentement
+*   Gestion des comptes patients : Exécution d’un contrat
+*   Support patient : Intérêt légitime
+*   Suivi de votre navigation en ligne (utilisation de cookies pour veiller au bon fonctionnement du site internet et réaliser des statistiques) : Exemption CNIL
+*   Prise de contact avec les patients pour l’amélioration de nos services : Consentement
+*   Communications sur les services et offres adaptés aux besoins des patients : Consentement
+*   Campagne de prévention en entreprise : Nécessaire à l’exécution d’un contrat et concernant les données de santé traitées dans le cadre de ce traitement, l’exception prévue à l’article 9 2.h du RGPD : Consentement exprès
+*   Projets de recherche clinique : Consentement exprès
+*   Gestion des demandes d’accompagnement transmises par les professionnels de santé : Consentement
+*   Gestion des échanges avec les professionnels de santé partenaires : Exécution d’un contrat
+*   Gestion des échanges avec les professionnels de santé non partenaires : Intérêt légitime
+*   Mise en oeuvre de mesures techniques et organisationnelles appropriées afin d'assurer la sécurité des données personnelles : Intérêt légitime
+*   Traitement des demandes d'exercice de droit en application du RGPD : Intérêt légitime
 
 6\. Partageons-nous vos données personnelles ?
 
@@ -60,11 +60,11 @@ Nous n’offrons pas ni ne vendons vos données à caractère personnel
 
 Nous pouvons être amenés, pour certaines finalités de traitement, à partager vos données à nos prestataires auxquels nous faisons appel pour réaliser un ensemble d’opérations et tâches dans le cadre de l’exécution de nos services comme :
 
-* Demande de matériel médical
-* Demande de services à la personne
-* Paiement en ligne
-* Support client
-* Mailing/envoi de SMS
+*   Demande de matériel médical
+*   Demande de services à la personne
+*   Paiement en ligne
+*   Support client
+*   Mailing/envoi de SMS
 
 Cependant, ce partage de données n’est réalisé qu’après avoir obtenu votre consentement, ou lorsqu’il est strictement nécessaire à la réalisation du service que vous avez demandé. Ainsi, ne leur sont communiquées que les informations dont ils ont besoin pour la réalisation du service en question. Il leur est également demandé de ne pas utiliser les données pour des finalités autres que celles initialement prévues. Des garanties contractuelles sont mises en place afin que ces tiers préservent la confidentialité et la sécurité de vos données.
 
@@ -82,26 +82,26 @@ Concernant les données traitées dans le cadre des campagnes de prévention (do
 
 Lorsque nous transférons vos données personnelles vers ces pays, nous nous assurons que le transfert est effectué :
 
-* Soit vers un pays assurant un niveau de protection adéquat, c’est-à-dire un niveau de protection équivalent à la règlementation européenne notamment le Règlement Général sur la Protection des données (RGPD) ;
-* Soit qu’il est encadré par des garanties juridiques appropriées telles que les Clauses contractuelles types de la Commission Européenne ;
+*   Soit vers un pays assurant un niveau de protection adéquat, c’est-à-dire un niveau de protection équivalent à la règlementation européenne notamment le Règlement Général sur la Protection des données (RGPD) ;
+*   Soit qu’il est encadré par des garanties juridiques appropriées telles que les Clauses contractuelles types de la Commission Européenne ;
 
 8\. Combien de temps conservons-nous vos données ?
 
 Nous conservons vos données à caractère personnel uniquement pour le temps nécessaire à la réalisation de la finalité pour laquelle nous détenons ces données, afin de répondre à vos besoins ou de remplir nos obligations légales. Ainsi **LIBHEROS** conserve vos données personnelles :
 
-* Le temps nécessaire pour répondre à votre demande ou question lorsque vous nous contactez via le formulaire de contact ;
-* 13 mois pour les cookies de Hubspot déposés sur votre ordinateur et 13 mois pour les cookies de Matomo ;
-* 5 ans si vous avez pris un rendez-vous en ligne grâce à la plateforme mise à disposition par **LIBHEROS** ;
-* 3 ans à compter du dernier contact avec vous concernant les communications sur les services et offres adaptés à vos besoins.
-* 5 ans à compter de la fin de la campagne concernant les données traitées dans le cadre des campagnes de prévention réalisées sur site
-* 5 ans à compter de la fin du projet ou immédiatement à l'issue du projet dans le cadre de projet de recherche clinique, selon ce qui a été convenu avec le promoteur de l'étude
+*   Le temps nécessaire pour répondre à votre demande ou question lorsque vous nous contactez via le formulaire de contact ;
+*   13 mois pour les cookies de Hubspot déposés sur votre ordinateur et 13 mois pour les cookies de Matomo ;
+*   5 ans si vous avez pris un rendez-vous en ligne grâce à la plateforme mise à disposition par **LIBHEROS** ;
+*   3 ans à compter du dernier contact avec vous concernant les communications sur les services et offres adaptés à vos besoins.
+*   5 ans à compter de la fin de la campagne concernant les données traitées dans le cadre des campagnes de prévention réalisées sur site
+*   5 ans à compter de la fin du projet ou immédiatement à l'issue du projet dans le cadre de projet de recherche clinique, selon ce qui a été convenu avec le promoteur de l'étude
 
 Les durées de conservation varient en fonction de plusieurs facteurs, tels que :
 
-* Les besoins des activités de **LIBHEROS**,
-* Les exigences contractuelles,
-* Les obligations légales,
-* Les recommandations des autorités de contrôle.
+*   Les besoins des activités de **LIBHEROS**,
+*   Les exigences contractuelles,
+*   Les obligations légales,
+*   Les recommandations des autorités de contrôle.
 
 9\. Comment garantissons-nous la sécurité de vos données ?
 
@@ -111,33 +111,33 @@ Ainsi, nous mettons en œuvre les mesures techniques et organisationnelles appro
 
 Ces mesures peuvent comprendre des pratiques telles que :
 
-* Des accès limités aux données personnelles par des personnes habilitées, en raison de leurs fonctions,
-* Des garanties contractuelles en cas de recours à un prestataire externe,
-* Des examens réguliers de nos pratiques et procédures,
-* Des mesures de sécurité physiques et/ou logiques (accès sécurisé, procédé d’authentification, copies de sauvegarde, logiciel antivirus, pare-feu, etc.),
-* Le recours à un hébergeur de données de santé certifié HDS.
+*   Des accès limités aux données personnelles par des personnes habilitées, en raison de leurs fonctions,
+*   Des garanties contractuelles en cas de recours à un prestataire externe,
+*   Des examens réguliers de nos pratiques et procédures,
+*   Des mesures de sécurité physiques et/ou logiques (accès sécurisé, procédé d’authentification, copies de sauvegarde, logiciel antivirus, pare-feu, etc.),
+*   Le recours à un hébergeur de données de santé certifié HDS.
 
 10\. Quels sont vos droits ?
 
 Sur les données à caractère personnel que nous traitons, vous pouvez exercer les droits suivants :
 
-* Un droit d’accès : vous avez le droit de demander l’accès aux données personnelles que nous détenons vous concernant, et vous pouvez en demander une copie ;
-* Un droit de rectification : vous pouvez demander une rectification de toute donnée inexacte vous concernant ;
-* Un droit de suppression : vous pouvez demander la suppression de vos données personnelles dans certaines circonstances ;
-* Un droit à la portabilité : dans certaines conditions vous pouvez recevoir toutes les données personnelles vous concernant que vous nous avez fournies, dans un format structuré. Vous avez aussi le droit d’exiger que nous les transmettions, dans la mesure du possible, à un autre responsable de traitement ;
-* Un droit de fixer le sort de vos données personnelles après votre décès ;
-* Un droit de s’opposer au traitement en invoquant des intérêts légitimes ;
-* Un droit de retirer son consentement à tout moment ;
-* Un droit à la limitation du traitement : vous avez le droit d’obtenir de LIBHEROS qu’il ne traite plus vos Données à caractère personnel pendant une durée déterminée suivant le motif invoqué pour la limitation tel que visé à l’article 18 du RGPD.
+*   Un droit d’accès : vous avez le droit de demander l’accès aux données personnelles que nous détenons vous concernant, et vous pouvez en demander une copie ;
+*   Un droit de rectification : vous pouvez demander une rectification de toute donnée inexacte vous concernant ;
+*   Un droit de suppression : vous pouvez demander la suppression de vos données personnelles dans certaines circonstances ;
+*   Un droit à la portabilité : dans certaines conditions vous pouvez recevoir toutes les données personnelles vous concernant que vous nous avez fournies, dans un format structuré. Vous avez aussi le droit d’exiger que nous les transmettions, dans la mesure du possible, à un autre responsable de traitement ;
+*   Un droit de fixer le sort de vos données personnelles après votre décès ;
+*   Un droit de s’opposer au traitement en invoquant des intérêts légitimes ;
+*   Un droit de retirer son consentement à tout moment ;
+*   Un droit à la limitation du traitement : vous avez le droit d’obtenir de LIBHEROS qu’il ne traite plus vos Données à caractère personnel pendant une durée déterminée suivant le motif invoqué pour la limitation tel que visé à l’article 18 du RGPD.
 
 Si ces données personnelles sont soumises à des limitations de ce type, nous ne traiterons vos données qu’avec votre consentement, ou en vue d’intenter, de faire valoir ou de nous défendre contre des demandes en justice ;
 
-* Un droit d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL).
+*   Un droit d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL).
 
 Pour exercer vos droits, vous pouvez contacter le délégué à la protection des données (DPO) :
 
-* Par e-mail à [\[email protected\]](https://libheros.fr/cdn-cgi/l/email-protection)
-* Par courrier à :
+*   Par e-mail à [\[email protected\]](https://libheros.fr/cdn-cgi/l/email-protection)
+*   Par courrier à :
 
 DPO Consulting, 18 rue Pasquier, 75008 PARIS
 
@@ -162,12 +162,12 @@ Lors de votre première visite sur le Site internet, un bandeau vous informe de 
 
 Le site internet [https://www.libheros.fr/](https://www.libheros.fr/) utilise deux types de cookies permettant de mieux comprendre l’utilisation du site par les visiteurs :
 
-* Les cookies de Matomo qui permettent d’améliorer l’expérience utilisateur. Ils ont une durée de vie de 13 mois  
+*   Les cookies de Matomo qui permettent d’améliorer l’expérience utilisateur. Ils ont une durée de vie de 13 mois  
     
 
 **Voici une liste exhaustive des partenaires qui déposent des cookies sur le site Libheros.fr.**
 
-* Matomo : [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/)
+*   Matomo : [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/)
 
 **Comment paramétrer les cookies ?**
 
