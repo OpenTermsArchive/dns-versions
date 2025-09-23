@@ -33,13 +33,13 @@ I. DÉFINITION
 
 **Service** désigne l'ensemble des contenus numériques, gratuits ou payants, et services numériques de santé connectée, en ce compris les moyens permettant d'y accéder. Les Services consistent, notamment à :
 
-* Permettre la création du Compte Utilisateur Health Mate ;
-* Fournir une présentation graphique des données issues de l'utilisation des Produits, dont des Données de Santé vous concernant, via l'Application Health Mate ;
-* Fournir des programmes d'exercices physiques, de nutrition ou encore d'amélioration du sommeil aux Utilisateurs. Cette fonctionnalité est conditionnée à la souscription d'un abonnement à notre service Health+ ;
-* Offrir des fonctionnalités de partage des données de l'application Health Mate ;
-* Fournir des informations aux Utilisateurs sur les activités, les actualités de WITHINGS, les Produits et les services ;
-* Faire de la Communication marketing ;
-* Diriger vers le Support Client.
+*   Permettre la création du Compte Utilisateur Health Mate ;
+*   Fournir une présentation graphique des données issues de l'utilisation des Produits, dont des Données de Santé vous concernant, via l'Application Health Mate ;
+*   Fournir des programmes d'exercices physiques, de nutrition ou encore d'amélioration du sommeil aux Utilisateurs. Cette fonctionnalité est conditionnée à la souscription d'un abonnement à notre service Health+ ;
+*   Offrir des fonctionnalités de partage des données de l'application Health Mate ;
+*   Fournir des informations aux Utilisateurs sur les activités, les actualités de WITHINGS, les Produits et les services ;
+*   Faire de la Communication marketing ;
+*   Diriger vers le Support Client.
 
 **Site** désigne le site internet disponible à l'adresse suivante : [www.withings.com](http://www.withings.com/)
 
@@ -56,10 +56,10 @@ II. APPLICATION DES CONDITIONS GENERALES
 
 **2.2. Composition.** Les Conditions Générales de WITHINGS comprennent :
 
-* Les présentes Conditions Générales (Partie 1)
-* Les Conditions Générales de Vente (Partie 2)
-* Les conditions Générales d'Utilisation (Partie 3)
-* La Politique de confidentialité (Partie 4)
+*   Les présentes Conditions Générales (Partie 1)
+*   Les Conditions Générales de Vente (Partie 2)
+*   Les conditions Générales d'Utilisation (Partie 3)
+*   La Politique de confidentialité (Partie 4)
 
 Les Produits et Services doivent être utilisés conformément à leur Guide d'utilisation, disponibles sur le [centre d'aide W](https://support.health.withings.com/hc/requests/new)[ITHINGS](https://support.health.withings.com/hc/requests/new) pour les Produits et Services.
 
@@ -102,6 +102,8 @@ Reference: general-conditions/20230824
 Updated on 24 Aug 2023.
 
 Versions: [24 Aug 2023](https://withings.com/fr/fr/legal/general-conditions?version=20230824) .
+
+- - -
 
 ﻿PARTIE 3 – CONDITIONS GÉNÉRALES D'UTILISATION
 
@@ -159,9 +161,9 @@ _b) Par WITHINGS._ WWITHINGS supprime tout Compte inactif. Un Compte Inactif est
 
 **2.6. Interconnexion avec un Produit.** En interconnectant une Application et un Produit, Vous vous identifiez en tant qu'Utilisateur du Produit. Cette connexion vous permet :
 
-* De lier les données issues du Produit à votre Compte ; et,
-* D'avoir accès à vos données au moyen de l'interface graphique de l'Application ;
-* De sauvegarder vos données personnelles sur les serveurs WITHINGS.
+*   De lier les données issues du Produit à votre Compte ; et,
+*   D'avoir accès à vos données au moyen de l'interface graphique de l'Application ;
+*   De sauvegarder vos données personnelles sur les serveurs WITHINGS.
 
 **2.7. Sécurité de votre compte.** Si vous créez un Compte, vous devez suivre un ensemble d'actions nécessaires afin d'éviter qu'un tiers puisse accéder à votre Compte. Par conséquent, si vous utilisez un mot de passe, il est préférable qu'il soit robuste (comportant un nombre de caractères suffisant, une base mixte et des caractères alphanumériques variés etc.). Il en va de même pour le mot de passe relatif à votre compte mail. Par ailleurs, veuillez penser à déconnecter votre session quand vous utilisez un support que vous ne maitrisez pas. Vous êtes le seul responsable de l'accès à votre Compte et/ou de tout autre moyen mis à votre disposition pour vous connecter au Site et/ou aux Applications. Nous vous rappelons que l'accès à votre compte peut permettre l'accès à vos données personnelles. Nous vous conseillons fortement d'activer la fonctionnalité permettant d'ajouter un second facteur d'authentification pour vous connecter à votre Compte à travers l'Application. Toute connexion à votre Compte par un tiers et à laquelle vous avez donné votre consentement préalable relève de votre responsabilité. Nous ne pouvons être tenus responsables de toute communication de données personnelles à un ou plusieurs tiers en raison de l'autorisation implicite ou explicite que vous avez consentie à ce ou ces tiers.
 
@@ -175,23 +177,23 @@ _b) Par WITHINGS._ WWITHINGS supprime tout Compte inactif. Un Compte Inactif est
 
 **2.12. Limites d'utilisation.** En utilisant une Application
 
-* Faire une utilisation contraire aux lois et règlements, ou aux droits de tiers notamment droits de propriété intellectuelle, ou droits au respect de la vie privée etc. ;
+*   Faire une utilisation contraire aux lois et règlements, ou aux droits de tiers notamment droits de propriété intellectuelle, ou droits au respect de la vie privée etc. ;
     
-* Agir d'une façon pouvant créer un préjudice quelconque à WITHINGS, ses affiliés, ses partenaires ou tout utilisateur de nos Produits et Services de santé connectée ;
+*   Agir d'une façon pouvant créer un préjudice quelconque à WITHINGS, ses affiliés, ses partenaires ou tout utilisateur de nos Produits et Services de santé connectée ;
     
-* Introduire frauduleusement toute donnée au sein d'une Application, du Site, d'une API,
+*   Introduire frauduleusement toute donnée au sein d'une Application, du Site, d'une API,
     
-* Interférer, entraver, ou fausser le bon fonctionnement de l'Application ou du Produit de quelque manière que ce soit afin de nuire à des droits de tiers ou de WITHINGS ; et,
+*   Interférer, entraver, ou fausser le bon fonctionnement de l'Application ou du Produit de quelque manière que ce soit afin de nuire à des droits de tiers ou de WITHINGS ; et,
     
-* Entreprendre toute action et/ou toute utilisation d'une méthode permettant l'extraction de données, notamment toute action de lecture automatique des données (Data scraping), d'extraction de données (Data harvesting), d'indexation des données (Web crawling) depuis l'Application ou le Produit ;
+*   Entreprendre toute action et/ou toute utilisation d'une méthode permettant l'extraction de données, notamment toute action de lecture automatique des données (Data scraping), d'extraction de données (Data harvesting), d'indexation des données (Web crawling) depuis l'Application ou le Produit ;
     
-* Tester la vulnérabilité, la performance et la fonctionnalité de l'Application ou du Produit pour toute raison autre que celles nécessaires à son utilisation prévue ;
+*   Tester la vulnérabilité, la performance et la fonctionnalité de l'Application ou du Produit pour toute raison autre que celles nécessaires à son utilisation prévue ;
     
-* Violer une mesure de sécurité mise en œuvre par WITHINGS dans l'Application ou le Produit ; et,
+*   Violer une mesure de sécurité mise en œuvre par WITHINGS dans l'Application ou le Produit ; et,
     
-* Utiliser tout moyen illégitime pour enfreindre toute méthode d'authentification, mise en œuvre par WITHINGS pour permettre la connexion d'un utilisateur au Produit ;
+*   Utiliser tout moyen illégitime pour enfreindre toute méthode d'authentification, mise en œuvre par WITHINGS pour permettre la connexion d'un utilisateur au Produit ;
     
-* Accéder et se maintenir dans une section de l'Application ou du Produit à laquelle vous n'avez pas spécifiquement accès par leur utilisation habituelle.
+*   Accéder et se maintenir dans une section de l'Application ou du Produit à laquelle vous n'avez pas spécifiquement accès par leur utilisation habituelle.
     
 
 **2.13. Mise à jour d'une Application / d'un Produit.** Les Applications sont régulièrement mises à jour. Si vous n'installez pas les mises à jour nécessaires au maintien du Service ou du Produit, vous pourrez perdre des fonctionnalités. La mise à jour de l'Application ou du Produit est réalisée conformément à la politique de mise à jour éditée par le fabricant de votre Support. Nous vous informons que la mise à jour de l'Application peut inclure des modifications substantielles de **(1)** l'Application et/ou **(2)**des fonctionnalités disponibles sur l'Application. Nous ne pouvons pas Vous garantir la continuité et la disponibilité de toutes les fonctionnalités disponibles au travers l'Application. De plus, les fonctionnalités et la disponibilité de l'Application pourront aussi dépendre de votre lieu de téléchargement ou de connexion à l'Application.
@@ -266,11 +268,11 @@ Des dispositions spécifiques s'appliquent si vous utilisez notre solution de su
 
 **a) Nous ne fournissons pas de conseils médicaux.** En acceptant les présentes Conditions générales d'utilisation pour les Utilisateurs patients, vous acceptez et reconnaissez que le rôle de WITHINGS se limite la fourniture de Health Mate. Vous acceptez en outre que :
 
-* WITHINGS ne vous fournit en aucun cas un diagnostic ou un traitement médical,
-* Les Services ne sont en aucun cas destinés à remplacer le jugement clinique indépendant d'un professionnel de santé qualifié,
-* Les Services ne sont pas conçus pour remplacer votre relation avec votre professionnel de santé ou pour traiter des conditions médicales graves, urgentes ou mettant la vie en danger et ne doivent pas être utilisés dans ces circonstances,
-* Lesinformations générales disponibles par l'intermédiaire des Services sur les conditions médicales, la symptomatologie, les médicaments disponibles, les options de traitement et d'autres articles et vidéos éducatifs sont fournies à des fins éducatives générales uniquement. Ne négligez, n'évitez ou ne retardez jamais l'obtention d'un avis médical auprès d'un médecin ou d'un autre professionnel de santé qualifié en raison d'un élément contenu dans les Services. Si vous avez ou pensez avoir un problème médical urgent, veuillez contacter immédiatement un professionnel de santé qualifié,
-* vous acceptez et reconnaissez que votre utilisation de l'application Health Mate se limite à la visualisation de vos données de santé.
+*   WITHINGS ne vous fournit en aucun cas un diagnostic ou un traitement médical,
+*   Les Services ne sont en aucun cas destinés à remplacer le jugement clinique indépendant d'un professionnel de santé qualifié,
+*   Les Services ne sont pas conçus pour remplacer votre relation avec votre professionnel de santé ou pour traiter des conditions médicales graves, urgentes ou mettant la vie en danger et ne doivent pas être utilisés dans ces circonstances,
+*   Lesinformations générales disponibles par l'intermédiaire des Services sur les conditions médicales, la symptomatologie, les médicaments disponibles, les options de traitement et d'autres articles et vidéos éducatifs sont fournies à des fins éducatives générales uniquement. Ne négligez, n'évitez ou ne retardez jamais l'obtention d'un avis médical auprès d'un médecin ou d'un autre professionnel de santé qualifié en raison d'un élément contenu dans les Services. Si vous avez ou pensez avoir un problème médical urgent, veuillez contacter immédiatement un professionnel de santé qualifié,
+*   vous acceptez et reconnaissez que votre utilisation de l'application Health Mate se limite à la visualisation de vos données de santé.
 
 **b) Nous ne sommes pas une société de facturation d'assurance.** Nous ne sommes pas des experts en facturation et ne fournissons aucun service de facturation des assurances ou des mutuelles.
 
