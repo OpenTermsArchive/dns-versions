@@ -130,12 +130,12 @@ VIII. DROIT DE RÉTRACTATION
 
 **8.2. Exclusion.** Le présent droit de rétractation accordé par WITHINGS n'est pas applicable dans les cas suivants :
 
-* Pour les Services faisant l'objet d'un abonnement si les Services sont pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après votre accord préalable et renoncement exprès à votre droit de rétractation ;
-* En cas de fourniture de biens confectionnés selon les spécifications de l'Acheteur ou nettement personnalisés ;
-* En cas de fourniture de biens qui ont été descellés par Vous après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé ;
-* En cas de fourniture d'enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par Vous après la livraison ;
-* En cas de fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé avant la fin du délai de rétractation avec obligation de paiement après votre accord préalable et renoncement exprès à votre droit de rétractation.
-* Le Produit ou Service qui n'a pas été acheté via le Site ne peut bénéficier de la présente faculté de rétractation, l'utilisateur étant invité à prendre contact avec le distributeur qui lui a vendu le Produit ou le Service.
+*   Pour les Services faisant l'objet d'un abonnement si les Services sont pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après votre accord préalable et renoncement exprès à votre droit de rétractation ;
+*   En cas de fourniture de biens confectionnés selon les spécifications de l'Acheteur ou nettement personnalisés ;
+*   En cas de fourniture de biens qui ont été descellés par Vous après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé ;
+*   En cas de fourniture d'enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par Vous après la livraison ;
+*   En cas de fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé avant la fin du délai de rétractation avec obligation de paiement après votre accord préalable et renoncement exprès à votre droit de rétractation.
+*   Le Produit ou Service qui n'a pas été acheté via le Site ne peut bénéficier de la présente faculté de rétractation, l'utilisateur étant invité à prendre contact avec le distributeur qui lui a vendu le Produit ou le Service.
 
 **8.3. Exécution immédiate.** Dans le cadre de la réalisation de Services, Vous pouvez Nous demander une exécution immédiate des Services. Si Vous exercez votre droit de rétractation d'un Contrat de prestation de services dont l'exécution a commencé, à votre demande expresse, avant la fin du délai de rétractation, Vous devrez payer le prix correspondant au Service fourni jusqu'à réception de la communication de votre décision de Vous rétracter à due proportion du prix total du Service pour la durée initiale prévue dans le Contrat.
 
@@ -211,13 +211,13 @@ La garantie légale de conformité des Produits WITHINGS s'exerce suivant les mo
 
 **10.7. Garantie légale des Services.** Pour être conforme au Contrat, le Service doit répondre notamment aux critères suivants :
 
-* il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévue au Contrat ;
+*   il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévue au Contrat ;
     
-* il est propre à tout usage spécial recherché par le Consommateur, porté à la connaissance de WITHINGS au plus tard au moment de la conclusion du Contrat et que WITHINGS aura accepté ;
+*   il est propre à tout usage spécial recherché par le Consommateur, porté à la connaissance de WITHINGS au plus tard au moment de la conclusion du Contrat et que WITHINGS aura accepté ;
     
-* il est délivré avec tous les accessoires, y compris l'emballage, les instructions d'installation, ainsi que l'assistance à la clientèle, devant être fournis conformément au Contrat ;
+*   il est délivré avec tous les accessoires, y compris l'emballage, les instructions d'installation, ainsi que l'assistance à la clientèle, devant être fournis conformément au Contrat ;
     
-* lorsque le Contrat prévoit une opération de fourniture ponctuelle du contenu numérique ou du service numérique, ou une série d'opérations de fourniture distinctes, WITHINGS répond des défauts de conformité existant au moment de la fourniture selon les modalités suivantes :
+*   lorsque le Contrat prévoit une opération de fourniture ponctuelle du contenu numérique ou du service numérique, ou une série d'opérations de fourniture distinctes, WITHINGS répond des défauts de conformité existant au moment de la fourniture selon les modalités suivantes :
     
 
 « Le consommateur dispose d'un délai de deux ans à compter de la fourniture du contenu numérique ou du service numérique pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant un délai d'un an à compter de la date de fourniture, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
