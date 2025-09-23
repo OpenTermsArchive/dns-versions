@@ -77,13 +77,13 @@ L’article 45 et l’article 50 de la loi OTSS ont été complétés par l’ar
 
 Le service Mon espace santé regroupe 7 principaux services dont les fonctionnalités sont détaillées ci-après :
 
-* Un Profil médical, permettant à l’Usager de renseigner ses informations et évènements de santé ;
-* Un Carnet de vaccination numérique, permettant à l’Usager de consulter et renseigner ses vaccinations réalisées ;
-* Les Documents de santé, permettant à l’Usager de stocker dans un espace sécurisé les données et les documents liés à sa santé ;
-* Une Messagerie sécurisée de santé, pour une communication fiabilisée entre le titulaire Mon espace santé et les Professionnels de santé qui assurent la prise en charge sanitaire ou médico-sociale de l’Usager ;
-* La Prévention, permettant à l’Usager de compléter et recevoir les informations dont il a besoin pour l’aider à améliorer sa santé ;
-* L’Agenda de santé, permettant à l’Usager de centraliser l’ensemble de ses rendez-vous et rappels médicaux ainsi que de visualiser les rendez-vous de prévention et vaccinations recommandés ;
-* L’accès à un Catalogue d’outils et de services numériques référencés pour accompagner les usagers et les aider à mieux gérer leur santé.
+*   Un Profil médical, permettant à l’Usager de renseigner ses informations et évènements de santé ;
+*   Un Carnet de vaccination numérique, permettant à l’Usager de consulter et renseigner ses vaccinations réalisées ;
+*   Les Documents de santé, permettant à l’Usager de stocker dans un espace sécurisé les données et les documents liés à sa santé ;
+*   Une Messagerie sécurisée de santé, pour une communication fiabilisée entre le titulaire Mon espace santé et les Professionnels de santé qui assurent la prise en charge sanitaire ou médico-sociale de l’Usager ;
+*   La Prévention, permettant à l’Usager de compléter et recevoir les informations dont il a besoin pour l’aider à améliorer sa santé ;
+*   L’Agenda de santé, permettant à l’Usager de centraliser l’ensemble de ses rendez-vous et rappels médicaux ainsi que de visualiser les rendez-vous de prévention et vaccinations recommandés ;
+*   L’accès à un Catalogue d’outils et de services numériques référencés pour accompagner les usagers et les aider à mieux gérer leur santé.
 
 2\. Conditions d’accès au service
 ---------------------------------
@@ -104,8 +104,8 @@ Dans le respect des articles 371 à 381 du code civil, le représentant légal d
 
 Lorsque le titulaire mineur de Mon espace santé atteint la majorité, deux situations pourront se présenter :
 
-* Un profil Mon espace santé a déjà été créé pour le mineur par son représentant légal. Dans ce cas, les accès du représentant légal seront clôturés, le nouveau majeur est informé par l’assurance maladie que son profil Mon espace santé restera ouvert sauf opposition de sa part. Si le nouveau majeur décide de ne pas conserver son profil Mon espace santé, il peut en demander la clôture dans les conditions décrites ci-après ;
-* Un profil Mon espace santé n’a pas été créé pendant sa minorité. Il est informé par l’assurance maladie de l’ouverture automatique de Mon espace santé, sauf opposition de sa part dans les conditions décrites ci-dessous.
+*   Un profil Mon espace santé a déjà été créé pour le mineur par son représentant légal. Dans ce cas, les accès du représentant légal seront clôturés, le nouveau majeur est informé par l’assurance maladie que son profil Mon espace santé restera ouvert sauf opposition de sa part. Si le nouveau majeur décide de ne pas conserver son profil Mon espace santé, il peut en demander la clôture dans les conditions décrites ci-après ;
+*   Un profil Mon espace santé n’a pas été créé pendant sa minorité. Il est informé par l’assurance maladie de l’ouverture automatique de Mon espace santé, sauf opposition de sa part dans les conditions décrites ci-dessous.
 
 #### 2.1.b Cas d’accès au service pour le compte d’un majeur faisant l’objet d’une mesure de protection juridique avec représentation relative à la personne
 
@@ -136,43 +136,43 @@ Afin de pouvoir bénéficier de ce service, il est indispensable de procéder à
 
 #### Si l'activation concerne un Usager majeur :
 
-1. Depuis monespacesante.fr, l’Usager clique sur le bouton « Activer Mon espace santé ».
+1.  Depuis monespacesante.fr, l’Usager clique sur le bouton « Activer Mon espace santé ».
 
 **Identification au moyen d’une carte Vitale :**
 
-2. Pour s’identifier, l’Usager devra saisir les données suivantes :
-    * Sa date de naissance ;
-    * Le type de carte Vitale qu’il détient (avec ou sans photo) ;
-    * Son numéro de sécurité sociale (composé de 15 chiffres visibles sur le recto de sa carte Vitale ou sur son attestation de droits) ;
-    * Le numéro de série de sa carte Vitale (situé au recto de la carte Vitale avec photo ou verso de la carte Vitale sans photo).
-3. Une fois identifié, l’Usager recevra par e-mail ou SMS un code provisoire. Si aucune de ces coordonnées n’est connue, l’Usager devra alors saisir le code provisoire qu’il a reçu par courrier. S’il n’a plus ce code à sa disposition, il doit alors contacter son organisme d’assurance maladie de rattachement afin de mettre à jour son dossier avec ses coordonnées e-mail ou téléphone mobile.
+2.  Pour s’identifier, l’Usager devra saisir les données suivantes :
+    *   Sa date de naissance ;
+    *   Le type de carte Vitale qu’il détient (avec ou sans photo) ;
+    *   Son numéro de sécurité sociale (composé de 15 chiffres visibles sur le recto de sa carte Vitale ou sur son attestation de droits) ;
+    *   Le numéro de série de sa carte Vitale (situé au recto de la carte Vitale avec photo ou verso de la carte Vitale sans photo).
+3.  Une fois identifié, l’Usager recevra par e-mail ou SMS un code provisoire. Si aucune de ces coordonnées n’est connue, l’Usager devra alors saisir le code provisoire qu’il a reçu par courrier. S’il n’a plus ce code à sa disposition, il doit alors contacter son organisme d’assurance maladie de rattachement afin de mettre à jour son dossier avec ses coordonnées e-mail ou téléphone mobile.
 
 **Identification au moyen de FranceConnect+ :**
 
-1. Pour s’identifier, l’Usager devra sélectionner le Fournisseur d’identité qu’il souhaite utiliser
-2. L'Usager doit ensuite suivre le parcours propre au Fournisseur d’identité sélectionné
-3. L’Usager est ensuite invité à valider son choix d’activer son profil « Mon espace santé ».
-4. Lorsque son choix est exercé, l’Usager a la possibilité de modifier ses coordonnées e-mail et téléphone mobile.
-5. L’Usager doit ensuite définir son identifiant afin de pouvoir accéder à son profil Mon espace santé. En cas de perte ou d’oubli de son identifiant, l’Usager pourra demander la communication de son identifiant en cliquant sur l’onglet « Identifiant oublié » sur la page de connexion. Son identifiant lui est alors transmis par e-mail.
-6. Il doit également choisir un mot de passe suffisamment complexe pour préserver la sécurité de cet accès, selon un ensemble de critères prédéfinis. En cas de perte de ce mot de passe, l’Usager pourra demander sa réinitialisation en cliquant sur l’onglet « Mot de passe oublié » sur la page de connexion de « Mon espace santé ».
-7. Lorsque l’Usager a activé Mon espace santé, il peut, dès sa prochaine connexion, choisir de se connecter à son compte à l'aide de son identifiant et son mot de passe ou via le service « FranceConnect » en utilisant les identifiants et mots de passe dédiés à ce service.
+1.  Pour s’identifier, l’Usager devra sélectionner le Fournisseur d’identité qu’il souhaite utiliser
+2.  L'Usager doit ensuite suivre le parcours propre au Fournisseur d’identité sélectionné
+3.  L’Usager est ensuite invité à valider son choix d’activer son profil « Mon espace santé ».
+4.  Lorsque son choix est exercé, l’Usager a la possibilité de modifier ses coordonnées e-mail et téléphone mobile.
+5.  L’Usager doit ensuite définir son identifiant afin de pouvoir accéder à son profil Mon espace santé. En cas de perte ou d’oubli de son identifiant, l’Usager pourra demander la communication de son identifiant en cliquant sur l’onglet « Identifiant oublié » sur la page de connexion. Son identifiant lui est alors transmis par e-mail.
+6.  Il doit également choisir un mot de passe suffisamment complexe pour préserver la sécurité de cet accès, selon un ensemble de critères prédéfinis. En cas de perte de ce mot de passe, l’Usager pourra demander sa réinitialisation en cliquant sur l’onglet « Mot de passe oublié » sur la page de connexion de « Mon espace santé ».
+7.  Lorsque l’Usager a activé Mon espace santé, il peut, dès sa prochaine connexion, choisir de se connecter à son compte à l'aide de son identifiant et son mot de passe ou via le service « FranceConnect » en utilisant les identifiants et mots de passe dédiés à ce service.
 
 #### Si l'activation concerne un mineur (ayant droit) :
 
-1. Depuis monespacesante.fr, le représentant légal clique sur le bouton « Activer Mon espace santé » afin d’activer le profil Mon espace santé de son enfant.
-2. Pour identifier l'enfant, le représentant légal devra saisir les données suivantes :
-    * La date de naissance du mineur ;
-    * Le type de carte Vitale qu’il détient (avec ou sans photo) ;
-    * Le numéro de sécurité sociale du responsable légal (composé de 15 chiffres visibles sur le recto de sa carte Vitale ou sur son attestation de droits) ;
-    * Le numéro de série de sa carte Vitale du responsable légal (situé au recto de la carte Vitale avec photo ou verso de la carte Vitale sans photo).
-3. Les étapes suivantes sont identiques à l'activation pour un majeur.
-4. Lorsque le représentant légal a activé Mon espace santé pour son enfant, il peut, dès sa prochaine connexion, choisir de se connecter à l’aide de son identifiant et son mot de passe ou via le service « FranceConnect » en utilisant les identifiants et mots de passe dédiés à ce service.
+1.  Depuis monespacesante.fr, le représentant légal clique sur le bouton « Activer Mon espace santé » afin d’activer le profil Mon espace santé de son enfant.
+2.  Pour identifier l'enfant, le représentant légal devra saisir les données suivantes :
+    *   La date de naissance du mineur ;
+    *   Le type de carte Vitale qu’il détient (avec ou sans photo) ;
+    *   Le numéro de sécurité sociale du responsable légal (composé de 15 chiffres visibles sur le recto de sa carte Vitale ou sur son attestation de droits) ;
+    *   Le numéro de série de sa carte Vitale du responsable légal (situé au recto de la carte Vitale avec photo ou verso de la carte Vitale sans photo).
+3.  Les étapes suivantes sont identiques à l'activation pour un majeur.
+4.  Lorsque le représentant légal a activé Mon espace santé pour son enfant, il peut, dès sa prochaine connexion, choisir de se connecter à l’aide de son identifiant et son mot de passe ou via le service « FranceConnect » en utilisant les identifiants et mots de passe dédiés à ce service.
 
 #### Si l'activation concerne un majeur faisant l’objet d’une mesure de protection juridique :
 
-1. La personne qui procède à l’activation doit s’assurer qu’elle est bien en charge de la protection de la personne visée par la mesure.
-2. Si elle est habilitée à prendre cette décision et après avoir consulté ou informé le majeur protégé en fonction de sa faculté de discernement, elle est invitée à activer le profil Mon espace santé de la personne concernée.
-3. Lorsque Mon espace santé a été activé pour le compte d’un majeur faisant l’objet d’une mesure de protection juridique, la personne en charge de la protection de cette personne peut, dès sa prochaine connexion, choisir de se connecter à l’aide de l'identifiant et le mot de passe définis précédemment ou via le service « FranceConnect » en utilisant les identifiants et mots de passe dédiés à ce service.
+1.  La personne qui procède à l’activation doit s’assurer qu’elle est bien en charge de la protection de la personne visée par la mesure.
+2.  Si elle est habilitée à prendre cette décision et après avoir consulté ou informé le majeur protégé en fonction de sa faculté de discernement, elle est invitée à activer le profil Mon espace santé de la personne concernée.
+3.  Lorsque Mon espace santé a été activé pour le compte d’un majeur faisant l’objet d’une mesure de protection juridique, la personne en charge de la protection de cette personne peut, dès sa prochaine connexion, choisir de se connecter à l’aide de l'identifiant et le mot de passe définis précédemment ou via le service « FranceConnect » en utilisant les identifiants et mots de passe dédiés à ce service.
 
 ### 3.2 Utilisation des coordonnées de contact de l’Usager
 
@@ -192,15 +192,15 @@ Pour exercer son droit d’opposition, l’Usager dispose de deux moyens :
 
 #### 3.3.a Exercer son droit d’opposition via monespacesante.fr
 
-1. Depuis monespacesante.fr, l’Usager ou le représentant légal clique sur le bouton « M’opposer à Mon espace santé » afin de s’opposer à la création de son propre profil ou de celui d’un majeur ou d’un mineur qu’il représente.
-2. L’Usager ou le représentant légal doit saisir les données suivantes :
-    * Sa date de naissance ou celle de son enfant ou celle du majeur qu’il représente ;
-    * Le type de carte Vitale qu’il détient (avec ou sans photo) ;
-    * Son numéro de sécurité sociale (composé de 15 chiffres visibles sur le recto de sa carte Vitale ou sur son attestation de droits) ;
-    * Le numéro de série de sa carte Vitale (situé au recto de la carte Vitale avec photo ou verso de la carte Vitale sans photo).
-3. L’Usager doit ensuite saisir le code provisoire qu’il reçoit par e-mail ou SMS ou saisir celui qu’il a reçu par courrier.
-4. L’Usager est ensuite redirigé vers une page de confirmation de l'opposition.
-5. Après confirmation, une page de prise en compte de son choix est affichée. Un justificatif au format PDF est mis à sa disposition.
+1.  Depuis monespacesante.fr, l’Usager ou le représentant légal clique sur le bouton « M’opposer à Mon espace santé » afin de s’opposer à la création de son propre profil ou de celui d’un majeur ou d’un mineur qu’il représente.
+2.  L’Usager ou le représentant légal doit saisir les données suivantes :
+    *   Sa date de naissance ou celle de son enfant ou celle du majeur qu’il représente ;
+    *   Le type de carte Vitale qu’il détient (avec ou sans photo) ;
+    *   Son numéro de sécurité sociale (composé de 15 chiffres visibles sur le recto de sa carte Vitale ou sur son attestation de droits) ;
+    *   Le numéro de série de sa carte Vitale (situé au recto de la carte Vitale avec photo ou verso de la carte Vitale sans photo).
+3.  L’Usager doit ensuite saisir le code provisoire qu’il reçoit par e-mail ou SMS ou saisir celui qu’il a reçu par courrier.
+4.  L’Usager est ensuite redirigé vers une page de confirmation de l'opposition.
+5.  Après confirmation, une page de prise en compte de son choix est affichée. Un justificatif au format PDF est mis à sa disposition.
 
 #### 3.3.b Exercer son droit d’opposition via le support téléphonique
 
@@ -220,12 +220,12 @@ L’Usager a, dans un espace dédié de son profil Mon espace santé, la possibi
 
 L’Usager accède, dans cette partie de son profil Mon espace santé, aux informations liées à son Identité Nationale de Santé (dit INS) qui comprend :
 
-* son nom de naissance ;
-* son prénom de naissance ;
-* sa date de naissance ;
-* son lieu de naissance (code INSEE)
-* son sexe ;
-* son numéro de matricule INS (NIR).
+*   son nom de naissance ;
+*   son prénom de naissance ;
+*   sa date de naissance ;
+*   son lieu de naissance (code INSEE)
+*   son sexe ;
+*   son numéro de matricule INS (NIR).
 
 #### 3.5.2 Ajouter un profil
 
@@ -279,11 +279,11 @@ Lorsqu’il a ajouté le profil d’un ayant droit, l’Usager a la possibilité
 
 Lorsque l’Usager souhaite partager le profil d’un ayant droit, il doit envoyer une invitation au second représentant légal. Pour ce faire, l’Usager doit saisir, pour le second représentant légal ses :
 
-* Nom ;
-* Prénom ;
-* Date de naissance ;
-* Numéro de sécurité sociale ;
-* Déclarer que la personne dont les coordonnées ont été saisies est bien le représentant légal de l’enfant.
+*   Nom ;
+*   Prénom ;
+*   Date de naissance ;
+*   Numéro de sécurité sociale ;
+*   Déclarer que la personne dont les coordonnées ont été saisies est bien le représentant légal de l’enfant.
 
 Une confirmation de demande de partage est notifiée par e-mail à l’Usager qui peut ensuite consulter le statut de sa demande de partage.
 
@@ -305,9 +305,9 @@ Pour le téléchargement de ses données, lorsque la demande sera traitée, un e
 
 Pour la suppression de ses données, en fonction de l’avancée du traitement de sa demande, l’Usager peut revenir sur sa décision :
 
-* Lorsque sa demande a été prise en compte mais non encore traitée, l’Usager peut décider d’annuler sa demande de suppression, il retrouvera alors l’ensemble de ses données dans son profil.
-* Lorsque la demande de suppression est en cours de traitement, l’Usager doit patienter afin de pouvoir réactiver son compte. A sa prochaine connexion, l’ensemble de ses données auront été supprimées.
-* Lorsque la demande de suppression a été traitée, l’Usager peut réactiver son profil, cependant l’ensemble de ses données auront été supprimées.
+*   Lorsque sa demande a été prise en compte mais non encore traitée, l’Usager peut décider d’annuler sa demande de suppression, il retrouvera alors l’ensemble de ses données dans son profil.
+*   Lorsque la demande de suppression est en cours de traitement, l’Usager doit patienter afin de pouvoir réactiver son compte. A sa prochaine connexion, l’ensemble de ses données auront été supprimées.
+*   Lorsque la demande de suppression a été traitée, l’Usager peut réactiver son profil, cependant l’ensemble de ses données auront été supprimées.
 
 ##### 3.5.4.d Services synchronisés
 
@@ -364,12 +364,12 @@ Ce service de messagerie ne doit pas être confondu avec le dossier médical de 
 
 Le service de messagerie de santé sécurisée mis à la disposition de l’Usager dans le cadre du service Mon espace santé permet les actions suivantes :
 
-* La réception et consultation de messages avec pièces jointes ;
-* La consultation de la fiche d'un professionnel ou établissement de santé ayant écrit à l'Usager ;
-* L’enregistrement des pièces jointes dans Mon espace santé ;
-* L’enregistrement des pièces jointes sur l’appareil (ordinateur, téléphone portable, etc.) utilisé par l’Usager ;
-* La réponse au message d’un Professionnel de Santé, avec possibilité d’inclure des pièces jointes issues du terminal de l’Usager (ordinateur, téléphone portable etc.) ou de Mon espace santé ;
-* L’envoi d’un message ou le partage d’un document avec une pharmacie ayant une messagerie compatible avec Mon espace santé.
+*   La réception et consultation de messages avec pièces jointes ;
+*   La consultation de la fiche d'un professionnel ou établissement de santé ayant écrit à l'Usager ;
+*   L’enregistrement des pièces jointes dans Mon espace santé ;
+*   L’enregistrement des pièces jointes sur l’appareil (ordinateur, téléphone portable, etc.) utilisé par l’Usager ;
+*   La réponse au message d’un Professionnel de Santé, avec possibilité d’inclure des pièces jointes issues du terminal de l’Usager (ordinateur, téléphone portable etc.) ou de Mon espace santé ;
+*   L’envoi d’un message ou le partage d’un document avec une pharmacie ayant une messagerie compatible avec Mon espace santé.
 
 L’Usager ou son représentant légal est informé que lorsqu’il échange avec une messagerie partagée entre plusieurs professionnels (boites aux lettres organisationnelle mutualisées pour une pharmacie, un laboratoire, etc.), les professionnels habilités et participant à sa prise en charge peuvent avoir accès à ses messages dans le respect des dispositions du code de la santé publique relatives à l’échange et au partage de données, notamment l’article L.1110-4 du Code de la santé publique.
 
@@ -426,27 +426,27 @@ L’ANS (Agence du Numérique en Santé) a la faculté de faire évoluer les mod
 
 Sont hébergées chez Worldline les données contenues dans les rubriques suivantes :
 
-* Documents ;
-* Vaccinations ;
-* Mon histoire de santé ;
-* Entourage et don d'organes ;
-* Directives anticipées.
+*   Documents ;
+*   Vaccinations ;
+*   Mon histoire de santé ;
+*   Entourage et don d'organes ;
+*   Directives anticipées.
 
 Les autres données sont hébergées chez Atos :
 
-* Messages ;
-* Maladies et sujets de santé ;
-* Traitements ;
-* Hospitalisations ;
-* Groupe sanguin ;
-* Handicaps ;
-* Grossesse ;
-* Antécédents familiaux ;
-* Allergies ;
-* Habitudes de vie ;
-* Mesures ;
-* Bilan de prévention;
-* Professionnels de santé.
+*   Messages ;
+*   Maladies et sujets de santé ;
+*   Traitements ;
+*   Hospitalisations ;
+*   Groupe sanguin ;
+*   Handicaps ;
+*   Grossesse ;
+*   Antécédents familiaux ;
+*   Allergies ;
+*   Habitudes de vie ;
+*   Mesures ;
+*   Bilan de prévention;
+*   Professionnels de santé.
 
 ### 5.1 Le DMP et Mon espace santé
 
@@ -492,14 +492,14 @@ Les Professionnels de santé peuvent uniquement consulter les documents de l'Usa
 
 La fonctionnalité permet aux Usagers de :
 
-* Consulter les documents de la rubrique Documents ;
-* Constituer des dossiers afin de regrouper ses documents;
-* Ajouter, modifier ou supprimer tous leurs documents personnels pour qu’ils soient portés à la connaissance des Professionnels de santé habilités à y accéder. Si l’Usager était titulaire d’un DMP avant la création de Mon espace santé, les documents masqués dans son DMP, préalablement à la création de Mon espace santé, conserveront leurs statuts et ne seront donc pas consultables (sauf par le médecin traitant déclaré par l’Usager, qui conserve la possibilité de consulter l’intégralité du DMP) ;
-* Partager un document figurant dans la rubrique Documents, avec un Professionnel de santé avec lequel l’Usager a déjà échangé dans la messagerie de santé ou avec une pharmacie ayant une messagerie compatible avec Mon espace santé ;
-* Demander lors d'une consultation avec un Professionnel de santé pour un Usager mineur, à ce que certaines informations soient masquées et non consultables par ses représentants légaux ;
-* Masquer et démasquer un document ou l’ensemble des documents présents dans son profil Mon espace santé à l’ensemble des Professionnels de santé. Le Professionnel de santé qui a déposé le document ou le Professionnel de santé administrateur que l’Usager a choisi dans Mon espace santé pourront cependant continuer à accéder aux documents masqués ;
-* Être informé par e-mail des actions réalisées sur les documents ;
-* Consulter l’historique des traces d’accès et d’actions sur les documents depuis les Paramètres de son compte.
+*   Consulter les documents de la rubrique Documents ;
+*   Constituer des dossiers afin de regrouper ses documents;
+*   Ajouter, modifier ou supprimer tous leurs documents personnels pour qu’ils soient portés à la connaissance des Professionnels de santé habilités à y accéder. Si l’Usager était titulaire d’un DMP avant la création de Mon espace santé, les documents masqués dans son DMP, préalablement à la création de Mon espace santé, conserveront leurs statuts et ne seront donc pas consultables (sauf par le médecin traitant déclaré par l’Usager, qui conserve la possibilité de consulter l’intégralité du DMP) ;
+*   Partager un document figurant dans la rubrique Documents, avec un Professionnel de santé avec lequel l’Usager a déjà échangé dans la messagerie de santé ou avec une pharmacie ayant une messagerie compatible avec Mon espace santé ;
+*   Demander lors d'une consultation avec un Professionnel de santé pour un Usager mineur, à ce que certaines informations soient masquées et non consultables par ses représentants légaux ;
+*   Masquer et démasquer un document ou l’ensemble des documents présents dans son profil Mon espace santé à l’ensemble des Professionnels de santé. Le Professionnel de santé qui a déposé le document ou le Professionnel de santé administrateur que l’Usager a choisi dans Mon espace santé pourront cependant continuer à accéder aux documents masqués ;
+*   Être informé par e-mail des actions réalisées sur les documents ;
+*   Consulter l’historique des traces d’accès et d’actions sur les documents depuis les Paramètres de son compte.
 
 #### 5.1.d Valeurs des documents partagés
 
@@ -523,23 +523,23 @@ Le Profil médical permet à l’Usager qui le souhaite de compléter les diffé
 
 Le Profil médical de l’Usager contient les données suivantes :
 
-* Mon histoire de santé ;
-* Le suivi médical contenant les rubriques suivantes :
-    * Maladies et sujets de santé ;
-    * Traitements ;
-    * Hospitalisations ;
-    * Handicaps ;
-    * Grossesse.
-* Les caractéristiques de santé comprenant les rubriques suivantes :
-    * Groupe sanguin ;
-    * Allergies ;
-    * Antécédents familiaux.
-* Mesures ;
-* Professionnels de santé ;
-* Entourage et volontés comprenant les rubriques suivantes :
-    * Entourage ;
-    * Directives anticipées ;
-    * Don d'organes.
+*   Mon histoire de santé ;
+*   Le suivi médical contenant les rubriques suivantes :
+    *   Maladies et sujets de santé ;
+    *   Traitements ;
+    *   Hospitalisations ;
+    *   Handicaps ;
+    *   Grossesse.
+*   Les caractéristiques de santé comprenant les rubriques suivantes :
+    *   Groupe sanguin ;
+    *   Allergies ;
+    *   Antécédents familiaux.
+*   Mesures ;
+*   Professionnels de santé ;
+*   Entourage et volontés comprenant les rubriques suivantes :
+    *   Entourage ;
+    *   Directives anticipées ;
+    *   Don d'organes.
 
 #### 5.2.a Les mesures de santé
 
@@ -547,18 +547,18 @@ Il s’agit des constantes de santé régulièrement prises par une personne et 
 
 L’Usager pourra renseigner lui-même les mesures suivantes et personnaliser l'affichage de celles-ci :
 
-* Poids ;
-* Taille ;
-* Indice de Masse Corporelle (IMC), qui sera calculé automatiquement par Mon espace santé à partir de la dernière valeur du poids et de la taille ;
-* Tour de taille ;
-* Température ;
-* Glycémie ;
-* Tension artérielle ;
-* Niveau de douleur ;
-* Fréquence cardiaque ;
-* Périmètre crânien ;
-* Nombre de pas ;
-* Hémoglobine glyquée, Immunoglobuline G, Taux de glucose interstitiel moyen.
+*   Poids ;
+*   Taille ;
+*   Indice de Masse Corporelle (IMC), qui sera calculé automatiquement par Mon espace santé à partir de la dernière valeur du poids et de la taille ;
+*   Tour de taille ;
+*   Température ;
+*   Glycémie ;
+*   Tension artérielle ;
+*   Niveau de douleur ;
+*   Fréquence cardiaque ;
+*   Périmètre crânien ;
+*   Nombre de pas ;
+*   Hémoglobine glyquée, Immunoglobuline G, Taux de glucose interstitiel moyen.
 
 #### 5.2.b Alimentation automatique du profil médical
 
@@ -589,10 +589,10 @@ Pour chaque suggestion d’examen, une notification est adressée à l’Usager 
 
 La rubrique Prévention de Mon espace santé contient les données suivantes :
 
-* Examens de prévention et vaccinations à réaliser ;
-* Les habitudes de vie (alimentation, activité physique, sommeil, écrans, alcool et tabac) ;
-* Le bilan de prévention aux âges clés  ;
-* Des articles et conseils de prévention.   
+*   Examens de prévention et vaccinations à réaliser ;
+*   Les habitudes de vie (alimentation, activité physique, sommeil, écrans, alcool et tabac) ;
+*   Le bilan de prévention aux âges clés  ;
+*   Des articles et conseils de prévention.   
      
 
 Dans le cadre du dispositif « Mon bilan prévention », des Auto-questionnaires sont proposés à l’Usager en fonction de sa tranche d’âge (18-25 ans, 45-50 ans, 60-65 ans, 70-75 ans).
@@ -678,9 +678,9 @@ L’Usager recevra une notification à l’échéance du rappel, par e-mail et s
 
 En cas de difficulté ou pour toute question relative au service Mon espace santé, l’Usager peut contacter le service d’assistance :
 
-* Par téléphone au numéro 3422 (service gratuit + prix d’un appel, disponible de 08h30 à 17h30 du lundi au vendredi) ;
-* Via [ce lien](https://monespacesante.elioz.fr/3.0/?hash=2463c0eea4bd451816831e4affb28061) pour les personnes sourdes, malentendantes ou aphasiques ;
-* Par internet via le formulaire dédié disponible depuis la rubrique d’aide après connexion à Mon espace santé ([www.monespacesante.fr/](https://www.monespacesante.fr/)).
+*   Par téléphone au numéro 3422 (service gratuit + prix d’un appel, disponible de 08h30 à 17h30 du lundi au vendredi) ;
+*   Via [ce lien](https://monespacesante.elioz.fr/3.0/?hash=2463c0eea4bd451816831e4affb28061) pour les personnes sourdes, malentendantes ou aphasiques ;
+*   Par internet via le formulaire dédié disponible depuis la rubrique d’aide après connexion à Mon espace santé ([www.monespacesante.fr/](https://www.monespacesante.fr/)).
 
 10\. Données personnelles
 -------------------------
@@ -715,11 +715,11 @@ Les cookies strictement nécessaires au fonctionnement du site :
 | JSESSIONID | Conserve les informations de session pendant tout le parcours d’activation ou d’opposition à l’activation de « Mon espace santé » | Durée de la session |
 | ZM\_JSESSIONID | Conserve les informations de connexion à la messagerie de santé | Durée de la session |
 | Cookie\_ENS-LB | Optimise le taux de réponse entre le visiteur et le site en répartissant la charge de trafic sur plusieurs liaisons réseau ou serveurs | Durée de la session |
-| Groupe de cookies :<br><br>* 154e2137b0fa9b51b8fc1fa0b6a8fae1<br>* 60d444b829ad059d6711e2283a4fd4ab<br>* 84c3c4cbe049f4bc8a3857098d430c69<br>* 1a0139b26967dfbcfd1ca3af00a7284b<br>* 0ca8a17e231e477d6fee5ebbd24d2c15 | Conserve les informations de session pendant la navigation sur Mon espace santé selon les services appelés (Ex. : documents de santé, Profil médical, messagerie de santé) | Durée de la session |
+| Groupe de cookies :<br><br>*   154e2137b0fa9b51b8fc1fa0b6a8fae1<br>*   60d444b829ad059d6711e2283a4fd4ab<br>*   84c3c4cbe049f4bc8a3857098d430c69<br>*   1a0139b26967dfbcfd1ca3af00a7284b<br>*   0ca8a17e231e477d6fee5ebbd24d2c15 | Conserve les informations de session pendant la navigation sur Mon espace santé selon les services appelés (Ex. : documents de santé, Profil médical, messagerie de santé) | Durée de la session |
 | oidc.user suivi d'un identifiant alphanumérique | Conserve les informations de session à l'ouverture de Mon espace santé dans plusieurs onglets du navigateur | Durée de la session |
 | GRAVITEE\_IO\_AM\_SESSION | Nécessaire à l’authentification | Durée de la session |
 | XSRF-TOKEN | Protection du site | Durée de la session |
-| Cookies IdeoSSO :<br><br>* KC\_RESTART<br>* KEYCLOAK\_IDENTITY<br>* KEYCLOAK\_SESSION<br>* AUTH\_SESSION\_ID<br>* CASTGC | Nécessaires à l’authentification | Durée de la session |
+| Cookies IdeoSSO :<br><br>*   KC\_RESTART<br>*   KEYCLOAK\_IDENTITY<br>*   KEYCLOAK\_SESSION<br>*   AUTH\_SESSION\_ID<br>*   CASTGC | Nécessaires à l’authentification | Durée de la session |
 | GRAVITEE\_AM\_DEVICE\_RECOGNITION | Sert à la reconnaissance du type d'appareil utilisé par le visiteur | 12 mois |
 | TC\_PRIVACY\_CENTER | Stocke les finalités Trust Commander acceptées et/ou refusées par le visiteur | 6 mois |
 | TC\_PRIVACY | Stocke les informations se rapportant au choix de l'utilisateur : acceptation/refus, date, etc. | 6 mois |
@@ -791,7 +791,7 @@ En cliquant sur « Tout accepter », le bandeau disparaît et n’apparaîtra pl
 
 En cliquant sur « Tout refuser » seuls les cookies nécessaires au bon fonctionnement du site seront déposés, le bandeau disparaît et n’apparaitra plus lors des prochaines visites.
 
-Vous pouvez modifier vos choix à tout moment en cliquant sur ce lien « [Paramétrer les cookies](javascript:tC.privacyCenter.showPrivacyCenter()) ».
+Vous pouvez modifier vos choix à tout moment en cliquant sur ce lien « [Paramétrer les cookies](javascript:tC.privacyCenter.showPrivacyCenter\(\)) ».
 
 12\. Responsabilités
 --------------------
@@ -830,10 +830,10 @@ En leur qualité de responsable de traitement, la Caisse Nationale de l’Assura
 
 A ce titre, ils se de dégagent toute responsabilité en cas :
 
-* De survenance d'un événement de force majeure ayant un impact sur le service ;
-* De problèmes liés au réseau internet ;
-* De pannes ou dommages résultant des équipements de l'Usager ou encore de la contamination du système informatique de l'Usager par des virus, attaques et malveillances de tiers ;
-* D'utilisation de l’application par l'Usager non conforme aux présentes conditions générales d'utilisation.
+*   De survenance d'un événement de force majeure ayant un impact sur le service ;
+*   De problèmes liés au réseau internet ;
+*   De pannes ou dommages résultant des équipements de l'Usager ou encore de la contamination du système informatique de l'Usager par des virus, attaques et malveillances de tiers ;
+*   D'utilisation de l’application par l'Usager non conforme aux présentes conditions générales d'utilisation.
 
 La Caisse Nationale de l’Assurance Maladie et le Ministère de la Santé et de l'Accès aux soins ne sauraient être tenus responsables des conséquences liées à une absence de disponibilité du service pour l’un des motifs mentionnés dans la partie « Disponibilité du service ».
 
