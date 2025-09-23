@@ -13,13 +13,13 @@ Définitions
 
 Au sens des présentes CGU, les expressions ci-dessous auront les définitions suivantes :
 
-* **AP-HP** : désigne l'Assistance Publique – Hôpitaux de Paris.
-* **Données à caractère personnel ou Données Personnelles** : désigne toute information concernant un Utilisateur identifié ou identifiable ; est réputée identifiable une personne qui peut être identifiée, directement ou indirectement, notamment par référence à un numéro d'identification ou à un ou plusieurs éléments spécifiques, propres à son identité physique, physiologique, psychique, économique, culturelle ou sociale, ou sa géolocalisation.
-* **Identifiants** : désigne l'identifiant personnel associé à un Utilisateur ainsi que tout code confidentiel ou mot de passe lui permettant de créer et/ou accéder à son compte sur MON AP-HP.
-* **MON AP-HP** : désigne la plateforme web éditée par l’AP-HP visant à proposer aux patients majeurs suivis à l’AP-HP un certain nombre de Téléservices en ligne.
-* **RGPD** : règlement n° 2016/679 du 27 avril 2016 sur la protection des Données personnelles.
-* **Téléservice(s)** : désigne les services proposés par l’AP-HP aux Utilisateurs sur MON AP-HP, par exemple la possibilité de prendre des rendez-vous, de demander son inscription à la maternité ou encore effectuer un paiement.
-* **Utilisateur** : désigne la personne physique majeure et patiente de l’AP-HP qui utilise les Téléservices proposés sur la plateforme MON AP-HP et ayant créé un compte ou pas.
+*   **AP-HP** : désigne l'Assistance Publique – Hôpitaux de Paris.
+*   **Données à caractère personnel ou Données Personnelles** : désigne toute information concernant un Utilisateur identifié ou identifiable ; est réputée identifiable une personne qui peut être identifiée, directement ou indirectement, notamment par référence à un numéro d'identification ou à un ou plusieurs éléments spécifiques, propres à son identité physique, physiologique, psychique, économique, culturelle ou sociale, ou sa géolocalisation.
+*   **Identifiants** : désigne l'identifiant personnel associé à un Utilisateur ainsi que tout code confidentiel ou mot de passe lui permettant de créer et/ou accéder à son compte sur MON AP-HP.
+*   **MON AP-HP** : désigne la plateforme web éditée par l’AP-HP visant à proposer aux patients majeurs suivis à l’AP-HP un certain nombre de Téléservices en ligne.
+*   **RGPD** : règlement n° 2016/679 du 27 avril 2016 sur la protection des Données personnelles.
+*   **Téléservice(s)** : désigne les services proposés par l’AP-HP aux Utilisateurs sur MON AP-HP, par exemple la possibilité de prendre des rendez-vous, de demander son inscription à la maternité ou encore effectuer un paiement.
+*   **Utilisateur** : désigne la personne physique majeure et patiente de l’AP-HP qui utilise les Téléservices proposés sur la plateforme MON AP-HP et ayant créé un compte ou pas.
 
 Description de la plateforme MON AP-HP
 --------------------------------------
@@ -34,24 +34,24 @@ Les Téléservices sont fournis à l'Utilisateur à titre gratuit. Les équipeme
 
 Les Téléservices proposés sont :
 
-* **Le Téléservice « Trajet vers les urgences »**, accessible sur l’application mobile, sans création de compte. Il permet de rechercher un service d’accueil des urgences de l’AP-HP ou identifier le service le plus proche. Cette recherche donne accès à des fiches d’information, permettant notamment de calculer le trajet entre la position géolocalisée du téléphone mobile et le service d’accueil des urgences le plus proche.
-* **Le Téléservice « Fréquentation des urgences »**, accessible sur la plateforme web, sans création de compte. Il permet d’envisager une venue à des horaires adaptés pour une prise en charge dans de bonnes conditions.
-* **Le Téléservice « Première consultation »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet soit de formuler une demande via un formulaire de demande en ligne, demande alors instruite par les équipes AP-HP concernées, soit prendre un rendez-vous.
-* **Le Téléservice « Consultation de suivi »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il qui permet de prendre un rendez-vous de consultation de suivi avec un médecin de l'AP-HP.
-* **Le Téléservice « Inscription en maternité »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de renseigner un formulaire de demande en vue d'accoucher au sein d'une des maternités de l'AP-HP.
-* **Le Téléservice « Dossier administratif / Préadmission ou régularisation »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de constituer en ligne son dossier administratif en vue d'une hospitalisation, d'une consultation ou d’une téléconsultation dans l'un des hôpitaux de l'AP-HP afin de faciliter la prise en charge le jour de la venue. Il permet également de régulariser un passage aux urgences ou une hospitalisation.
-* **Le Téléservice « Trajet et orientation »**, accessible sur l’application mobile, sans création de compte. Il permet de rechercher un hôpital, une spécialité ou un médecin de l’AP-HP, ou identifier l’hôpital le plus proche. Cette recherche donne accès à des fiches d’information, permettant notamment de calculer le trajet entre la position géolocalisée du téléphone mobile et l’hôpital le plus proche, et également se géolocaliser sur un plan de l’hôpital.
-* **Le Téléservice « Carte d’identification patient »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet de télécharger un document synthétisant l’identité patient telle que saisie à l’AP-HP, à présenter si besoin à tout personnel soignant ou administratif lors des différentes venues.
-* **Le Téléservice « Mes repas »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet de participer à la gestion de ses repas au cours de son séjour hospitalier, en signalant le cas échéant ses préférences, aversions, allergies et en faisant évoluer son menu.
-* **Le Téléservice « Mon espace santé »**, accessible sur la plateforme web, sans création de compte. Il s’agit d’un simple renvoi vers le carnet de santé national en ligne Mon espace santé.
-* **Le Téléservice « Dossier médical AP-HP / Comptes-rendus, imagerie, ordonnances AP-HP »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d’accéder et de télécharger certains comptes-rendus médicaux, ordonnances ou certificats qui ont été produits suite à une venue à l'AP-HP et qui figurent dans le dossier patient informatisé. Il permet également de visualiser les clichés d’imagerie correspondants à un compte-rendu d’imagerie précis.
-* **Le Téléservice « Questionnaires médicaux »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de renseigner en ligne un ou plusieurs questionnaires en vue de préparer sa première consultation, une consultation de suivi ou réaliser une évaluation de son état de santé à la suite d'une prise en charge.
-* **Le Téléservice « Suivi spécifique Hermes HEGP »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d’accéder aux programmes de suivi médical proposés par la plateforme Hermes (portail de l’hôpital HEGP), sur invitation des équipes médicales uniquement, afin de faciliter les échanges entre le patient et les équipes assurant sa prise en charge.
-* **Le Téléservice « Prescription d'AMP »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d'accéder aux résultats d'examens et au calendrier de prescriptions établies dans le cadre d'un parcours d'Assistance médicale à la procréation (AMP).
-* **Le Téléservice « Télésuivi spécifique Horace »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d’accéder aux programmes de télésuivi proposés par la plateforme Horace, issue du consortium @HôtelDieu, sur invitation des équipes médicales uniquement.
-* **Le Téléservice « Facturation / Factures et paiement »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de consulter et télécharger les factures et quittances et de payer via une redirection vers la plateforme de la Direction générale des finances publiques.
-* **Le Téléservice « Duplicatas »**, accessible sur la plateforme web, sans création de compte. Il permet de télécharger les factures et quittances avant leur paiement.
-* **Le Téléservice « Soutenir l'AP-HP »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il s’agit d’un simple renvoi vers le site de la Fondation AP-HP.
+*   **Le Téléservice « Trajet vers les urgences »**, accessible sur l’application mobile, sans création de compte. Il permet de rechercher un service d’accueil des urgences de l’AP-HP ou identifier le service le plus proche. Cette recherche donne accès à des fiches d’information, permettant notamment de calculer le trajet entre la position géolocalisée du téléphone mobile et le service d’accueil des urgences le plus proche.
+*   **Le Téléservice « Fréquentation des urgences »**, accessible sur la plateforme web, sans création de compte. Il permet d’envisager une venue à des horaires adaptés pour une prise en charge dans de bonnes conditions.
+*   **Le Téléservice « Première consultation »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet soit de formuler une demande via un formulaire de demande en ligne, demande alors instruite par les équipes AP-HP concernées, soit prendre un rendez-vous.
+*   **Le Téléservice « Consultation de suivi »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il qui permet de prendre un rendez-vous de consultation de suivi avec un médecin de l'AP-HP.
+*   **Le Téléservice « Inscription en maternité »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de renseigner un formulaire de demande en vue d'accoucher au sein d'une des maternités de l'AP-HP.
+*   **Le Téléservice « Dossier administratif / Préadmission ou régularisation »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de constituer en ligne son dossier administratif en vue d'une hospitalisation, d'une consultation ou d’une téléconsultation dans l'un des hôpitaux de l'AP-HP afin de faciliter la prise en charge le jour de la venue. Il permet également de régulariser un passage aux urgences ou une hospitalisation.
+*   **Le Téléservice « Trajet et orientation »**, accessible sur l’application mobile, sans création de compte. Il permet de rechercher un hôpital, une spécialité ou un médecin de l’AP-HP, ou identifier l’hôpital le plus proche. Cette recherche donne accès à des fiches d’information, permettant notamment de calculer le trajet entre la position géolocalisée du téléphone mobile et l’hôpital le plus proche, et également se géolocaliser sur un plan de l’hôpital.
+*   **Le Téléservice « Carte d’identification patient »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet de télécharger un document synthétisant l’identité patient telle que saisie à l’AP-HP, à présenter si besoin à tout personnel soignant ou administratif lors des différentes venues.
+*   **Le Téléservice « Mes repas »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet de participer à la gestion de ses repas au cours de son séjour hospitalier, en signalant le cas échéant ses préférences, aversions, allergies et en faisant évoluer son menu.
+*   **Le Téléservice « Mon espace santé »**, accessible sur la plateforme web, sans création de compte. Il s’agit d’un simple renvoi vers le carnet de santé national en ligne Mon espace santé.
+*   **Le Téléservice « Dossier médical AP-HP / Comptes-rendus, imagerie, ordonnances AP-HP »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d’accéder et de télécharger certains comptes-rendus médicaux, ordonnances ou certificats qui ont été produits suite à une venue à l'AP-HP et qui figurent dans le dossier patient informatisé. Il permet également de visualiser les clichés d’imagerie correspondants à un compte-rendu d’imagerie précis.
+*   **Le Téléservice « Questionnaires médicaux »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de renseigner en ligne un ou plusieurs questionnaires en vue de préparer sa première consultation, une consultation de suivi ou réaliser une évaluation de son état de santé à la suite d'une prise en charge.
+*   **Le Téléservice « Suivi spécifique Hermes HEGP »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d’accéder aux programmes de suivi médical proposés par la plateforme Hermes (portail de l’hôpital HEGP), sur invitation des équipes médicales uniquement, afin de faciliter les échanges entre le patient et les équipes assurant sa prise en charge.
+*   **Le Téléservice « Prescription d'AMP »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d'accéder aux résultats d'examens et au calendrier de prescriptions établies dans le cadre d'un parcours d'Assistance médicale à la procréation (AMP).
+*   **Le Téléservice « Télésuivi spécifique Horace »**, accessible sur l’application mobile et la plateforme web, avec création de compte. Il permet d’accéder aux programmes de télésuivi proposés par la plateforme Horace, issue du consortium @HôtelDieu, sur invitation des équipes médicales uniquement.
+*   **Le Téléservice « Facturation / Factures et paiement »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il permet de consulter et télécharger les factures et quittances et de payer via une redirection vers la plateforme de la Direction générale des finances publiques.
+*   **Le Téléservice « Duplicatas »**, accessible sur la plateforme web, sans création de compte. Il permet de télécharger les factures et quittances avant leur paiement.
+*   **Le Téléservice « Soutenir l'AP-HP »**, accessible sur l’application mobile et la plateforme web, sans création de compte. Il s’agit d’un simple renvoi vers le site de la Fondation AP-HP.
 
 Création de compte
 ------------------
@@ -71,13 +71,13 @@ En cas de difficultés pour accéder à la plateforme MON AP-HP, l’Utilisateur
 Précaution d’utilisation du site et des téléservices
 ----------------------------------------------------
 
-* L’Utilisateur des Téléservices reconnaît avoir pris connaissance des présentes CGU, qui pourront faire l’objet de modifications ultérieures, et s’engage à les respecter.
-* Les commentaires sont libres dans les champs prévus à cet effet sous réserve de respecter les règles élémentaires suivantes :
-    * L’Utilisateur s’engage à n’user d’aucun propos pénalement répréhensible (caractère racial, diffamatoire, homophobe, etc.),
-    * L’Utilisateur s’engage à ne communiquer aucune données personnelle, confidentielle ou sensible dans les champs qui n’y sont pas dédiés.
-* L’Utilisateur reconnaît disposer de la compétence et des moyens nécessaires pour accéder et utiliser les Téléservices.
-* L’Utilisateur des Téléservices reconnaît avoir vérifié que la configuration informatique utilisée ne contient aucun virus et qu’elle est en parfait état de fonctionnement.
-* L’Utilisateur reconnaît utiliser ces informations sous sa responsabilité.
+*   L’Utilisateur des Téléservices reconnaît avoir pris connaissance des présentes CGU, qui pourront faire l’objet de modifications ultérieures, et s’engage à les respecter.
+*   Les commentaires sont libres dans les champs prévus à cet effet sous réserve de respecter les règles élémentaires suivantes :
+    *   L’Utilisateur s’engage à n’user d’aucun propos pénalement répréhensible (caractère racial, diffamatoire, homophobe, etc.),
+    *   L’Utilisateur s’engage à ne communiquer aucune données personnelle, confidentielle ou sensible dans les champs qui n’y sont pas dédiés.
+*   L’Utilisateur reconnaît disposer de la compétence et des moyens nécessaires pour accéder et utiliser les Téléservices.
+*   L’Utilisateur des Téléservices reconnaît avoir vérifié que la configuration informatique utilisée ne contient aucun virus et qu’elle est en parfait état de fonctionnement.
+*   L’Utilisateur reconnaît utiliser ces informations sous sa responsabilité.
 
 Responsabilité
 --------------
@@ -90,11 +90,11 @@ L’Utilisateur s’engage à utiliser MON AP-HP conformément à la finalité d
 
 L’AP-HP ne peut être responsable :
 
-* Des informations contenues dans les autres sites internet auxquels les Utilisateurs ont le cas échéant accès par le biais de MON AP-HP.
+*   Des informations contenues dans les autres sites internet auxquels les Utilisateurs ont le cas échéant accès par le biais de MON AP-HP.
     
-* Des éventuelles impossibilités d'accès à MON AP-HP, dysfonctionnements, interruptions, absences de disponibilité des informations ou encore mauvaises conditions d'utilisation de MON AP-HP, imputables à un équipement non adapté, à des dysfonctionnements internes au fournisseur d'accès de l’Utilisateur, à l'encombrement du réseau Internet, ou encore pour toutes autres raisons extérieures à l’AP-HP.
+*   Des éventuelles impossibilités d'accès à MON AP-HP, dysfonctionnements, interruptions, absences de disponibilité des informations ou encore mauvaises conditions d'utilisation de MON AP-HP, imputables à un équipement non adapté, à des dysfonctionnements internes au fournisseur d'accès de l’Utilisateur, à l'encombrement du réseau Internet, ou encore pour toutes autres raisons extérieures à l’AP-HP.
     
-* Des atteintes à la sécurité informatique pouvant causer des dommages aux matériels informatiques des Utilisateurs et à leurs Données y étant stockées. Le Patient reconnaît que les caractéristiques et les contraintes d'Internet ne permettent pas de garantir la sécurité, la disponibilité et l'intégrité des transmissions de Données durant leur transit sur Internet.
+*   Des atteintes à la sécurité informatique pouvant causer des dommages aux matériels informatiques des Utilisateurs et à leurs Données y étant stockées. Le Patient reconnaît que les caractéristiques et les contraintes d'Internet ne permettent pas de garantir la sécurité, la disponibilité et l'intégrité des transmissions de Données durant leur transit sur Internet.
     
 
 L'AP-HP ne saurait en aucun cas être tenue de réparer d'éventuels dommages indirects subis par l'Utilisateur à l'occasion de l'utilisation de MON AP-HP. De manière générale, l’AP-HP n’est responsable que des dommages directs prouvés par l’Utilisateur, et à la condition que (i) ce dernier ait respecté l’intégralité des dispositions des présentes CGU et (ii) qu’il démontre qu’un tel dommage est la conséquence d’un manquement exclusivement et directement imputable à l’AP-HP.
