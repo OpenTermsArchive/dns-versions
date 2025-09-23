@@ -33,21 +33,21 @@ Contenus non accessibles
 
 Liste des critères non conformes :
 
-* 3.2. Dans chaque page web, le contraste entre la couleur du texte et la couleur de son arrière-plan est-il suffisamment élevé (hors cas particuliers) ?
-* 7.1. Chaque script est-il, si nécessaire, compatible avec les technologies d’assistance ?
-* 7.5. Dans chaque page web, les messages de statut sont-ils correctement restitués par les technologies d’assistance ?
-* 8.2. Pour chaque page web, le code source généré est-il valide selon le type de document spécifié ?
-* 8.9. Dans chaque page Web, les balises ne doivent pas être utilisées uniquement à des fins de présentation. Cette règle est-elle respectée ?
-* 9.1. Dans chaque page Web, l'information est-elle structurée par l'utilisation appropriée de titres ?
-* 9.3. Dans chaque page Web, chaque liste est-elle correctement structurée ?
-* 10.11. Pour chaque page web, les contenus peuvent-ils être présentés sans avoir recours à la fois à un défilement vertical pour une fenêtre ayant une hauteur de 256px ou une largeur de 320px (hors cas particuliers) ?
-* 11.1. Chaque champ de formulaire a-t-il une étiquette ?
-* 11.5. Dans chaque formulaire, les champs de même nature sont-ils regroupés, si nécessaire ?
-* 11.7. Dans chaque formulaire, chaque légende associée à un regroupement de champs de même nature est-elle pertinente ?
-* 11.10. Dans chaque formulaire, le contrôle de saisie est-il utilisé de manière pertinente ?
-* 11.11. Dans chaque formulaire, le contrôle de saisie est-il accompagné, si possible, de suggestions facilitant la correction des erreurs de saisie ?
-* 12.8. Dans chaque page web, l’ordre de tabulation est-il cohérent ?
-* 13.1. Pour chaque page Web, l'utilisateur a-t-il le contrôle de chaque limite de temps modifiant le contenu (hors cas particuliers) ?
+*   3.2. Dans chaque page web, le contraste entre la couleur du texte et la couleur de son arrière-plan est-il suffisamment élevé (hors cas particuliers) ?
+*   7.1. Chaque script est-il, si nécessaire, compatible avec les technologies d’assistance ?
+*   7.5. Dans chaque page web, les messages de statut sont-ils correctement restitués par les technologies d’assistance ?
+*   8.2. Pour chaque page web, le code source généré est-il valide selon le type de document spécifié ?
+*   8.9. Dans chaque page Web, les balises ne doivent pas être utilisées uniquement à des fins de présentation. Cette règle est-elle respectée ?
+*   9.1. Dans chaque page Web, l'information est-elle structurée par l'utilisation appropriée de titres ?
+*   9.3. Dans chaque page Web, chaque liste est-elle correctement structurée ?
+*   10.11. Pour chaque page web, les contenus peuvent-ils être présentés sans avoir recours à la fois à un défilement vertical pour une fenêtre ayant une hauteur de 256px ou une largeur de 320px (hors cas particuliers) ?
+*   11.1. Chaque champ de formulaire a-t-il une étiquette ?
+*   11.5. Dans chaque formulaire, les champs de même nature sont-ils regroupés, si nécessaire ?
+*   11.7. Dans chaque formulaire, chaque légende associée à un regroupement de champs de même nature est-elle pertinente ?
+*   11.10. Dans chaque formulaire, le contrôle de saisie est-il utilisé de manière pertinente ?
+*   11.11. Dans chaque formulaire, le contrôle de saisie est-il accompagné, si possible, de suggestions facilitant la correction des erreurs de saisie ?
+*   12.8. Dans chaque page web, l’ordre de tabulation est-il cohérent ?
+*   13.1. Pour chaque page Web, l'utilisateur a-t-il le contrôle de chaque limite de temps modifiant le contenu (hors cas particuliers) ?
 
 ### Contenus non soumis à l’obligation d’accessibilité
 
@@ -62,58 +62,58 @@ Cette déclaration a été établie le 31 janvier 2023.
 
 ### Technologies utilisées pour la réalisation du site web
 
-* HTML 5.2
-* CSS 3
-* Javascript
-* Vuejs 2.7
-* WAI-ARIA 1.1
+*   HTML 5.2
+*   CSS 3
+*   Javascript
+*   Vuejs 2.7
+*   WAI-ARIA 1.1
 
 ### Environnement de test
 
 Les vérifications de restitution de contenus ont été réalisées avec les combinaisons de navigateur et lecteur d’écran suivantes :
 
-* Firefox 108 et NVDA 2022.4
-* Firefox 108 et JAWS 2021
-* Chrome 108 et Android Talkback 12
+*   Firefox 108 et NVDA 2022.4
+*   Firefox 108 et JAWS 2021
+*   Chrome 108 et Android Talkback 12
 
 ### Outils pour évaluer l’accessibilité
 
-* Color Contrast Analyser
-* HeadingsMap
-* Outil de développement Firefox et Chrome
-* Web Developer (extension Firefox et Chrome)
+*   Color Contrast Analyser
+*   HeadingsMap
+*   Outil de développement Firefox et Chrome
+*   Web Developer (extension Firefox et Chrome)
 
 ### Pages du site faisant l’objet de la vérification de conformité
 
-* Page d'accueil (visible pour les usagers non connectés)
-* Parcours d'activation/opposition
-    * Préparation des pièces nécessaires
-    * Saisie de ses informations
-    * Profil (sélection de la personne concernée par le parcours)
-    * Décision (activation/opposition)
-    * Vérification coordonnées
-    * Création des identifiants
-    * Confirmation activation du compte
-* Authentification
-    * Saisie de ses identifiants
-    * Choix du canal pour réception du code
-    * Saisie du code
-* Page d'accueil (visible pour les usagers connectés)
-* Rubrique Profil médical
-    * Maladies et sujets de santé
-    * Pop-in « Ajouter une maladie ou un autre sujet de santé"
-    * Mesures
-* Rubrique Documents
-    * Liste des documents
-    * Détails document
-    * Pop-in modification/suppression
-* Messagerie
-* Rubrique Compte
-    * Informations personnelles
-* Déclaration d'Accessibilité
-* Mentions légales
-* Aide et contact
-* Contact
+*   Page d'accueil (visible pour les usagers non connectés)
+*   Parcours d'activation/opposition
+    *   Préparation des pièces nécessaires
+    *   Saisie de ses informations
+    *   Profil (sélection de la personne concernée par le parcours)
+    *   Décision (activation/opposition)
+    *   Vérification coordonnées
+    *   Création des identifiants
+    *   Confirmation activation du compte
+*   Authentification
+    *   Saisie de ses identifiants
+    *   Choix du canal pour réception du code
+    *   Saisie du code
+*   Page d'accueil (visible pour les usagers connectés)
+*   Rubrique Profil médical
+    *   Maladies et sujets de santé
+    *   Pop-in « Ajouter une maladie ou un autre sujet de santé"
+    *   Mesures
+*   Rubrique Documents
+    *   Liste des documents
+    *   Détails document
+    *   Pop-in modification/suppression
+*   Messagerie
+*   Rubrique Compte
+    *   Informations personnelles
+*   Déclaration d'Accessibilité
+*   Mentions légales
+*   Aide et contact
+*   Contact
 
 Amélioration et contact
 -----------------------
@@ -135,9 +135,9 @@ Cette procédure est à utiliser dans le cas suivant : vous avez signalé au res
 
 Vous pouvez :
 
-* Écrire un message au [Défenseur des droits](https://formulaire.defenseurdesdroits.fr/)
-* Contacter [le délégué du Défenseur des droits dans votre région](https://www.defenseurdesdroits.fr/saisir/delegues)
-* Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre) :
+*   Écrire un message au [Défenseur des droits](https://formulaire.defenseurdesdroits.fr/)
+*   Contacter [le délégué du Défenseur des droits dans votre région](https://www.defenseurdesdroits.fr/saisir/delegues)
+*   Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre) :
     
     Défenseur des droits
     
@@ -200,39 +200,39 @@ Dernière mise à jour : 12/10/2022
 
 ### A partir de janvier 2022 :
 
-* Mise en place d'un plan d'actions annuel
-* Recensement de l'ensemble des pages existantes pour mise en application de l'accessibilité
-* Mise en place d'un processus pour effectuer le rattrapage sur l'existant
-* Mise en place d'un processus pour la prise en compte de l'accessibilité pour chaque développement réalisé à partir de janvier 2022
-* Mise en place d'ateliers hebdomadaires avec pour objectif d'accompagner les équipes dans la mise en place de l'accessibilité, la rédaction des règles de gestion, l'identification des cas de test et  la transmission de la charte de développements accessibles
-* Accompagnement d'une experte accessibilité
-* Mise en place d'une instance hebdomadaire d'échanges/de coordination/d'organisation
+*   Mise en place d'un plan d'actions annuel
+*   Recensement de l'ensemble des pages existantes pour mise en application de l'accessibilité
+*   Mise en place d'un processus pour effectuer le rattrapage sur l'existant
+*   Mise en place d'un processus pour la prise en compte de l'accessibilité pour chaque développement réalisé à partir de janvier 2022
+*   Mise en place d'ateliers hebdomadaires avec pour objectif d'accompagner les équipes dans la mise en place de l'accessibilité, la rédaction des règles de gestion, l'identification des cas de test et  la transmission de la charte de développements accessibles
+*   Accompagnement d'une experte accessibilité
+*   Mise en place d'une instance hebdomadaire d'échanges/de coordination/d'organisation
 
 ### Mars :
 
-* Recette accessibilité avec pour objectif de connaître l'avancée des travaux
+*   Recette accessibilité avec pour objectif de connaître l'avancée des travaux
 
 ### Juin :
 
-* Recherche d'un prestataire indépendant pour l'audit (délivrance du taux de conformité)
-* Analyse des propositions
+*   Recherche d'un prestataire indépendant pour l'audit (délivrance du taux de conformité)
+*   Analyse des propositions
 
 ### Juillet :
 
-* Démarrage du pré-audit
-* Réception des conclusions du pré-audit
+*   Démarrage du pré-audit
+*   Réception des conclusions du pré-audit
 
 ### Août - Septembre :
 
-* Mise en place des correctifs suite au pré-audit
+*   Mise en place des correctifs suite au pré-audit
 
 ### Octobre :
 
-* Démarrage de l'audit.
-* Premières conclusions attendues à la fin du mois d'octobre
+*   Démarrage de l'audit.
+*   Premières conclusions attendues à la fin du mois d'octobre
 
 ### Avant fin 2022 :
 
-* Prise en compte des corrections à effectuer suite aux retours de l'audit
-* Élaboration de la stratégie de corrections pour la phase du contre-audit.
-* Communication du taux d'accessibilité
+*   Prise en compte des corrections à effectuer suite aux retours de l'audit
+*   Élaboration de la stratégie de corrections pour la phase du contre-audit.
+*   Communication du taux d'accessibilité
