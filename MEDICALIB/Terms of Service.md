@@ -107,9 +107,9 @@ En se connectant au Site et, le cas échéant, à l’Application mobile, l’Ut
   
 Pour toute demande d’informations ou tout contact, l’Utilisateur s’engage à contacter MEDICALIB aux adresses suivantes :
 
-* Mail : contact@medicalib.fr
-* Adresse postale : Hellosante – 11 Boulevard Delessert, 75016 Paris
-* Ou par téléphone : 09 77 55 50 99 du lundi au vendredi de 9h30 à 12h30 et de 14h00 à 17h30 (hors jours fériés) (appel non surtaxé).
+*   Mail : contact@medicalib.fr
+*   Adresse postale : Hellosante – 11 Boulevard Delessert, 75016 Paris
+*   Ou par téléphone : 09 77 55 50 99 du lundi au vendredi de 9h30 à 12h30 et de 14h00 à 17h30 (hors jours fériés) (appel non surtaxé).
 
 Ces CGU sont valables jusqu'à annulation dans la version en vigueur et à compter du **03/02/2025.**  
   
@@ -131,7 +131,7 @@ Les présentes Conditions Générales d'Utilisation s'appliquent à tous les Ser
   
 Les CGU sont à tout moment consultables sur le Site et, le cas-échéant, sur l’Application mobile à l’adresse électronique suivante :
 
-* [https://www.medicalib.fr/conditions-generales-utilisation](https://www.medicalib.fr/conditions-generales-utilisation)
+*   [https://www.medicalib.fr/conditions-generales-utilisation](https://www.medicalib.fr/conditions-generales-utilisation)
 
   
 La simple connexion par toute personne au Site et, le cas-échéant, à l’Application mobile et/ou aux Services implique l'acceptation pleine et entière des CGU.
@@ -235,17 +235,17 @@ Depuis le Site, les Patients peuvent entamer une démarche afin d’être mis en
   
 Pour cela, le Patient doit indiquer :
 
-* L’adresse où les soins devront être réalisés ;
-* Le type de soins dont il a besoin ;
-* Le nombre de passages du professionnel de santé ;
-* Le choix du professionnel (indifférent, professionnel féminin ou professionnel masculin) ;
-* La date de début des soins ;
-* La durée des soins (en jours) ;
-* Ses disponibilités horaires ;
-* Un numéro de téléphone à contacter ;
-* La personne à contacter (si différente du Patient) ;
-* Une adresse email ;
-* Et tout autre document nécessaire à la prise en charge du rendez-vous.
+*   L’adresse où les soins devront être réalisés ;
+*   Le type de soins dont il a besoin ;
+*   Le nombre de passages du professionnel de santé ;
+*   Le choix du professionnel (indifférent, professionnel féminin ou professionnel masculin) ;
+*   La date de début des soins ;
+*   La durée des soins (en jours) ;
+*   Ses disponibilités horaires ;
+*   Un numéro de téléphone à contacter ;
+*   La personne à contacter (si différente du Patient) ;
+*   Une adresse email ;
+*   Et tout autre document nécessaire à la prise en charge du rendez-vous.
 
 Lors de toutes ces étapes, le Patient s’engage à fournir des informations personnelles exactes et conformes à la réalité.  
   
@@ -270,9 +270,9 @@ Dans le cadre des campagnes susvisées, la prise de rendez-vous s’effectue via
   
 Pour cela, le bénéficiaire doit indiquer :
 
-* Nom
-* Prénom
-* Courriel
+*   Nom
+*   Prénom
+*   Courriel
 
 6.3. Prix des services
 
@@ -354,10 +354,10 @@ Les Utilisateurs reconnaissent et acceptent qu’ils assument l’entière respo
   
 Chaque Utilisateur s’engage également :
 
-* À vérifier l’exactitude des informations transmises;
-* À s’interdire de procéder à une quelconque altération, reproduction, correction, arrangement, modification ou diffusion du Service ;
-* À vérifier la conformité de ses données à la législation et aux droits d’éventuels tiers, à en obtenir seul toutes les autorisations nécessaires, et garantit MEDICALIB contre tout recours d’un Tiers.
-* Les Utilisateurs s’engagent expressément à
+*   À vérifier l’exactitude des informations transmises;
+*   À s’interdire de procéder à une quelconque altération, reproduction, correction, arrangement, modification ou diffusion du Service ;
+*   À vérifier la conformité de ses données à la législation et aux droits d’éventuels tiers, à en obtenir seul toutes les autorisations nécessaires, et garantit MEDICALIB contre tout recours d’un Tiers.
+*   Les Utilisateurs s’engagent expressément à
 
 Respecter les lois et règlements en vigueur et ne pas porter atteinte à l’ordre public, aux bonnes mœurs ou aux droits de tiers et n’enfreindre aucune disposition législative ou réglementaire ;  
 Ne pas mettre à disposition du public tout contenu dont ils ne détiendraient pas les droits et qui violerait ainsi des dispositions relatives au droit d’auteur ou au droit de la propriété intellectuelle ;  
@@ -366,7 +366,7 @@ Ne pas céder ou transférer d’une quelconque manière son Compte à un Tiers 
 Fournir à MEDICALIB toutes les informations nécessaires au fonctionnement de l’Application et des Services ;  
 Informer MEDICALIB en cas de complication de toute nature concernant l’Application ou les Services.
 
-* L’Utilisateur reconnaît qu’est interdit :
+*   L’Utilisateur reconnaît qu’est interdit :
 
 Tout comportement de nature à interrompre, suspendre, ralentir ou empêcher la continuité du Service ;  
 Toute intrusion ou tentative d’intrusions dans les systèmes de MEDICALIB, tout détournement des ressources système de l’Application, des Services et du Compte ;  
@@ -477,9 +477,9 @@ Cependant, MEDICALIB pourra vérifier de tels antécédents, à sa seule discré
   
 MEDICALIB ne fait aucune garantie concernant :  
 
-* La qualité des Services ;  
+*   La qualité des Services ;  
     
-* L’exactitude, l’opportunité, la véracité, l’exhaustivité ou la fiabilité de toute information échangée entre les Utilisateurs et obtenue par le biais du Site ou des Services.  
+*   L’exactitude, l’opportunité, la véracité, l’exhaustivité ou la fiabilité de toute information échangée entre les Utilisateurs et obtenue par le biais du Site ou des Services.  
     
 
 Aucun(e) avis ni information, oral(e) ou écrit(e), obtenu(e) auprès de MEDICALIB ou par le biais du Site ou des Services, ne constitue une garantie autre que celles expressément stipulées aux présentes.  
