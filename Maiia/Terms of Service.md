@@ -15,8 +15,8 @@ Numéro de téléphone : [01 49 09 34 98](tel:0149093498)
 
 Cegedim Santé édite :
 
-* le site internet [www.maiia.com](https://maiia.com/) (le « Site »)
-* l’application mobile « Maiia » (l’« Application »)
+*   le site internet [www.maiia.com](https://maiia.com/) (le « Site »)
+*   l’application mobile « Maiia » (l’« Application »)
 
 ### Directeur de la publication
 
@@ -161,10 +161,10 @@ Le Site/l’Application propose principalement des services de mise en relation 
   
 Plus précisément, le Site/l’Application vise à permettre aux Utilisateurs :
 
-* de rechercher et d’obtenir les coordonnées d’un PS ;
-* de prendre en ligne un rendez-vous de Consultation ;
-* via l’Application uniquement, de bénéficier d’une Téléconsultation ;
-* de rechercher et prendre connaissance de Ressources.
+*   de rechercher et d’obtenir les coordonnées d’un PS ;
+*   de prendre en ligne un rendez-vous de Consultation ;
+*   via l’Application uniquement, de bénéficier d’une Téléconsultation ;
+*   de rechercher et prendre connaissance de Ressources.
 
 Pour pouvoir bénéficier de certains Services proposés sur le Site, l’Utilisateur doit créer un Compte Patient.
 
@@ -177,8 +177,8 @@ La création d’un Compte Patient est gratuite et s’effectue à tout moment s
   
 Pour créer un Compte Patient, l’Utilisateur doit :
 
-* renseigner ses nom, prénom, adresse de courrier électronique, numéro de téléphone portable, date de naissance, sexe ainsi qu’un mot de passe répondant aux caractéristiques indiquées sur le Site/Application. L’Utilisateur s’engage particulièrement à renseigner des données vraies, exactes, complètes et à jour.
-* accepter les présentes CGU.
+*   renseigner ses nom, prénom, adresse de courrier électronique, numéro de téléphone portable, date de naissance, sexe ainsi qu’un mot de passe répondant aux caractéristiques indiquées sur le Site/Application. L’Utilisateur s’engage particulièrement à renseigner des données vraies, exactes, complètes et à jour.
+*   accepter les présentes CGU.
 
 L’identité de chaque Utilisateur pourra être vérifiée notamment par CEGEDIM SANTE dans le cadre de la lutte contre la fraude mais également par les PS, étant rappelé que chaque PS demeure responsable de l’identification du Patient dans le cadre des Consultations, notamment au titre des obligations d’identitovigilance.
 
@@ -188,11 +188,11 @@ Une fois le Compte Patient créé, le Patient accède à son Compte Patient en c
   
 Le Patient connecté à son Compte Patient peut accéder aux Services dédiés aux Patients, tels que le bénéfice d’une Téléconsultation dans les conditions des présentes CGU. Par le biais de son Compte Patient, le Patient peut également :
 
-* consulter et modifier les coordonnées qu’il a communiquées lors de la création de son Compte Patient ;
-* créer un profil pour un proche pour lequel le Patient exerce l’autorité parentale ou est tuteur/curateur conformément au droit français, sous la responsabilité exclusive et propre du Patient et avec le consentement dudit proche lorsque les lois et règlements l’imposent ;
-* accéder à l’historique des rendez-vous de Consultation réservés en ligne via le Site/l’Application ;
-* visualiser les Professionnels de Santé avec lesquels il a réservé en ligne un rendez-vous de Consultation via le Site/l’Application ;
-* supprimer son Compte Patient.
+*   consulter et modifier les coordonnées qu’il a communiquées lors de la création de son Compte Patient ;
+*   créer un profil pour un proche pour lequel le Patient exerce l’autorité parentale ou est tuteur/curateur conformément au droit français, sous la responsabilité exclusive et propre du Patient et avec le consentement dudit proche lorsque les lois et règlements l’imposent ;
+*   accéder à l’historique des rendez-vous de Consultation réservés en ligne via le Site/l’Application ;
+*   visualiser les Professionnels de Santé avec lesquels il a réservé en ligne un rendez-vous de Consultation via le Site/l’Application ;
+*   supprimer son Compte Patient.
 
 ### 7.3 Gestion des Identifiants
 
@@ -291,10 +291,10 @@ Un PS tiers peut être présent auprès du Patient et, le cas échéant, assiste
 
 Le Patient est invité à :
 
-* mettre à jour, le cas échéant, les informations de son Compte Patient ;
-* saisir un motif de Téléconsultation et, de façon facultative, toute autre information qu’il estime utile pour la réalisation de la Téléconsultation ;  
-* le cas échéant, préciser le moyen de paiement (carte bancaire) et saisir les coordonnées bancaires requises, pour que soit opéré le paiement de la Téléconsultation au PS, à l’issue de celle-ci, conformément à l’article « Paiement des Téléconsultations » des CGU ;
-* donner son consentement à la réalisation de l’acte de Téléconsultation par le biais d’une case à cocher ;
+*   mettre à jour, le cas échéant, les informations de son Compte Patient ;
+*   saisir un motif de Téléconsultation et, de façon facultative, toute autre information qu’il estime utile pour la réalisation de la Téléconsultation ;  
+*   le cas échéant, préciser le moyen de paiement (carte bancaire) et saisir les coordonnées bancaires requises, pour que soit opéré le paiement de la Téléconsultation au PS, à l’issue de celle-ci, conformément à l’article « Paiement des Téléconsultations » des CGU ;
+*   donner son consentement à la réalisation de l’acte de Téléconsultation par le biais d’une case à cocher ;
 
 étant précisé qu’à défaut de saisie valide de ces renseignements ou de consentement donné, la Téléconsultation ne pourra être réalisée.  
   
@@ -360,8 +360,8 @@ L’accès et l’utilisation du Site/de l’Application stricto sensu sont grat
   
 Toutefois, l’Utilisateur reconnaît et accepte que restent à sa charge exclusive :
 
-* tous les frais, coûts, dépenses afférentes à l’accès, au téléchargement et à l’utilisation du Site/de l’Application que ce soit les frais matériels, logiciels, liés à internet dont ceux facturés par l’opérateur de télécommunications pour l’utilisation du réseau et le partage des données ;
-* le paiement des Consultations auprès du PS concerné selon les conditions de paiement propres à ce dernier, étant précisé que le paiement des Téléconsultations s’effectue dans les conditions définies à l’article 12.2 « Paiement des Téléconsultations ».
+*   tous les frais, coûts, dépenses afférentes à l’accès, au téléchargement et à l’utilisation du Site/de l’Application que ce soit les frais matériels, logiciels, liés à internet dont ceux facturés par l’opérateur de télécommunications pour l’utilisation du réseau et le partage des données ;
+*   le paiement des Consultations auprès du PS concerné selon les conditions de paiement propres à ce dernier, étant précisé que le paiement des Téléconsultations s’effectue dans les conditions définies à l’article 12.2 « Paiement des Téléconsultations ».
 
 Pour toute information concernant la prise en charge du ticket modérateur et de la dispense d’avance de frais, nous vous invitons à consulter notamment le site www.ameli.fr ainsi que le site [www.complementaire-sante-solidaire.gouv.fr](https://www.complementaire-sante-solidaire.gouv.fr/) (Fond CMU-C).
 
@@ -371,9 +371,9 @@ CEGEDIM SANTE met à disposition de l’Utilisateur un service de simulation de 
 
 Pour bénéficier du service de simulation de reste à charge, l’Utilisateur doit indiquer dans la Rubrique « Mutuelle » de son compte ou lors de l’utilisation du Service de simulation de reste à charge :
 
-* Son numéro de sécurité social ;
-* Le numéro de son Assurance Maladie Complémentaire (AMC) manuellement ou en scannant la carte AMC via le Site/Application ;
-* Son numéro d’adhérent à l’AMC manuellement ou en scannant la carte AMC via le Site/Application.
+*   Son numéro de sécurité social ;
+*   Le numéro de son Assurance Maladie Complémentaire (AMC) manuellement ou en scannant la carte AMC via le Site/Application ;
+*   Son numéro d’adhérent à l’AMC manuellement ou en scannant la carte AMC via le Site/Application.
 
 A partir des informations indiquées par l’Utilisateur et des tarifs indiqués par le Professionnel de santé, CEGEDIM SANTE interroge l’AMC de l’Utilisateur pour connaître ses droits. Ce service n’est accessible que pour les bénéficiaires d’une AMC partenaire de CEGEDIM SANTE.
 
@@ -416,13 +416,13 @@ L’Utilisateur s’engage à respecter les Conditions Générales d’Utilisati
   
 L’Utilisateur s’engage à accéder et utiliser le Site/l’Application en toute bonne foi et de manière raisonnable. En outre, en utilisant le Site/l’Application, l’Utilisateur s’interdit notamment de :
 
-* perturber ou interrompre l’accès ou le fonctionnement du Site/de l’Application ou des serveurs ou réseaux connectés au Site/à l’Application, ou enfreindre les exigences, procédures, règles ou règlementations des réseaux/outils connectés au Site/à l’Application ;
-* tenter de porter atteinte à tout utilisateur, hébergeur ou réseau, ce qui comprend, sans exhaustivité aucune, le fait, volontairement ou par négligence, d’exposer le Site/l’Application mobile à un virus, de créer une saturation ou encore d’inonder le serveur ;
-* de tenter d’accéder aux données qui ne sont pas destinées à l’Utilisateur ou d’entrer dans un serveur/Compte Patient auquel l’Utilisateur n’a pas accès ;
-* tenter de sonder, de scruter ou de tester la vulnérabilité d’un système ou d’un réseau, ou encore d’enfreindre les mesures de sécurité ou d’authentification sans avoir reçu l’autorisation ;
-* usurper l’identité d’une autre personne ;
-* mener une activité ou inciter une tierce personne à mener une activité illégale ou tout autre activité qui porterait atteinte aux droits de CEGEDIM SANTE, de ses partenaires, de ses investisseurs, de ses clients ou de tout autre Utilisateur ;
-* transmettre ou transférer (par quelque moyen que ce soit) des informations ou logiciels dérivés du Site/de l’Application notamment à toute personne non autorisée expressément ou non par CEGEDIM SANTE et/ou en violation d’une loi ou règlementation nationale ou internationale applicable. L’Utilisateur est seul responsable de l’utilisation qu’il fait du contenu, en ce compris les Ressources, du Site/de l’Application ainsi que de tout dommage qui pourrait résulter d’une utilisation non-conforme.
+*   perturber ou interrompre l’accès ou le fonctionnement du Site/de l’Application ou des serveurs ou réseaux connectés au Site/à l’Application, ou enfreindre les exigences, procédures, règles ou règlementations des réseaux/outils connectés au Site/à l’Application ;
+*   tenter de porter atteinte à tout utilisateur, hébergeur ou réseau, ce qui comprend, sans exhaustivité aucune, le fait, volontairement ou par négligence, d’exposer le Site/l’Application mobile à un virus, de créer une saturation ou encore d’inonder le serveur ;
+*   de tenter d’accéder aux données qui ne sont pas destinées à l’Utilisateur ou d’entrer dans un serveur/Compte Patient auquel l’Utilisateur n’a pas accès ;
+*   tenter de sonder, de scruter ou de tester la vulnérabilité d’un système ou d’un réseau, ou encore d’enfreindre les mesures de sécurité ou d’authentification sans avoir reçu l’autorisation ;
+*   usurper l’identité d’une autre personne ;
+*   mener une activité ou inciter une tierce personne à mener une activité illégale ou tout autre activité qui porterait atteinte aux droits de CEGEDIM SANTE, de ses partenaires, de ses investisseurs, de ses clients ou de tout autre Utilisateur ;
+*   transmettre ou transférer (par quelque moyen que ce soit) des informations ou logiciels dérivés du Site/de l’Application notamment à toute personne non autorisée expressément ou non par CEGEDIM SANTE et/ou en violation d’une loi ou règlementation nationale ou internationale applicable. L’Utilisateur est seul responsable de l’utilisation qu’il fait du contenu, en ce compris les Ressources, du Site/de l’Application ainsi que de tout dommage qui pourrait résulter d’une utilisation non-conforme.
 
 L’Utilisateur renseigne sous sa seule responsabilité, les informations demandées dans le cadre du Site/de l’Application et nécessaires à l’accès à/l’utilisation de certains Services. L’Utilisateur garantit que les données qu’il communique à CEGEDIM SANTE dans le cadre de l’utilisation du Site/de l’Application sont exactes et conformes à la réalité. L’Utilisateur s’engage à utiliser les Ressources conformément à leurs finalités décrites dans les CGU. Toutefois, sauf dispositions contraires des présentes CGU, les Ressources et les contenus diffusés dans le cadre des Services peuvent être reproduits, utilisés ou représentés sans l’autorisation expresse et préalable de CEGEDIM SANTE ou du PS, selon le cas.  
   
@@ -434,12 +434,12 @@ Sauf disposition expresse contraire, le Patient reconnaît et accepte que les Se
   
 Le Patient :
 
-* garantit utiliser tout ou partie des Services uniquement à des fins privées et s’interdit notamment toute exploitation commerciale, y compris publicitaire, ou à tout autre but lucratif de tout ou partie des Services réalisés ou souscrits via son Compte Patient ;
-* s’engage à respecter les horaires du rendez-vous de Consultation réservé en ligne via le Site/Application ; à défaut, CEGEDIM SANTE ne saurait être tenue responsable de la réduction de temps ou de l’annulation d’une Consultation ou de toute autre conséquence ;
-* est seul responsable du paiement de la Consultation réalisée par un PS vis-à-vis de ce dernier, toute information concernant les tarifs de consultation étant par ailleurs fournie exclusivement à titre indicatif sans aucune garantie d’exactitude, le PS pouvant décider de les modifier à tout moment ;
-* s’engage à respecter les consignes et recommandations qui lui sont communiquées par le PS dans le cadre d’une Téléconsultation ;
-* s’engage, dans le cadre des Téléconsultations, à ne pas tenir ou diffuser, de quelle que manière que ce soit, des propos ou contenus pouvant violer les droits de tiers ou présentant un caractère d’injure, de diffamation, de discrimination, de violence ou similaire ;
-* s’engage ainsi à utiliser la Téléconsultation et les documents adressés par le PS conformément à la finalité décrite dans les CGU, aux instructions dudit PS et dans le respect du droit en vigueur.
+*   garantit utiliser tout ou partie des Services uniquement à des fins privées et s’interdit notamment toute exploitation commerciale, y compris publicitaire, ou à tout autre but lucratif de tout ou partie des Services réalisés ou souscrits via son Compte Patient ;
+*   s’engage à respecter les horaires du rendez-vous de Consultation réservé en ligne via le Site/Application ; à défaut, CEGEDIM SANTE ne saurait être tenue responsable de la réduction de temps ou de l’annulation d’une Consultation ou de toute autre conséquence ;
+*   est seul responsable du paiement de la Consultation réalisée par un PS vis-à-vis de ce dernier, toute information concernant les tarifs de consultation étant par ailleurs fournie exclusivement à titre indicatif sans aucune garantie d’exactitude, le PS pouvant décider de les modifier à tout moment ;
+*   s’engage à respecter les consignes et recommandations qui lui sont communiquées par le PS dans le cadre d’une Téléconsultation ;
+*   s’engage, dans le cadre des Téléconsultations, à ne pas tenir ou diffuser, de quelle que manière que ce soit, des propos ou contenus pouvant violer les droits de tiers ou présentant un caractère d’injure, de diffamation, de discrimination, de violence ou similaire ;
+*   s’engage ainsi à utiliser la Téléconsultation et les documents adressés par le PS conformément à la finalité décrite dans les CGU, aux instructions dudit PS et dans le respect du droit en vigueur.
 
 **ARTICLE 16 – Responsabilité de l’Utilisateur/du Patient**
 -----------------------------------------------------------
@@ -609,12 +609,12 @@ Les Professionnels de santé du réseau Maiia 7/7 exercent leur art dans le res
 
 Le Service de Téléconsultation Maiia 7/7 est ainsi délivré par les PS du réseau Maiia 7/7 :
 
-* avec le consentement libre et éclairé de l’Utilisateur après information concernant :
-    * les modalités de réalisation de l’acte de Téléconsultation Maiia 7/7,
-    * le partage de ses données entre les PS du réseau Maiia 7/7 participant à la fourniture du Service, ainsi qu’avec les membres de la Direction médicale le cas échéant, dans la limite des données strictement nécessaires à la qualité et à la continuité des soins et à l’accomplissement des missions de la Direction médicale.
-* dans le respect de l’indépendance professionnelle du PS du réseau Maiia 7/7 :
-    * les PS du réseau Maiia 7/7 répondent aux Utilisateurs, dans toute la mesure de leurs connaissances, considérant leur discipline ou leur spécialité ainsi que leurs qualifications ordinales, en se basant d’une part, sur les informations fournies par les Utilisateurs, d’autre part, sur les données acquises de la science et les bonnes pratiques.
-    * si les PS du réseau Maiia 7/7 estiment qu’ils ne sont pas en capacité de délivrer le Service en raison des seules informations communiquées par l’Utilisateur et/ou s’ils estiment que leur indépendance professionnelle ne paraît ou n’est pas garantie, ils peuvent se récuser avant de s’engager dans la réalisation du Service ou se dégager de la mise en œuvre du Service après en avoir informé l’Utilisateur, ce qu’accepte l’Utilisateur.
+*   avec le consentement libre et éclairé de l’Utilisateur après information concernant :
+    *   les modalités de réalisation de l’acte de Téléconsultation Maiia 7/7,
+    *   le partage de ses données entre les PS du réseau Maiia 7/7 participant à la fourniture du Service, ainsi qu’avec les membres de la Direction médicale le cas échéant, dans la limite des données strictement nécessaires à la qualité et à la continuité des soins et à l’accomplissement des missions de la Direction médicale.
+*   dans le respect de l’indépendance professionnelle du PS du réseau Maiia 7/7 :
+    *   les PS du réseau Maiia 7/7 répondent aux Utilisateurs, dans toute la mesure de leurs connaissances, considérant leur discipline ou leur spécialité ainsi que leurs qualifications ordinales, en se basant d’une part, sur les informations fournies par les Utilisateurs, d’autre part, sur les données acquises de la science et les bonnes pratiques.
+    *   si les PS du réseau Maiia 7/7 estiment qu’ils ne sont pas en capacité de délivrer le Service en raison des seules informations communiquées par l’Utilisateur et/ou s’ils estiment que leur indépendance professionnelle ne paraît ou n’est pas garantie, ils peuvent se récuser avant de s’engager dans la réalisation du Service ou se dégager de la mise en œuvre du Service après en avoir informé l’Utilisateur, ce qu’accepte l’Utilisateur.
 
 ### 4.2 La direction médicale
 
@@ -663,9 +663,9 @@ En acceptant les présentes CGU Maiia 7/7, l’Utilisateur accepte expressément
 
 Le Service est accessible à tout Utilisateur :
 
-1. Majeur et disposant de la capacité juridique permettant de souscrire aux présentes CGU Maiia 7/7. Il est précisé qu’un Utilisateur majeur peut utiliser le Service au bénéfice de mineur(s) pour lesquels il exerce l’autorité parentale ou est tuteur/curateur (en lui créant un profil « Proche » dans son propre Compte Patient) conformément et dans les limites permises par le droit français (pour les mineurs de plus de 15 ans voir l’article 5.3 ci-dessous) et ;
-2. Bénéficiant d’un contrat avec une Complémentaire Santé partenaire de TBNO INVEST, assureur, mutuelle, entreprise ou institution publique ou privée proposant le service de Maiia 7/7 à ses bénéficiaires ;
-3. Ayant renseigné des informations valides, notamment son numéro de sécurité sociale et les informations concernant son assurance maladie complémentaire (AMC), lorsque cela s’avère nécessaire.  
+1.  Majeur et disposant de la capacité juridique permettant de souscrire aux présentes CGU Maiia 7/7. Il est précisé qu’un Utilisateur majeur peut utiliser le Service au bénéfice de mineur(s) pour lesquels il exerce l’autorité parentale ou est tuteur/curateur (en lui créant un profil « Proche » dans son propre Compte Patient) conformément et dans les limites permises par le droit français (pour les mineurs de plus de 15 ans voir l’article 5.3 ci-dessous) et ;
+2.  Bénéficiant d’un contrat avec une Complémentaire Santé partenaire de TBNO INVEST, assureur, mutuelle, entreprise ou institution publique ou privée proposant le service de Maiia 7/7 à ses bénéficiaires ;
+3.  Ayant renseigné des informations valides, notamment son numéro de sécurité sociale et les informations concernant son assurance maladie complémentaire (AMC), lorsque cela s’avère nécessaire.  
       
     
 
@@ -736,8 +736,8 @@ En conséquence, l’Utilisateur accepte que dans de telles situations, il soit 
 
 Le Patient est invité à :
 
-* saisir un motif de téléconsultation et, de façon facultative, toute autre information qu’il estime utile pour la réalisation de la Téléconsultation Maiia 7/7 ; et
-* donner son consentement à la réalisation de l’acte de Téléconsultation Maiia 7/7 par le biais d’une case à cocher ;
+*   saisir un motif de téléconsultation et, de façon facultative, toute autre information qu’il estime utile pour la réalisation de la Téléconsultation Maiia 7/7 ; et
+*   donner son consentement à la réalisation de l’acte de Téléconsultation Maiia 7/7 par le biais d’une case à cocher ;
 
 étant précisé qu’à défaut de saisie valide de ces renseignements ou de consentement donné, la Téléconsultation Maiia 7/7 ne pourra être réalisée.  
   
