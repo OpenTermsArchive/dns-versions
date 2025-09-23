@@ -41,17 +41,17 @@ L’inscription sur la Plateforme **LibHéros** est également gratuite pour l
 
 Dans les présentes CGPS, il est convenu que les expressions ou mots suivants, qu’ils soient employés au singulier ou au pluriel, auront la signification suivante :
 
-* APPLICATION : ensemble des éléments structurant la plateforme disponible au téléchargement sur les plateformes légales Appstore et Google Play qui permet à un Professionnel de Santé d’indiquer via la Plateforme **LibHéros** en temps réel ses disponibilités à des Patients et de permettre à ceux-ci de prendre rendez-vous avec eux pour la réalisation de soins médicaux et/ou paramédicaux à domicile dans un secteur géographique donné.
-* CODE IDENTIFIANT : ensemble des informations relatives à chaque Utilisateur, qu’il soit Professionnel de Santé ou Patient, composé d’un identifiant (Nom, prénom et adresse email) et d’un mot de passe sécurisé choisi par ce dernier afin de pouvoir accéder à son propre Compte Utilisateur.
-* COMPTE UTILISATEUR ou COMPTE : module de la Plateforme **LibHéros** consacré aux Utilisateurs et à l’ensemble des informations propres à leur statut et leur utilisation des Services fournis par la Société.
-* CARTE DE COORDINATION PATIENT : fiche destinée à référencer les coordonnées (noms, prénoms, profession, téléphone et/ou adresse email) des différents Professionnels de Santé avec lesquels le Patient a l’habitude de traiter et accessible par le Professionnel de Santé dès lors que celui-ci a déjà réalisé un Soin pour lui. Cette Carte de Coordination sera remplie soit par le Patient soit par un Professionnel de Santé à qui le Patient a déjà eu recours pour des soins. Cette Carte de Coordination Patient permettra notamment la mise en place de la messagerie interprofessionnelle.
-* PLATEFORME **LIBHEROS** ou PLATEFORME : plateforme accessible via le Site Internet ou l’Application et qui permet au Professionnel de Santé d’indiquer en temps réel ses disponibilités à des Patients et de permettre à ceux-ci de prendre rendez-vous avec eux pour la réalisation de soins médicaux et/ou paramédicaux à domicile dans un secteur géographique donné.
-* PATIENT : Utilisateur qui souhaite bénéficier des Soins d’un Professionnel de Santé et prendre rendez-vous avec lui via la Plateforme **LibHéros**.
-* PROCHE : personne désignée par le Patient comme proche aidant, pouvant être référencé dans la Carte de Coordination Patient et être contacté à cet effet.
-* PROFESSIONNEL DE SANTE : professionnel de santé exerçant en cabinet et/ou à domicile, notamment des médecins généralistes, infirmier, kinésithérapeute, sage-femme, , ostéopathe, , etc., référencé sur la Plateforme **LibHéros** qui propose la prise de rendez-vous et la réservation de ses Soins à des Patients via la Plateforme **LibHéros**.
-* SERVICES : mise en relation par la Société entre le Professionnel de Santé et le Patient via la PLATEFORME **LibHéros**.
-* SOINS : consultations médicales ou paramédicales et tous les soins médicaux ou paramédicaux effectuées par le Professionnel de Santé auprès du Patient, qui aura pris rendez-vous avec le Professionnel de Santé via la Plateforme **LibHéros**.
-* UTILISATEUR : toute personne physique ou morale, Professionnel de Santé, Patient, qui s’est inscrite sur la Plateforme **LibHéros**.
+*   APPLICATION : ensemble des éléments structurant la plateforme disponible au téléchargement sur les plateformes légales Appstore et Google Play qui permet à un Professionnel de Santé d’indiquer via la Plateforme **LibHéros** en temps réel ses disponibilités à des Patients et de permettre à ceux-ci de prendre rendez-vous avec eux pour la réalisation de soins médicaux et/ou paramédicaux à domicile dans un secteur géographique donné.
+*   CODE IDENTIFIANT : ensemble des informations relatives à chaque Utilisateur, qu’il soit Professionnel de Santé ou Patient, composé d’un identifiant (Nom, prénom et adresse email) et d’un mot de passe sécurisé choisi par ce dernier afin de pouvoir accéder à son propre Compte Utilisateur.
+*   COMPTE UTILISATEUR ou COMPTE : module de la Plateforme **LibHéros** consacré aux Utilisateurs et à l’ensemble des informations propres à leur statut et leur utilisation des Services fournis par la Société.
+*   CARTE DE COORDINATION PATIENT : fiche destinée à référencer les coordonnées (noms, prénoms, profession, téléphone et/ou adresse email) des différents Professionnels de Santé avec lesquels le Patient a l’habitude de traiter et accessible par le Professionnel de Santé dès lors que celui-ci a déjà réalisé un Soin pour lui. Cette Carte de Coordination sera remplie soit par le Patient soit par un Professionnel de Santé à qui le Patient a déjà eu recours pour des soins. Cette Carte de Coordination Patient permettra notamment la mise en place de la messagerie interprofessionnelle.
+*   PLATEFORME **LIBHEROS** ou PLATEFORME : plateforme accessible via le Site Internet ou l’Application et qui permet au Professionnel de Santé d’indiquer en temps réel ses disponibilités à des Patients et de permettre à ceux-ci de prendre rendez-vous avec eux pour la réalisation de soins médicaux et/ou paramédicaux à domicile dans un secteur géographique donné.
+*   PATIENT : Utilisateur qui souhaite bénéficier des Soins d’un Professionnel de Santé et prendre rendez-vous avec lui via la Plateforme **LibHéros**.
+*   PROCHE : personne désignée par le Patient comme proche aidant, pouvant être référencé dans la Carte de Coordination Patient et être contacté à cet effet.
+*   PROFESSIONNEL DE SANTE : professionnel de santé exerçant en cabinet et/ou à domicile, notamment des médecins généralistes, infirmier, kinésithérapeute, sage-femme, , ostéopathe, , etc., référencé sur la Plateforme **LibHéros** qui propose la prise de rendez-vous et la réservation de ses Soins à des Patients via la Plateforme **LibHéros**.
+*   SERVICES : mise en relation par la Société entre le Professionnel de Santé et le Patient via la PLATEFORME **LibHéros**.
+*   SOINS : consultations médicales ou paramédicales et tous les soins médicaux ou paramédicaux effectuées par le Professionnel de Santé auprès du Patient, qui aura pris rendez-vous avec le Professionnel de Santé via la Plateforme **LibHéros**.
+*   UTILISATEUR : toute personne physique ou morale, Professionnel de Santé, Patient, qui s’est inscrite sur la Plateforme **LibHéros**.
 
 4 - VERIFICATION DE L’ADEQUATION DES BESOINS AUX SERVICES
 
@@ -87,8 +87,8 @@ Chaque Patient doit également renseigner sa civilité, son adresse, son numéro
 
 Chaque Professionnel de Santé doit également renseigner :
 
-* son numéro d’identification des professionnels de santé, (ADELI, RPPS,…)
-* ses coordonnées bancaires, pour la souscription aux Services, dans les conditions de l’article 8 des présentes CGPS.
+*   son numéro d’identification des professionnels de santé, (ADELI, RPPS,…)
+*   ses coordonnées bancaires, pour la souscription aux Services, dans les conditions de l’article 8 des présentes CGPS.
 
 Avant que la création de son Compte ne soit soumise à la validation de **LIB-HEROS**, chaque Utilisateur doit avoir lu et accepté au préalable les présentes CGPS, en cochant la case « j’ai lu et j’accepte les conditions générales d’utilisation ».
 
@@ -132,9 +132,9 @@ La demande de la réservation d’un Soin se déroule en différentes étapes te
 
 Le Patient sélectionne tout d’abord :
 
-* la zone géographique (ville et code postal) ou l’adresse exacte du domicile où il souhaite que les Soins soient réalisés
-* le type de Professionnel de Santé dont il souhaite réserver les Soins, ainsi que les types de Soins à effectuer
-* la date et la plage horaire auxquelles il souhaite que le Professionnel se déplace pour effectuer les Soins.
+*   la zone géographique (ville et code postal) ou l’adresse exacte du domicile où il souhaite que les Soins soient réalisés
+*   le type de Professionnel de Santé dont il souhaite réserver les Soins, ainsi que les types de Soins à effectuer
+*   la date et la plage horaire auxquelles il souhaite que le Professionnel se déplace pour effectuer les Soins.
 
 #### ETAPE 2 : RECAPITULATIF DE LA RESERVATION
 
@@ -168,18 +168,18 @@ Le Patient ou le Professionnel de Santé a la possibilité d’annuler la réser
 
 #### CONDITIONS D’ANNULATION, MODIFICATION ET/OU RETARD DU PROFESSIONNEL
 
-1. En cas d’impossibilité pour le Professionnel de santé d’honorer sa réservation, celui-ci doit en informer directement et dans les meilleurs délais le Patient par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Patient sur son Compte et en informer **LibHéros**.  
+1.  En cas d’impossibilité pour le Professionnel de santé d’honorer sa réservation, celui-ci doit en informer directement et dans les meilleurs délais le Patient par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Patient sur son Compte et en informer **LibHéros**.  
     Dans ce cas, **LibHéros** peut proposer au Patient de rechercher via la Plateforme **LibHéros** un nouveau Professionnel de Santé de la même spécialité et disponible aux mêmes date et horaire que celles souhaitées par le Patient dans sa réservation initiale.  
     Le Patient est informé que **LibHéros** ne s’engage aucunement en cas d’annulation par le Professionnel de sa réservation à ce qu’un autre Professionnel de Santé soit disponible dans les mêmes conditions.  
     **LibHéros** ne pourra donc en aucun cas être tenue responsable de l’annulation de la réservation, qu’elles qu’en soient les conséquences, notamment les conséquences médicales sur le Patient
-2. En cas de retard ou de modification de son horaire de disponibilité par le Professionnel de santé, celui-ci doit en informer dans les meilleurs délais directement le Patient par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Patient sur son Compte.
-3. Le Professionnel de santé qui modifie ses disponibilités après qu’une réservation soit effectuée, annule ou qui est significativement en retard plus de 10 fois au cours d’un même mois verra la fonctionnalité de Prise de Rendez-vous de son Compte Utilisateur pendant une période dont la durée est à la discrétion de **LibHéros**.
+2.  En cas de retard ou de modification de son horaire de disponibilité par le Professionnel de santé, celui-ci doit en informer dans les meilleurs délais directement le Patient par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Patient sur son Compte.
+3.  Le Professionnel de santé qui modifie ses disponibilités après qu’une réservation soit effectuée, annule ou qui est significativement en retard plus de 10 fois au cours d’un même mois verra la fonctionnalité de Prise de Rendez-vous de son Compte Utilisateur pendant une période dont la durée est à la discrétion de **LibHéros**.
 
 #### CONDITIONS D’ANNULATION, MODIFICATION ET/OU RETARD DU PATIENT
 
-1. En cas d’impossibilité pour le Patient d’honorer sa réservation, celui-ci doit en informer directement le Professionnel de santé dans les meilleurs délais, par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Professionnel sur son Compte et en informer **LibHéros**. Des frais de déplacements et de dédommagement au Professionnel de Santé peuvent être incombés au Patient qui ne peut honorer son Soin, selon les règles en vigueur.
-2. En cas de retard du Patient, celui-ci doit en informer directement le Professionnel de Santé dans les meilleurs délais et par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Professionnel de Sante sur son Compte.
-3. Le Patient qui est en retard plus de 5 fois au cours d’un même mois ou qui annule plus de 5 réservations au cours d’un même mois verra l’utilisation de son Compte Utilisateur limitée pendant une période dont la durée est à la discrétion de **LibHéros**.  
+1.  En cas d’impossibilité pour le Patient d’honorer sa réservation, celui-ci doit en informer directement le Professionnel de santé dans les meilleurs délais, par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Professionnel sur son Compte et en informer **LibHéros**. Des frais de déplacements et de dédommagement au Professionnel de Santé peuvent être incombés au Patient qui ne peut honorer son Soin, selon les règles en vigueur.
+2.  En cas de retard du Patient, celui-ci doit en informer directement le Professionnel de Santé dans les meilleurs délais et par tout moyen, notamment par email, par téléphone, ou par SMS, aux coordonnées renseignées par le Professionnel de Sante sur son Compte.
+3.  Le Patient qui est en retard plus de 5 fois au cours d’un même mois ou qui annule plus de 5 réservations au cours d’un même mois verra l’utilisation de son Compte Utilisateur limitée pendant une période dont la durée est à la discrétion de **LibHéros**.  
     **LibHéros** ne pourra donc en aucun cas être tenue responsable de l’annulation de la réservation, qu’elles qu’en soient les conséquences, notamment les conséquences médicales sur le Patient.
 
 ### 7.3 - NEUTRALITE DE LA SOCIETE DANS LA RELATION CONTRACTUELLE LIANT LE PROFESSIONNEL DE SANTE ET LE PATIENT
@@ -262,7 +262,7 @@ L'utilisation des Services de **LibHéros** par le Professionnel de Santé est
 
 Les Professionnels de Santé ont cependant la possibilité de souscrire aux options payantes suivantes, mais non-exhaustives, disponibles sur la Plateforme **LibHéros PRO** :
 
-1. Création, hébergement et maintenance d'un site internet simple proposant une présentation de l'activité du Professionnel selon le cadre imposé par le Code de la Santé Publique et permettant aux Patients de prendre rendez-vous avec le Professionnel via le même module de prise de rendez-vous que sur le site **libheros.fr**.
+1.  Création, hébergement et maintenance d'un site internet simple proposant une présentation de l'activité du Professionnel selon le cadre imposé par le Code de la Santé Publique et permettant aux Patients de prendre rendez-vous avec le Professionnel via le même module de prise de rendez-vous que sur le site **libheros.fr**.
 
 ### 9.2 - SERVICE PAYANT POUR LE PATIENT
 
@@ -270,30 +270,30 @@ Les Patients ont la possibilité de souscrire au service payant **libheros pati
 
 #### 9.2.1 - Définitions
 
-* On appelle « Demandeur » le patient ou son proche qui contacte l’équipe de coordination de soins de libheros afin que soient organisés des soins ou services de santé à domicile dont le patient a besoin, dans le cadre du service payant **libheros patient +**.
-* On appelle « Besoin » l’ensemble de ces soins ou services de santé à domicile ainsi que les conditions dans lesquels ils doivent être réalisés (adresse postale, délais, etc.).
+*   On appelle « Demandeur » le patient ou son proche qui contacte l’équipe de coordination de soins de libheros afin que soient organisés des soins ou services de santé à domicile dont le patient a besoin, dans le cadre du service payant **libheros patient +**.
+*   On appelle « Besoin » l’ensemble de ces soins ou services de santé à domicile ainsi que les conditions dans lesquels ils doivent être réalisés (adresse postale, délais, etc.).
 
 #### 9.2.2 - Lancement des recherches
 
-* Suite à son appel avec le coordinateur de soins de **LibHéros**, le Demandeur reçoit un email récapitulatif du Besoin ainsi qu'un email contenant le lien vers la page sécurisée pour la carte bancaire.
-* Le Demandeur en prend connaissance et, s’il estime que le récapitulatif n’est pas fidèle ou incomplet dans sa description du Besoin, il contacte le coordinateur par téléphone au [09 81 61 45 50](tel:0981614550) pour rectifier sa demande. Un nouvel email récapitulatif de sa demande lui sera alors envoyé (annulant le précédent).
-* Lorsque le Demandeur juge que le Besoin a bien été décrit dans l’email récapitulatif, il clique sur le lien ouvrant une interface sécurisée qui indique le tarif indiqué par le coordinateur de soins et où il est invité à entrer sa carte bancaire (qui n'est pas prélevée à ce stade).
-* Lorsque le Demandeur a entré sa carte bancaire avec succès, le coordinateur de soins est averti et commence les recherches pour répondre au Besoin.
+*   Suite à son appel avec le coordinateur de soins de **LibHéros**, le Demandeur reçoit un email récapitulatif du Besoin ainsi qu'un email contenant le lien vers la page sécurisée pour la carte bancaire.
+*   Le Demandeur en prend connaissance et, s’il estime que le récapitulatif n’est pas fidèle ou incomplet dans sa description du Besoin, il contacte le coordinateur par téléphone au [09 81 61 45 50](tel:0981614550) pour rectifier sa demande. Un nouvel email récapitulatif de sa demande lui sera alors envoyé (annulant le précédent).
+*   Lorsque le Demandeur juge que le Besoin a bien été décrit dans l’email récapitulatif, il clique sur le lien ouvrant une interface sécurisée qui indique le tarif indiqué par le coordinateur de soins et où il est invité à entrer sa carte bancaire (qui n'est pas prélevée à ce stade).
+*   Lorsque le Demandeur a entré sa carte bancaire avec succès, le coordinateur de soins est averti et commence les recherches pour répondre au Besoin.
 
 #### 9.2.3 - Après le début des recherches
 
-* Si le Demandeur souhaite annuler sa demande, il doit appeler le coordinateur de soins au [09 81 61 45 50](tel:0981614550) dans les plus brefs délais.
-* S’il annule moins de 1 heure après avoir mis sa carte bancaire, l’empreinte bancaire sera détruite sans prélèvement.
-* S’il annule plus de 1 heure après, il sera tout de même facturé entre 50% et 100% du montant prévu en fonction de la raison de l’annulation.
+*   Si le Demandeur souhaite annuler sa demande, il doit appeler le coordinateur de soins au [09 81 61 45 50](tel:0981614550) dans les plus brefs délais.
+*   S’il annule moins de 1 heure après avoir mis sa carte bancaire, l’empreinte bancaire sera détruite sans prélèvement.
+*   S’il annule plus de 1 heure après, il sera tout de même facturé entre 50% et 100% du montant prévu en fonction de la raison de l’annulation.
 
 #### 9.2.4 - Recherches terminées
 
-* Lorsque le coordinateur de soins a terminé ses recherches, dans un délai compatible avec le Besoin du Demandeur, il informe par email le Demandeur du résultat, et l’appelle pour lui communiquer également de vive voix.
-* Si le résultat est négatif, le coordinateur explique la raison de l’échec des recherches et propose si possible d’autres pistes au Demandeur. L'empreinte bancaire est détruite sans prélèvement et le Demandeur reçoit un email confirmant qu’il ne sera pas facturé.
-* Si le résultat est positif, le coordinateur explique dans les détails l’organisation mise en place et vérifie que le Demandeur a bien compris comment poursuivre avec les intervenants identifiés. Puis le coordinateur déclenche le prélèvement du montant prévu et le Demandeur reçoit un email avec la facture.
-* Si le résultat est positif, mais que le Demandeur rejette la solution trouvée pour des raisons qui n'étaient pas dans le récapitulatif initial du Besoin, il est tout de même facturé de la totalité du montant prévu et il reçoit un email avec la facture.
-* Si le résultat est positif, mais que le Demandeur rejette la solution au motif qu’il a déjà trouvé une solution de son côté, alors qu’il n’avait pas mentionné des démarches en cours au moment du récapitulatif, il est tout de même facturé de la totalité du montant prévu et il reçoit un email avec la facture.
-* Si le résultat est positif, mais que le Demandeur ne répond pas à au moins 2 appels, 1 SMS et 1 email de la part du coordinateur de libheros 24h après que celui-ci a annoncé le succès des recherches, le Demandeur est tout de même facturé de la totalité du montant prévu et il reçoit un email avec la facture.
+*   Lorsque le coordinateur de soins a terminé ses recherches, dans un délai compatible avec le Besoin du Demandeur, il informe par email le Demandeur du résultat, et l’appelle pour lui communiquer également de vive voix.
+*   Si le résultat est négatif, le coordinateur explique la raison de l’échec des recherches et propose si possible d’autres pistes au Demandeur. L'empreinte bancaire est détruite sans prélèvement et le Demandeur reçoit un email confirmant qu’il ne sera pas facturé.
+*   Si le résultat est positif, le coordinateur explique dans les détails l’organisation mise en place et vérifie que le Demandeur a bien compris comment poursuivre avec les intervenants identifiés. Puis le coordinateur déclenche le prélèvement du montant prévu et le Demandeur reçoit un email avec la facture.
+*   Si le résultat est positif, mais que le Demandeur rejette la solution trouvée pour des raisons qui n'étaient pas dans le récapitulatif initial du Besoin, il est tout de même facturé de la totalité du montant prévu et il reçoit un email avec la facture.
+*   Si le résultat est positif, mais que le Demandeur rejette la solution au motif qu’il a déjà trouvé une solution de son côté, alors qu’il n’avait pas mentionné des démarches en cours au moment du récapitulatif, il est tout de même facturé de la totalité du montant prévu et il reçoit un email avec la facture.
+*   Si le résultat est positif, mais que le Demandeur ne répond pas à au moins 2 appels, 1 SMS et 1 email de la part du coordinateur de libheros 24h après que celui-ci a annoncé le succès des recherches, le Demandeur est tout de même facturé de la totalité du montant prévu et il reçoit un email avec la facture.
 
 ### 9.3 - MODALITES DE PAIEMENT
 
@@ -331,8 +331,8 @@ En cas de doute sur la majorité des Utilisateurs, la Société se réserve le d
 
 ### à l’occasion de leur inscription et de leur adhésion aux présentes CGPS, comme par la suite de l’utilisation des Services mis à leur disposition, de :
 
-* Communiquer des informations en vue de leur inscription qui soient incorrectes ou fausses ;
-* Indiquer la moindre information sensible d’origine raciale ou ethnique ou portant sur des opinions politiques, philosophiques ou religieuses, sur une appartenance à un syndicat, sur la vie sexuelle ou la santé, contraire aux bonnes moeurs et à la loi.
+*   Communiquer des informations en vue de leur inscription qui soient incorrectes ou fausses ;
+*   Indiquer la moindre information sensible d’origine raciale ou ethnique ou portant sur des opinions politiques, philosophiques ou religieuses, sur une appartenance à un syndicat, sur la vie sexuelle ou la santé, contraire aux bonnes moeurs et à la loi.
 
 En cas d’infraction ou de contravention à ces règles, la Société se réserve le droit de supprimer ces messages litigieux sans préavis, et d’empêcher l’accès des Utilisateurs aux Services et à leur Compte Utilisateur.
 
@@ -360,8 +360,8 @@ La Société ne sera pas responsable des dommages indirects, accessoires, partic
 
 La Société ne sera pas responsable des dommages, obligations ou pertes découlant de :
 
-1. L’utilisation des Services et la réalisation des Soins par l’Utilisateur, ou de l’impossibilité pour lui d’avoir accès ou d’utiliser les Services et les Soins,
-2. Toute transaction ou relation entre l’Utilisateur et tout prestataire tiers, même si la Société a été informée de la possibilité de tels dommages.
+1.  L’utilisation des Services et la réalisation des Soins par l’Utilisateur, ou de l’impossibilité pour lui d’avoir accès ou d’utiliser les Services et les Soins,
+2.  Toute transaction ou relation entre l’Utilisateur et tout prestataire tiers, même si la Société a été informée de la possibilité de tels dommages.
 
 Les limites et les exclusions du présent article 12 ne prétendent pas limiter la responsabilité ou modifier tout droit revenant à l’Utilisateur en qualité de consommateur, qui ne saurait être exclu au regard de la loi applicable.
 
@@ -377,9 +377,9 @@ Toutefois, l’Utilisateur reconnaît expressément que le simple fait d’avoir
 
 L’Utilisateur garantit de ce fait :
 
-* Être seul propriétaire des contenus visés à l’article 13 qu’il publie sur la Plateforme **LibHéros**, être en mesure de procéder à leur publication et avoir qualité pour accorder la licence à la Société, dans les conditions de l’article 13.1 ci-dessus ;
-* Ne pas violer par leur publication aucun des droits protégés, que ce soit les droits de la personne ou ceux prévus par le code de propriété intellectuelle (Droit d’auteur, droit voisin, marque, brevets etc.) ;
-* Un droit à la limitation du traitement :vous avez le droit d’obtenir de LIB-HEROS qu’il ne traite plus vos Données à caractère personnel pendant une durée déterminée suivant le motif invoqué pour la limitation tel que visé à l’article 18 du RGPD.
+*   Être seul propriétaire des contenus visés à l’article 13 qu’il publie sur la Plateforme **LibHéros**, être en mesure de procéder à leur publication et avoir qualité pour accorder la licence à la Société, dans les conditions de l’article 13.1 ci-dessus ;
+*   Ne pas violer par leur publication aucun des droits protégés, que ce soit les droits de la personne ou ceux prévus par le code de propriété intellectuelle (Droit d’auteur, droit voisin, marque, brevets etc.) ;
+*   Un droit à la limitation du traitement :vous avez le droit d’obtenir de LIB-HEROS qu’il ne traite plus vos Données à caractère personnel pendant une durée déterminée suivant le motif invoqué pour la limitation tel que visé à l’article 18 du RGPD.
 
 Dans le cadre de la licence visée à l’article 13, la Société pourra, dans le but de favoriser la mise en relation des Utilisateurs, librement utiliser tout ou partie des contenus publiés par ces derniers, les représenter, les diffuser et les reproduire.
 
@@ -405,9 +405,9 @@ Toute forme de copie totale ou partielle, d’aspiration et de reproduction de l
 
 La mise en oeuvre du Service **LibHéros** repose sur la collecte, le traitement et l’hébergement de données de santé à caractère personnel au sens des dispositions de l’article L 1111-8 du Code de la Santé Publique, l’Utilisateur ne pouvant bénéficier du Service **LibHéros**, qu’aux conditions cumulatives et préalables suivantes :
 
-* Être majeur, ce que garantit expressément tout Utilisateur. L’utilisateur majeur peut utiliser le Service **LibHéros** au bénéfice de mineur(s) pour lesquels il exerce l’autorité parentale, ce qu'il déclare expressément,
-* Avoir accepté les présentes CGPS,
-* Après avoir été informé des droits dont il dispose sur les données qui le concernent, avoir expressément consenti à la collecte, au traitement et à l’hébergement de ses données de santé à caractère personnel par un hébergeur agréé au sens des dispositions précitées.
+*   Être majeur, ce que garantit expressément tout Utilisateur. L’utilisateur majeur peut utiliser le Service **LibHéros** au bénéfice de mineur(s) pour lesquels il exerce l’autorité parentale, ce qu'il déclare expressément,
+*   Avoir accepté les présentes CGPS,
+*   Après avoir été informé des droits dont il dispose sur les données qui le concernent, avoir expressément consenti à la collecte, au traitement et à l’hébergement de ses données de santé à caractère personnel par un hébergeur agréé au sens des dispositions précitées.
 
 Le renseignement des informations nominatives collectées dans le cadre des présentes CGPS est obligatoire. Ces informations sont nécessaires pour le traitement et la mise en relation des Utilisateurs. Le défaut de renseignements empêche le bon fonctionnement des Services proposés en ligne par la Société.
 
@@ -463,10 +463,10 @@ Les Utilisateurs ont pleinement pris conscience des dispositions du présent art
 
 Les Utilisateurs déclarent accepter les caractéristiques et les limites de l’Internet et de l’informatique et en particulier reconnaissent :
 
-* Qu’ils ont connaissance de la nature de l'Internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer des informations ;
-* Que la communication par les Utilisateurs d’éléments personnels d'identification ou d'une manière générale de toute information jugée par les Utilisateurs comme confidentielle est faite sous leur propre responsabilité ;
-* Qu’il appartient aux Utilisateurs de prendre toutes mesures nécessaires pour s'assurer que les caractéristiques techniques de leur smartphone ou ordinateur lui permettent la consultation des informations ;
-* Qu’il appartient aux Utilisateurs de prendre toutes les mesures appropriées de façon à protéger ses propres données et/ou logiciel de la contamination par d'éventuels virus circulant à travers la Plateforme **LibHéros**.
+*   Qu’ils ont connaissance de la nature de l'Internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer des informations ;
+*   Que la communication par les Utilisateurs d’éléments personnels d'identification ou d'une manière générale de toute information jugée par les Utilisateurs comme confidentielle est faite sous leur propre responsabilité ;
+*   Qu’il appartient aux Utilisateurs de prendre toutes mesures nécessaires pour s'assurer que les caractéristiques techniques de leur smartphone ou ordinateur lui permettent la consultation des informations ;
+*   Qu’il appartient aux Utilisateurs de prendre toutes les mesures appropriées de façon à protéger ses propres données et/ou logiciel de la contamination par d'éventuels virus circulant à travers la Plateforme **LibHéros**.
 
 De ce fait, la responsabilité de la Société ne pourra être engagée pour tous les inconvénients ou dommages inhérents à l'utilisation du réseau Internet, notamment une rupture de service, une intrusion extérieure ou la présence de virus informatiques. Les Services sont fournis en l’état et dans la mesure des disponibilités.
 
