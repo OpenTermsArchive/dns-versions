@@ -27,8 +27,8 @@ Déléguée ministérielle au numérique en santé
 
 Les données sont hébergées en France par deux sous-traitants :
 
-* La société Worldline au travers de sa filiale Santeos, concernant les données de votre dossier médical partagé (DMP)
-* La société Atos concernant toutes les autres données de Mon espace santé
+*   La société Worldline au travers de sa filiale Santeos, concernant les données de votre dossier médical partagé (DMP)
+*   La société Atos concernant toutes les autres données de Mon espace santé
 
 Ces deux sociétés sont toutes deux certifiées Hébergeur de Données de Santé (HDS), conformément à l’article L. 1111-8 du code de la santé publique.
 
@@ -48,11 +48,11 @@ Seules les données personnelles strictement nécessaires à l’objectif du tra
 
 Il s’agit des données suivantes :
 
-* Données administratives ;
-* Données de santé contenues dans votre dossier médical partagé, listées à l’article R.1111-42 du code de la santé publique ;
-* Données contenues dans votre profil médical ;
-* Données concernant les messages et documents de votre messagerie sécurisée de santé ;
-* Données de traçabilité des accès à votre profil Mon espace santé.
+*   Données administratives ;
+*   Données de santé contenues dans votre dossier médical partagé, listées à l’article R.1111-42 du code de la santé publique ;
+*   Données contenues dans votre profil médical ;
+*   Données concernant les messages et documents de votre messagerie sécurisée de santé ;
+*   Données de traçabilité des accès à votre profil Mon espace santé.
 
 4\. Quelle est la durée de conservation de vos données personnelles ?
 ---------------------------------------------------------------------
@@ -93,9 +93,9 @@ Les droits d’accès des différentes catégories de professionnels habilités 
 
 L’équipe de soins désigne un ensemble de professionnels qui participent directement à la réalisation d’un soin ou d’une série de soins ou aux actions nécessaires à la coordination de ceux-ci, et qui :
 
-1. Soit exercent dans le même établissement ;
-2. Soit se sont vu reconnaître la qualité de membre de l'équipe de soins parce que vous vous adressez à eux pour la réalisation des consultations et des actes prescrits par un médecin auquel vous avez confié votre prise en charge ;
-3. Soit exercent ensemble dans une structure de coopération, d’exercice partagé ou de coordination sanitaire ou médico-sociale, comprenant au moins un professionnel de santé, présentant une organisation formalisée selon des procédures prédéfinies.
+1.  Soit exercent dans le même établissement ;
+2.  Soit se sont vu reconnaître la qualité de membre de l'équipe de soins parce que vous vous adressez à eux pour la réalisation des consultations et des actes prescrits par un médecin auquel vous avez confié votre prise en charge ;
+3.  Soit exercent ensemble dans une structure de coopération, d’exercice partagé ou de coordination sanitaire ou médico-sociale, comprenant au moins un professionnel de santé, présentant une organisation formalisée selon des procédures prédéfinies.
 
 Cette notion d’équipe de soins (articles L. 1110-12 et R. 1110-2 du code de la santé publique) est importante dans le cadre du secret professionnel qui entoure vos informations de santé. Ces informations sont réputées confiées à l'ensemble de l'équipe qui intervient dans votre prise en charge : à ce titre, les membres de l’équipe de soin doivent pouvoir accéder à votre dossier médical. Pour les professionnels qui font partie de la même équipe de soins, votre consentement préalable n’est pas requis pour l’échange et le partage du secret au sein de cette équipe. Votre consentement est dans ce cas présumé.
 
@@ -117,8 +117,8 @@ Vous pouvez également décider de donner à un autre professionnel de votre cho
 
 Sauf opposition de votre part (voir infra), peuvent également accéder à votre dossier médical en cas d’urgence :
 
-* Tout professionnel de santé amené à vous prendre en charge, si vous êtes hors d'état d'exprimer votre volonté, en présence d'une situation comportant un risque immédiat pour votre santé ;
-* Le médecin régulateur du SAMU, qui reçoit un appel vous concernant.
+*   Tout professionnel de santé amené à vous prendre en charge, si vous êtes hors d'état d'exprimer votre volonté, en présence d'une situation comportant un risque immédiat pour votre santé ;
+*   Le médecin régulateur du SAMU, qui reçoit un appel vous concernant.
 
 De façon générale, lorsqu’un professionnel ou un établissement de santé accède à vos documents de santé pour la première fois vous êtes notifié de cet accès.
 
