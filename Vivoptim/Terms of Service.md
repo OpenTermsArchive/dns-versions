@@ -85,8 +85,8 @@ Tout manquement à ces obligations constituerait une contrefaçon sanctionnée p
 
 **Crédits :** 
 
-* Photos : istock, Fotolia, Shutterstock 
-* Infographie et Direction artistique : Digital Initiative, Créafirst, Sharing Up To You 
+*   Photos : istock, Fotolia, Shutterstock 
+*   Infographie et Direction artistique : Digital Initiative, Créafirst, Sharing Up To You 
 
 6\. COOKIES 
 ------------
@@ -103,10 +103,10 @@ En se connectant au Portail, l’utilisateur a consenti à l’usage de l’ense
 
 Lors de la consultation et de la navigation sur le site du service choisi, des informations sont susceptibles d’être enregistrées dans des fichiers « Cookies » installés dans votre ordinateur, tablette ou téléphone mobile. Cette page permet de comprendre ce qu’est un Cookie, à quoi il sert et comment on peut le paramétrer. On distingue deux types de cookies :
 
-* Les cookies techniques et fonctionnels (obligatoires)
-    * Ils sont nécessaires à la navigation dans notre site, ainsi qu’à l’accès aux différents produits et services. Ces Cookies permettent en particulier de vous reconnaître, de signaler votre passage sur telle ou telle page et ainsi d’améliorer votre confort de navigation : adapter la présentation du site aux préférences d’affichage de votre terminal comme la résolution d’affichage. Ils permettent de mémoriser les mots de passe et autres informations relatives à un formulaire que vous avez rempli sur le site (inscription ou accès à l’espace membre). Les Cookies techniques permettent également de mettre en œuvre des mesures de sécurité (c’est le cas par exemple lorsqu’il vous est demandé de vous connecter à nouveau à l’espace membre après un certain laps de temps). Ces Cookies ne peuvent pas être désactivés ou paramétrés sous peine de ne plus pouvoir accéder au site et/ou aux services du site.
-* Les cookies de performance et de mesure d'audience (optionnels et personnalisables)
-    *  Ils sont émis à des fins de mesure d’audience des différents contenus et rubriques de notre site, afin de les évaluer et de mieux les organiser. Ces Cookies permettent également, le cas échéant, de détecter des problèmes de navigation et par conséquent d’améliorer l’ergonomie de nos services. Ces Cookies ne produisent que des statistiques anonymes et des volumes de fréquentation, à l’exclusion de toute information individuelle. La durée de vie de ces Cookies de mesure d’audience n’excède pas 13 mois.
+*   Les cookies techniques et fonctionnels (obligatoires)
+    *   Ils sont nécessaires à la navigation dans notre site, ainsi qu’à l’accès aux différents produits et services. Ces Cookies permettent en particulier de vous reconnaître, de signaler votre passage sur telle ou telle page et ainsi d’améliorer votre confort de navigation : adapter la présentation du site aux préférences d’affichage de votre terminal comme la résolution d’affichage. Ils permettent de mémoriser les mots de passe et autres informations relatives à un formulaire que vous avez rempli sur le site (inscription ou accès à l’espace membre). Les Cookies techniques permettent également de mettre en œuvre des mesures de sécurité (c’est le cas par exemple lorsqu’il vous est demandé de vous connecter à nouveau à l’espace membre après un certain laps de temps). Ces Cookies ne peuvent pas être désactivés ou paramétrés sous peine de ne plus pouvoir accéder au site et/ou aux services du site.
+*   Les cookies de performance et de mesure d'audience (optionnels et personnalisables)
+    *    Ils sont émis à des fins de mesure d’audience des différents contenus et rubriques de notre site, afin de les évaluer et de mieux les organiser. Ces Cookies permettent également, le cas échéant, de détecter des problèmes de navigation et par conséquent d’améliorer l’ergonomie de nos services. Ces Cookies ne produisent que des statistiques anonymes et des volumes de fréquentation, à l’exclusion de toute information individuelle. La durée de vie de ces Cookies de mesure d’audience n’excède pas 13 mois.
 
 Ces cookies vous permettent notamment de profiter de contenus plus adaptés à vos centres d’intérêts.
 
@@ -118,17 +118,17 @@ Pour plus d’information, veuillez consulter notre « [Charte de protection des
 
 En apprenant à connaitre le comportement des internautes sur le Portail, l’Organisme pourra :
 
-* enregistrer les informations relatives à la navigation de l’internaute ou de l'utilisateur au sein du Site ou du Portail telle que notamment toute information relative aux pages consultées et aux dates et heures de consultation sur le Site ou le Portail ;
-* améliorer la navigation au sein du Site et du Portail ;
-* établir des statistiques et volumes de fréquentation et d’utilisation des divers éléments composant le Site et le Portail (rubriques et contenus visités, parcours, date et heure de consultation...), permettant d’améliorer leur intérêt et leur ergonomie;
-* reconnaître le navigateur de tout Internaute comme un ancien visiteur enregistré, pour se souvenir de toutes les préférences qui peuvent être envoyées lors de l’utilisation du Site par son navigateur ;
-* adapter la présentation du Site aux préférences d'affichage de tout Internaute (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc) lors de leurs visites sur le Site, selon les matériels et les logiciels de visualisation ou de lecture que leur terminal comporte.
+*   enregistrer les informations relatives à la navigation de l’internaute ou de l'utilisateur au sein du Site ou du Portail telle que notamment toute information relative aux pages consultées et aux dates et heures de consultation sur le Site ou le Portail ;
+*   améliorer la navigation au sein du Site et du Portail ;
+*   établir des statistiques et volumes de fréquentation et d’utilisation des divers éléments composant le Site et le Portail (rubriques et contenus visités, parcours, date et heure de consultation...), permettant d’améliorer leur intérêt et leur ergonomie;
+*   reconnaître le navigateur de tout Internaute comme un ancien visiteur enregistré, pour se souvenir de toutes les préférences qui peuvent être envoyées lors de l’utilisation du Site par son navigateur ;
+*   adapter la présentation du Site aux préférences d'affichage de tout Internaute (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc) lors de leurs visites sur le Site, selon les matériels et les logiciels de visualisation ou de lecture que leur terminal comporte.
 
 A ce titre, et pour les cookies qui n’ont pas pour finalité exclusive de permettre ou faciliter la navigation ou qui ne sont pas strictement nécessaires à la Commande de Services, un bandeau d’information s’affiche lors de la connexion de l’Internaute au Site afin de l’informer préalablement au dépôt de ces cookies :
 
-* des finalités précises des cookies utilisés ;
-* de son droit d’accès aux données collectées ;
-* de la possibilité de s’opposer au dépôt de cookies pour l’analyse de sa navigation, et du fait que la poursuite de la navigation vaut accord au dépôt de cookies sur son terminal ;
+*   des finalités précises des cookies utilisés ;
+*   de son droit d’accès aux données collectées ;
+*   de la possibilité de s’opposer au dépôt de cookies pour l’analyse de sa navigation, et du fait que la poursuite de la navigation vaut accord au dépôt de cookies sur son terminal ;
 
 ·         des modalités lui permettant de changer les paramètres (paramétrage interne, opposition au traçage, ou encore paramétrage du navigateur), au titre du dépôt de cookies ayant pour finalité d’accéder à des informations déjà stockées dans son terminal, le cas échéant.
 
@@ -162,21 +162,21 @@ Les cookies stockés dans votre terminal ou tout autre élément utilisé pour v
 
 Pour L’espace non connecté VIVOPTIM.COM :
 
-* Zendesk :
-    * \_\_zlcmid : 4h
-* Matomo :
-    * \_pk\_id :  25 jours
-    * \_pk\_ses : 30 minutes
+*   Zendesk :
+    *   \_\_zlcmid : 4h
+*   Matomo :
+    *   \_pk\_id :  25 jours
+    *   \_pk\_ses : 30 minutes
 
 Pour l’espace connecté VIVOPTIM.COM,
 
-* Zendesk : \_\_zlcmid : durée 1 an
-* Matomo :
-    * \_pk\_cvar. : durée 30 min
-    * \_pk\_id : durée 25 jours
-    * \_pk\_ses : durée 30 min
-* IdéoPortal
-    * ideoportal : durée 2 min 30 s
+*   Zendesk : \_\_zlcmid : durée 1 an
+*   Matomo :
+    *   \_pk\_cvar. : durée 30 min
+    *   \_pk\_id : durée 25 jours
+    *   \_pk\_ses : durée 30 min
+*   IdéoPortal
+    *   ideoportal : durée 2 min 30 s
 
 Au-delà de ces délais, les données de fréquentation brutes associées à un identifiant sont soit supprimées soit anonymisées.
 
@@ -229,19 +229,19 @@ Chaque éditeur/vendeur d’un objet connecté ou d’une application tierce uti
 
 De plus, chaque Utilisateur reconnait que l’Organisme ne pourra être tenue pour responsable de tout dommage matériel ou immatériel, direct ou indirect, quelles qu’en soient les causes, y compris les dommages pouvant être causés par l’éventuelle diffusion de virus, par la fraude informatique, du fait des contraintes et limites du réseau internet ou encore de la perte, de la détérioration ou de l’altération de fichiers ni des conséquences résultantes :
 
-* ·        De son utilisation du Portail, de ses Services, de ses Contenus et fonctionnalités et/ou de l’interprétation de ses Contenus ;
-* ·        De son impossibilité d’avoir accès au Portail, aux Services et Contenus, à l’exception des dommages directs consécutifs à une faute lourde ou intentionnelle ;
+*   ·        De son utilisation du Portail, de ses Services, de ses Contenus et fonctionnalités et/ou de l’interprétation de ses Contenus ;
+*   ·        De son impossibilité d’avoir accès au Portail, aux Services et Contenus, à l’exception des dommages directs consécutifs à une faute lourde ou intentionnelle ;
 
 De manière générale, chaque Utilisateur s’engage à utiliser le Portail :
 
-* ·        Dans le respect des lois, règlementation et droits des tiers, notamment des droits de propriété intellectuelle et industrielle ;
-* ·        De manière loyale et conformément à sa destination.
+*   ·        Dans le respect des lois, règlementation et droits des tiers, notamment des droits de propriété intellectuelle et industrielle ;
+*   ·        De manière loyale et conformément à sa destination.
 
 Il appartient à chaque Utilisateur notamment :
 
-* ·        De satisfaire aux obligations en matière de sécurité, conformément à l’article « Sécurité » des présentes CGU ;
-* ·        D’utiliser le Portail, ses Services et Contenus dans le respect des présentes CGU et des dispositions légales et règlementaires en vigueur ;
-* ·        De ne pas commercialiser tout ou partie des Services ou Contenus accessibles via le Portail.
+*   ·        De satisfaire aux obligations en matière de sécurité, conformément à l’article « Sécurité » des présentes CGU ;
+*   ·        D’utiliser le Portail, ses Services et Contenus dans le respect des présentes CGU et des dispositions légales et règlementaires en vigueur ;
+*   ·        De ne pas commercialiser tout ou partie des Services ou Contenus accessibles via le Portail.
 
 En cas de non-respect d’une ou plusieurs dispositions des présentes CGU, l’accès au Portail par les Utilisateurs pourra être, unilatéralement, de plein droit et sans préavis, temporairement suspendu ou définitivement bloqué.
 
@@ -269,11 +269,11 @@ Si l’empêchement est définitif, le Compte Participant sera clôturé.
 
 De manière générale, la préservation de la sécurité des données à caractère personnel des Utilisateurs impose de leur part :
 
-* ·        De ne jamais communiquer des données de santé les concernant par email ;
-* ·        De respecter les consignes de sécurité et notamment les règles relatives à la définition et au changement de leurs éléments d’authentification ;
-* ·        De respecter la gestion des accès au Compte Participant, en particulier, ne pas utiliser les éléments d’authentification d'un autre Utilisateur, ni chercher à connaître ces informations ;
-* ·        De garder strictement confidentiels ses éléments d’authentification et ne pas les dévoiler à un tiers, quelles que soient ses qualités et activités professionnelles ;
-* ·        D'avertir l’Organisme de tout dysfonctionnement technique constaté et de toute anomalie découverte, telle que les intrusions.
+*   ·        De ne jamais communiquer des données de santé les concernant par email ;
+*   ·        De respecter les consignes de sécurité et notamment les règles relatives à la définition et au changement de leurs éléments d’authentification ;
+*   ·        De respecter la gestion des accès au Compte Participant, en particulier, ne pas utiliser les éléments d’authentification d'un autre Utilisateur, ni chercher à connaître ces informations ;
+*   ·        De garder strictement confidentiels ses éléments d’authentification et ne pas les dévoiler à un tiers, quelles que soient ses qualités et activités professionnelles ;
+*   ·        D'avertir l’Organisme de tout dysfonctionnement technique constaté et de toute anomalie découverte, telle que les intrusions.
 
 Notamment, il appartient à l’Utilisateur de prendre toutes les mesures appropriées de façon à protéger ses propres données et matériels de la contamination par des virus ou autres formes d’attaques circulant éventuellement via le Portail.
 
@@ -281,10 +281,10 @@ L’Utilisateur est informé que des interventions techniques au sein du Portail
 
 Même si l’Organisme met en œuvre tous les moyens utiles et nécessaires à la sécurité des échanges avec les Utilisateurs via le Portail, l’Utilisateur reconnait être informé de l’existence de risques inhérents à l'utilisation des télécommunications, et tout particulièrement en termes de :
 
-* ·        Défaut de fiabilité du réseau Internet ;
-* ·        Continuité non garantie dans l'accès au Portail et à ses Contenus et Services ;
-* ·        Performances non garanties, compte tenu notamment de la propagation de virus ;
-* ·        Toute autre contrainte technique qui n’est pas sous le contrôle et la responsabilité de l’Organisme.
+*   ·        Défaut de fiabilité du réseau Internet ;
+*   ·        Continuité non garantie dans l'accès au Portail et à ses Contenus et Services ;
+*   ·        Performances non garanties, compte tenu notamment de la propagation de virus ;
+*   ·        Toute autre contrainte technique qui n’est pas sous le contrôle et la responsabilité de l’Organisme.
 
 En aucun cas, l’Organisme ne saurait être tenu responsable à l’égard de l’Utilisateur de ces risques et de leurs conséquences préjudiciables, quelle qu’en soit l’étendue.
 
@@ -304,23 +304,23 @@ L’Utilisateur bénéficie sur ces Contenus et Services d’un droit d’usage 
 
 Sauf autorisation expresse et préalable de l’Organisme, l’Utilisateur s’interdit toute reproduction, représentation et utilisation autre que celles visées ci-dessous et notamment :
 
-* ·        Toute adaptation, mise à disposition du public à sa demande ou non, distribution, rediffusion sous quelque forme que ce soit, mise en réseau, communication publique, à titre gratuit ou onéreux, de tout tie des œuvres, prestations, et tous éléments protégés ou susceptibles de protection par le droit de la propriété intellectuelle reproduits au sein du Portail ;
-* ·        Tout lien, accès, modification, ajout, suppression qui porte sur le système de traitement automatisé de l’édition en ligne et qui modifie les conditions de publication ou la politique éditoriale.
+*   ·        Toute adaptation, mise à disposition du public à sa demande ou non, distribution, rediffusion sous quelque forme que ce soit, mise en réseau, communication publique, à titre gratuit ou onéreux, de tout tie des œuvres, prestations, et tous éléments protégés ou susceptibles de protection par le droit de la propriété intellectuelle reproduits au sein du Portail ;
+*   ·        Tout lien, accès, modification, ajout, suppression qui porte sur le système de traitement automatisé de l’édition en ligne et qui modifie les conditions de publication ou la politique éditoriale.
 
 Tout manquement à ces obligations constituerait une contrefaçon sanctionnée par les articles L. 335-2 et suivants du Code de la propriété intellectuelle, une faute intentionnelle susceptible d’exposer l’Utilisateur à des poursuites civiles et pénales.
 
 L’Utilisateur concède à l’Organisme à titre gratuit, pour toute la durée de la protection légale des droits d’auteur et pour le monde entier, une licence d’utilisation sur l’ensemble de ses contributions (questions et commentaires) qu’il aura posté au sein des espaces de contributions personnelles hébergés au sein du Portail, en vue de :
 
-* ·        leur reproduction en tout ou partie au sein du Portail ;
-* ·        de leur adaptation technique à des fins d’intégration au sein du Portail et de mise en ligne ;
-* ·        leur diffusion et mise à disposition des Utilisateurs par le biais du Portail au sein des espaces de contributions personnelles spécifiquement prévu à cet effet ;
-* ·        promotion du Portail dans le respect de leur anonymat.
+*   ·        leur reproduction en tout ou partie au sein du Portail ;
+*   ·        de leur adaptation technique à des fins d’intégration au sein du Portail et de mise en ligne ;
+*   ·        leur diffusion et mise à disposition des Utilisateurs par le biais du Portail au sein des espaces de contributions personnelles spécifiquement prévu à cet effet ;
+*   ·        promotion du Portail dans le respect de leur anonymat.
 
 ہ cet égard, l’Utilisateur inscrit garantit l’Organisme :
 
-* ·        qu’il dispose bien des droits et/ou autorisations nécessaires relatifs aux droits d’auteur ou autres droits de propriété intellectuelle et/ou industrielle éventuellement attachés à ses contributions ;
-* ·        qu’il bénéficie de l’autorisation préalable et écrite de chaque personne physique identifiable dans ses contributions, le cas échéant, pour toute utilisation de ses données identifiantes aux fins de leur n au sein du Portail ;
-* ·        de façon générale que la concession accordée au titre des présentes et les contributions sur lesquelles elle porte ne contreviennent à aucun texte légal et règlementaire en vigueur ni à aucun droit privatif appartenant à des tiers.
+*   ·        qu’il dispose bien des droits et/ou autorisations nécessaires relatifs aux droits d’auteur ou autres droits de propriété intellectuelle et/ou industrielle éventuellement attachés à ses contributions ;
+*   ·        qu’il bénéficie de l’autorisation préalable et écrite de chaque personne physique identifiable dans ses contributions, le cas échéant, pour toute utilisation de ses données identifiantes aux fins de leur n au sein du Portail ;
+*   ·        de façon générale que la concession accordée au titre des présentes et les contributions sur lesquelles elle porte ne contreviennent à aucun texte légal et règlementaire en vigueur ni à aucun droit privatif appartenant à des tiers.
 
 L’Utilisateur s’engage, le cas échéant, à indemniser l’Organisme de tout préjudice directement ou indirectement lié au non-respect de cette garantie.
 
@@ -340,8 +340,8 @@ Chaque Utilisateur reconnait que ses données à caractère personnel collectée
 
 De même, l’Utilisateur reconnait qu’à la création de son Compte Participant, il a consenti expressément à la collecte et au traitement de ses données de santé dans le cadre du service choisi par le biais d’une case à cocher associée à une convention de preuve \[lien hypertexte vers la notice d’information-consentement\], et ce afin :
 
-* ·        De bénéficier du programme via le Portail, ses Services et ses Contenus ;
-* ·        De permettre la réutilisation de ses données de santé à caractère personnel à des fins d’évaluation du service choisi par l’Organisme et le cas échéant par des évaluateurs habilités, après une information spécifique portée à sa connaissance en temps utiles par l’Organisme.
+*   ·        De bénéficier du programme via le Portail, ses Services et ses Contenus ;
+*   ·        De permettre la réutilisation de ses données de santé à caractère personnel à des fins d’évaluation du service choisi par l’Organisme et le cas échéant par des évaluateurs habilités, après une information spécifique portée à sa connaissance en temps utiles par l’Organisme.
 
 En particulier, l’attention des Utilisateurs est attirée sur la sensibilité des données de santé renseignées dans le cadre de leur accès au Portail, et des droits dont ils disposent à ce titre.
 
@@ -357,17 +357,17 @@ Elles seront par ailleurs susceptibles de faire l’objet d’analyses et d’é
 
 En application de la loi du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, modifiées et du RGPD, chaque Utilisateur est titulaire :
 
-* ·        d’un droit d’accéder à ses données à caractère personnel et en demander la rectification ;
-* ·        d’un droit de suppression de ses données à caractère personnel
-* ·        du droit de communiquer ses directives concernant le sort de ses données à caractère personnel après sa mort ;
-* ·        du droit de solliciter une limitation du traitement ;
-* ·        du droit à l’oubli et à l’effacement numérique ;
-* ·        du droit à la portabilité de ses données.
+*   ·        d’un droit d’accéder à ses données à caractère personnel et en demander la rectification ;
+*   ·        d’un droit de suppression de ses données à caractère personnel
+*   ·        du droit de communiquer ses directives concernant le sort de ses données à caractère personnel après sa mort ;
+*   ·        du droit de solliciter une limitation du traitement ;
+*   ·        du droit à l’oubli et à l’effacement numérique ;
+*   ·        du droit à la portabilité de ses données.
 
 Les Utilisateurs disposent également :
 
-* ·        d’un droit d’opposition ;
-* ·        du droit de retirer leur consentement à tout moment.
+*   ·        d’un droit d’opposition ;
+*   ·        du droit de retirer leur consentement à tout moment.
 
 Pour exercer ses droits, l’Utilisateur peut s’adresser, en fournissant une copie d’un justificatif de son identité au service spécifique de l’Organisme en charge de répondre aux demandes d’exercice de droits, à l’adresse postale VIVOPTIM Solutions – DPO – 3 Square Max Hymans, 75015 Paris ou électronique : dpo\[@\]vivoptim-solutions.com
 
@@ -381,9 +381,9 @@ A l’initiative de l’Organisme
 
 Chaque Utilisateur accepte que l’Organisme résilie immédiatement les présentes CGU sans préavis ni mise en demeure, (i) en cas de manquement à l’une quelconque des obligations décrites aux présentes CGU, (i) en cas de violation de la législation en vigueur, (iii) en cas de perte de la qualité d’adhérent à une mutuelle bénéficiaire du portail. Sans limitation de ce qui précède, sont notamment susceptibles de fonder une résiliation de l’inscription de l’Utilisateur :
 
-* \-           les infractions ou violations des présentes CGU ;
-* \-           le non-respect d’une disposition légale ou réglementaire en vigueur ;
-* \-           une tentative de connexion non autorisée, par une utilisation frauduleuse du système ou par une usurpation des éléments d’authentification.
+*   \-           les infractions ou violations des présentes CGU ;
+*   \-           le non-respect d’une disposition légale ou réglementaire en vigueur ;
+*   \-           une tentative de connexion non autorisée, par une utilisation frauduleuse du système ou par une usurpation des éléments d’authentification.
 
 A l’initiative de l’Utilisateur
 
@@ -467,9 +467,9 @@ adapter la présentation du Site aux préférences d'affichage de tout Internaut
 
 A ce titre, et pour les cookies qui n’ont pas pour finalité exclusive de permettre ou faciliter la navigation ou qui ne sont pas strictement nécessaires à la Commande de Services, un bandeau d’information s’affiche lors de la connexion de l’Internaute au Site afin de l’informer préalablement au dépôt de ces cookies :
 
-* des finalités précises des cookies utilisés ;
-* de son droit d’accès aux données collectées ;
-* de la possibilité de s’opposer au dépôt de cookies pour l’analyse de sa navigation, et du fait que la poursuite de la navigation vaut accord au dépôt de cookies sur son terminal ;
+*   des finalités précises des cookies utilisés ;
+*   de son droit d’accès aux données collectées ;
+*   de la possibilité de s’opposer au dépôt de cookies pour l’analyse de sa navigation, et du fait que la poursuite de la navigation vaut accord au dépôt de cookies sur son terminal ;
 
 ·         des modalités lui permettant de changer les paramètres (paramétrage interne, opposition au traçage, ou encore paramétrage du navigateur), au titre du dépôt de cookies ayant pour finalité d’accéder à des informations déjà stockées dans son terminal, le cas échéant.
 
