@@ -21,9 +21,9 @@ ARTICLE 3 : Accès à l’application
 
 L’application Heloa permet à l’Utilisateur un accès gratuit aux services suivants :
 
-* Apprendre à reconnaître les étapes du développement de l’enfant ;
-* Consigner les informations nécessaires au suivi médical de l’enfant ;
-* Orienter l’Utilisateur vers son médecin traitant.
+*   Apprendre à reconnaître les étapes du développement de l’enfant ;
+*   Consigner les informations nécessaires au suivi médical de l’enfant ;
+*   Orienter l’Utilisateur vers son médecin traitant.
 
 L’application est accessible gratuitement en tout lieu à tout Utilisateur ayant un accès à Internet. Tous les frais supportés par l’Utilisateur pour accéder au service (matériel informatique, logiciels, connexion Internet, etc.) sont à sa charge. L’Utilisateur non membre n’a pas accès aux services réservés. Pour cela, il doit s’inscrire en remplissant le formulaire. En acceptant de s’inscrire aux services réservés, l’Utilisateur membre s’engage à fournir des informations sincères et exactes concernant son état civil et ses coordonnées, notamment son adresse email. Pour accéder aux services, l’Utilisateur doit ensuite s’identifier à l’aide de son identifiant et de son mot de passe.Tout Utilisateur membre régulièrement inscrit pourra également solliciter sa désinscription en se rendant à la page dédiée sur son espace personnel. Celle-ci sera effective dans un délai raisonnable. Tout événement dû à un cas de force majeure ayant pour conséquence un dysfonctionnement de l’application ou serveur et sous réserve de toute interruption ou modification en cas de maintenance, n’engage pas la responsabilité de Heloa. Dans ces cas, l’Utilisateur accepte ainsi ne pas tenir rigueur à l’éditeur de toute interruption ou suspension de service, même sans préavis. L’Utilisateur a la possibilité de contacter l’éditeur par messagerie électronique à l’adresse email de l’éditeur communiqué à l’ARTICLE 1.
 
