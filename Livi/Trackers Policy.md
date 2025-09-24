@@ -8,13 +8,13 @@ Qu’est-ce qu’un cookie ?
 
 Un cookie est un fichier texte qui est téléchargé sur votre appareil lorsque vous visitez un site web. Un cookie permet à un site web de reconnaître votre appareil et de recueillir des informations sur les fonctions utilisées et les pages visitées. Il permet également de conserver vos choix lorsque vous naviguez sur notre site ou lorsque vous y revenez ultérieurement. Pratiquement tous les sites web utilisent des cookies et ils sont souvent une condition préalable à l’utilisation des sites ou canaux numériques. Dans le cadre de la fourniture de nos services, nous utilisons différentes catégories de cookies :
 
-* Les **cookies propriétaires** sont définis par le site web que vous visitez à ce moment-là, soit par nous, soit par un tiers à notre demande.
+*   Les **cookies propriétaires** sont définis par le site web que vous visitez à ce moment-là, soit par nous, soit par un tiers à notre demande.
     
-* Les **cookies tiers** sont créés par une autre partie que celle du site web que vous visitez. Si vous visitez l’un de nos sites web ou l’une de nos applications et qu’une autre partie met en place un cookie par l’intermédiaire de ce site web, il s’agit d’un cookie tiers.
+*   Les **cookies tiers** sont créés par une autre partie que celle du site web que vous visitez. Si vous visitez l’un de nos sites web ou l’une de nos applications et qu’une autre partie met en place un cookie par l’intermédiaire de ce site web, il s’agit d’un cookie tiers.
     
-* Les **cookies de session** sont des cookies qui expirent dès que vous fermez votre navigateur web
+*   Les **cookies de session** sont des cookies qui expirent dès que vous fermez votre navigateur web
     
-* Les **cookies persistants** sont des cookies qui restent sur votre appareil pendant une période déterminée ou jusqu’à ce que vous les supprimiez.
+*   Les **cookies persistants** sont des cookies qui restent sur votre appareil pendant une période déterminée ou jusqu’à ce que vous les supprimiez.
     
 
 Veuillez noter que dans la présente notification sur les cookies, le terme « cookie » fait référence à un certain nombre de technologies de suivi différentes telles que les pixels invisibles (images graphiques transparentes placées sur une page web ou dans un e-mail qui indiquent qu’une page ou un e-mail a été consulté), les identificateurs d’appareils mobiles et le stockage web utilisé dans des logiciels de bureau ou des appareils mobiles.
