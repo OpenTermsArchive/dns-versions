@@ -93,9 +93,9 @@ Le montant de ces coûts additionnels est indiqué dans les conditions tarifaire
 
 Les conditions et modalités d’application de ces frais additionnels dépendent de votre profil utilisateur et de vos droits ouverts  ‘par exemple selon les cas : 
 
-* utilisateurs bénéficiant d’une prise en charge à 100% par l’assurance maladie obligatoire (ALD, AME et CSS) 
+*   utilisateurs bénéficiant d’une prise en charge à 100% par l’assurance maladie obligatoire (ALD, AME et CSS) 
     
-* catégories d'utilisateurs particuliers, notamment ceux qui bénéficient d'un accès Livi via leur entreprise ou complémentaire santé, d’autre part.
+*   catégories d'utilisateurs particuliers, notamment ceux qui bénéficient d'un accès Livi via leur entreprise ou complémentaire santé, d’autre part.
     
 
 Les coûts additionnels sont soumis à la taxe sur la valeur ajoutée. Le prix affiché est exprimé toutes taxes comprises (TTC).
@@ -121,13 +121,13 @@ Les services de Téléconsultation proposés via l’App ne constituent pas un s
 
 Quelques rappels: 
 
-* Livi n’est pas une structure médicale d’urgence et n’a pas vocation à remplacer le suivi effectué par un médecin traitant. 
+*   Livi n’est pas une structure médicale d’urgence et n’a pas vocation à remplacer le suivi effectué par un médecin traitant. 
     
-* La téléconsultation ne saurait se substituer systématiquement à une consultation présentielle. 
+*   La téléconsultation ne saurait se substituer systématiquement à une consultation présentielle. 
     
-* Le médecin Livi use de son expertise médicale pour vous l’indiquer le cas échéant. 
+*   Le médecin Livi use de son expertise médicale pour vous l’indiquer le cas échéant. 
     
-* En cas de consultations multiples et répétées dans un court laps de temps, sans justification médicale, Livi peut vous réorienter vers votre médecin traitant, ou, si vous n’en n’avez pas, vers un autre médecin en vue d’une consultation physique, et pourrait suspendre ou supprimer votre compte utilisateur.
+*   En cas de consultations multiples et répétées dans un court laps de temps, sans justification médicale, Livi peut vous réorienter vers votre médecin traitant, ou, si vous n’en n’avez pas, vers un autre médecin en vue d’une consultation physique, et pourrait suspendre ou supprimer votre compte utilisateur.
     
 
 ### 4.2 Indisponibilités de l’application
@@ -184,9 +184,9 @@ De plus, DMS France n’est pas responsable des dommages personnels ou des cons�
 
 La responsabilité de DMS France est dans toutes circonstances limitée aux dommages dont il est établi qu’ils sont directement imputables à l’App. DMS France ne pourra être tenue responsable de tout dommage matériel ou immatériel, direct ou indirect, quelles qu’en soient les causes (y compris les dommages causés par une éventuelle diffusion de virus, la fraude informatique, les contraintes et limites du réseau internet, ou encore la perte, la détérioration ou l’altération de fichiers) ni des conséquences dommageables résultant :
 
-* de l’utilisation de la Solution  et des Services Livi;
+*   de l’utilisation de la Solution  et des Services Livi;
     
-* de l’impossibilité d’accéder au Plateforme et au Service de téléconsultation, sauf en cas de dommages directs résultant d’une faute lourde ou intentionnelle.
+*   de l’impossibilité d’accéder au Plateforme et au Service de téléconsultation, sauf en cas de dommages directs résultant d’une faute lourde ou intentionnelle.
     
 
 **5\. Droits de propriété intellectuelle, etc.**
@@ -222,9 +222,9 @@ DMS France prend au sérieux tout manquement aux présentes CGUV ou à ses  pol
 
 Conformément aux présentes CGUV, l’utilisateur s’engage à se comporter de manière respectueuse à l’égard des professionnels de santé dans le cadre de l’utilisation de l’application et notamment à 
 
-* ne pas tenir de propos agressifs, constitutif de harcèlement ou menaçant, notamment envers les professionnels de santé intervenant sur l’App ou les équipes et salariés de Livi, que ce soit lors de l’utilisation de l’App ou après utilisation, par exemple en publiant sur les réseaux sociaux des messages agressifs, constitutifs de harcèlement ou menaçant, 
+*   ne pas tenir de propos agressifs, constitutif de harcèlement ou menaçant, notamment envers les professionnels de santé intervenant sur l’App ou les équipes et salariés de Livi, que ce soit lors de l’utilisation de l’App ou après utilisation, par exemple en publiant sur les réseaux sociaux des messages agressifs, constitutifs de harcèlement ou menaçant, 
     
-* se créer une fausse identité ou usurper l’identité d’un tiers, laisser un tiers utiliser son compte, enregistrer sa Téléconsultations avec le prestataire de soins. 
+*   se créer une fausse identité ou usurper l’identité d’un tiers, laisser un tiers utiliser son compte, enregistrer sa Téléconsultations avec le prestataire de soins. 
     
 
 Livi prendra des mesures proactives contre toute utilisation non autorisée avérée ou présumée du compte, de l'App, etc.  
