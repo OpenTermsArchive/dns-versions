@@ -12,15 +12,15 @@ La présente politique de confidentialité explique qui est responsable des trai
 
 Cette politique de confidentialité vous concerne si vous :
 
-* Utilisez nos services (tels que décrits ci-dessus),
+*   Utilisez nos services (tels que décrits ci-dessus),
     
-* Avez conclu un contrat avec nous,
+*   Avez conclu un contrat avec nous,
     
-* Avez été en contact avec nos employés ou représentants par exemple par e-mail, téléphone ou toute autre forme de contact,
+*   Avez été en contact avec nos employés ou représentants par exemple par e-mail, téléphone ou toute autre forme de contact,
     
-* Vous êtes inscrits pour assister ou vous avez assisté à l’un de nos événement, ou
+*   Vous êtes inscrits pour assister ou vous avez assisté à l’un de nos événement, ou
     
-* Vous nous suivez sur les réseaux sociaux ou interagissez avec nous via les réseaux sociaux.
+*   Vous nous suivez sur les réseaux sociaux ou interagissez avec nous via les réseaux sociaux.
     
 
   
@@ -93,34 +93,34 @@ _Si vous utilisez nos services dans le cadre d’un avantage fourni par votre as
 
 Quand vous utilisez l’App Livi, les catégories suivantes de données sont collectées:
 
-* Informations personnelles,
+*   Informations personnelles,
     
-* Informations techniques et informations d’utilisation,
+*   Informations techniques et informations d’utilisation,
     
-* Informations issues des cookies,
+*   Informations issues des cookies,
     
-* données de santé,
+*   données de santé,
     
-* informations de paiement.
+*   informations de paiement.
     
 
 Vos données personnelles sont traitées pour les finalités suivantes :
 
-* Pour fournir l’accès aux services de la plateforme Livi,
+*   Pour fournir l’accès aux services de la plateforme Livi,
     
-* Pour le support technique et la communication,
+*   Pour le support technique et la communication,
     
-* Pour le Marketing,
+*   Pour le Marketing,
     
-* Pour l’analyse et le développement de produits,
+*   Pour l’analyse et le développement de produits,
     
-* Pour l’administration et l’exécution de contrats, 
+*   Pour l’administration et l’exécution de contrats, 
     
-* Pour préserver les intérêts juridiques dans les procédures ou contentieux,
+*   Pour préserver les intérêts juridiques dans les procédures ou contentieux,
     
-* Pour les opérations en relation avec les fusions, acquisitions ou autres opérations de restructurations du groupe Kry international,
+*   Pour les opérations en relation avec les fusions, acquisitions ou autres opérations de restructurations du groupe Kry international,
     
-* Pour prévenir et enquêter sur les infractions au Code pénal.
+*   Pour prévenir et enquêter sur les infractions au Code pénal.
     
 
 En savoir plus: 
