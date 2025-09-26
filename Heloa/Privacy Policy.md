@@ -6,6 +6,7 @@ Politique de confidentialité
 
 ‍‍_En vigueur au 13 décembre 2024_
 
+*   Le 26 septembre 2025, nous avons ajouté 2 sous-traitants: RevenueCat et Apple
 *   Le 13 décembre 2024, nous avons changé d’hébergeur pour le site internet
 *   Le 20 février 2023, nous avons retiré deux sous-traitants
 *   Le 12 janvier 2023, nous avons précisé notre nouvel hébergeur français
@@ -106,6 +107,16 @@ Envoi des e-mails : Postmark
 
 *   Des informations peuvent transiter hors de l’UE, dans le cadre de clauses contractuelles spécifiques conforme aux recommandations de la commission
 *   Plus d’informations : [https://postmarkapp.com/eu-privacy](https://postmarkapp.com/eu-privacy)
+
+Configuration des murs de paie : RevenueCat
+
+*   Des informations peuvent transiter hors de l’UE, dans le cadre de clauses contractuelles spécifiques conforme aux recommandations de la commission
+*   Plus d’informations : [https://www.revenuecat.com/privacy/](https://www.revenuecat.com/privacy/)
+
+Arbitrage des remboursements : Apple
+
+*   Des informations peuvent transiter hors de l’UE, dans le cadre de clauses contractuelles spécifiques conforme aux recommandations de la commission
+*   Plus d’informations : [https://www.apple.com/legal/privacy/data/fr/app-store/](https://www.apple.com/legal/privacy/data/fr/app-store/)
 
 ### Pour le site [heloa.app](https://heloa.app/) uniquement
 
