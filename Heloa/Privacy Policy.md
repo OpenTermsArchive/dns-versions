@@ -108,7 +108,7 @@ Envoi des e-mails : Postmark
 *   Des informations peuvent transiter hors de l’UE, dans le cadre de clauses contractuelles spécifiques conforme aux recommandations de la commission
 *   Plus d’informations : [https://postmarkapp.com/eu-privacy](https://postmarkapp.com/eu-privacy)
 
-Configuration des murs de paie : RevenueCat
+Péages de lecture numérique : RevenueCat
 
 *   Des informations peuvent transiter hors de l’UE, dans le cadre de clauses contractuelles spécifiques conforme aux recommandations de la commission
 *   Plus d’informations : [https://www.revenuecat.com/privacy/](https://www.revenuecat.com/privacy/)
