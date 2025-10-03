@@ -1,5 +1,5 @@
-PARTIE 1 – CONDITIONS GENERALES
-===============================
+PARTIE 1. CONDITIONS GENERALES
+==============================
 
 SOMMAIRE
 --------
@@ -105,7 +105,8 @@ Versions: [24 Aug 2023](https://withings.com/fr/fr/legal/general-conditions?vers
 
 - - -
 
-﻿PARTIE 3 – CONDITIONS GÉNÉRALES D'UTILISATION
+﻿PARTIE 3. CONDITIONS GÉNÉRALES D'UTILISATION
+=============================================
 
 SOMMAIRE
 --------
