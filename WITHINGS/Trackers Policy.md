@@ -63,7 +63,7 @@ Vous ne pouvez pas fermer la bannière de gestion des cookies sans exprimer votr
 Contact
 -------
 
-Si vous avez des questions ou des réclamations sur la gestion par Withings des cookies et autres traceurs, vous pouvez nous contacter en envoyant un email à [privacy@withings.com](https://withings.com/fr/fr/legal/privacy@withings.com) ou par courrier postal à l’adresse suivante : Withings SAS A l’attention du DPO 2 rue Maurice Hartmann 92130 Issy-les-Moulineaux. Pour toute information sur la gestion des données personnelles vous concernant par Withings, vous pouvez vous référez à notre [Politique de confidentialité](https://withings.com/fr/fr/legal/privacy-policy)
+Si vous avez des questions ou des réclamations sur la gestion par Withings des cookies et autres traceurs, vous pouvez nous contacter en envoyant un email à [privacy@withings.com](mailto:privacy@withings.com) ou par courrier postal à l’adresse suivante : Withings SAS A l’attention du DPO 2 rue Maurice Hartmann 92130 Issy-les-Moulineaux. Pour toute information sur la gestion des données personnelles vous concernant par Withings, vous pouvez vous référez à notre [Politique de confidentialité](https://withings.com/fr/fr/legal/privacy-policy)
 
 Liste des cookies et autres traceurs
 ------------------------------------
@@ -208,7 +208,7 @@ _Tous les cookies utilisés par le portail d’authentification Withings peuvent
 | session\_key | Withings | .withings.com | Gestion des séances | Essentiel | 1 semaine | Interne |
 | withings\_cookieconsent\_dismissed | Withings | .withings.com | Gestion des cookies | Essentiel | 1 an | Interne |
 
-**Withings Web Application [app.withings.com](https://withings.com/fr/fr/legal/app.withings.com)**
+**Withings Web Application [app.withings.com](https://app.withings.com/)**
 
 | **Nom** | **Fournisseur** | **Domaine** | **Finalité** | **Type** | **Durée** | **Origine** |
 | --- | --- | --- | --- | --- | --- | --- |
