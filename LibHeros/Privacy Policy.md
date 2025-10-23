@@ -21,7 +21,7 @@ Date de dernière mise à jour 01/01/2025.
 
 Dans le cadre de votre activité sur le site [https://www.libheros.fr/](https://www.libheros.fr/) et de la relation que vous entretenez avec LIBHEROS, nous collectons et utilisons des données personnelles.  
   
-Pour l’ensemble des traitements, LIBHEROS, société par actions simplifiée au capital de 1 673,71 euros € ayant son siège social au 18 rue Germain Pilon 75018 Paris, immatriculée au RCS de Paris sous le numéro 815 346 655, détermine les moyens et les finalités du traitement. Ainsi, nous agissons en tant que responsable de traitement, au sens de la réglementation du Règlement UE 2016/679 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et de la Loi Informatique et Libertés du 6 janvier 1978 dans sa version modifiée.
+Pour l’ensemble des traitements, LIBHEROS, société par actions simplifiée au capital de 1 673,71 euros € ayant son siège social au 229 rue Saint-Honoré 75001 Paris, immatriculée au RCS de Paris sous le numéro 815 346 655, détermine les moyens et les finalités du traitement. Ainsi, nous agissons en tant que responsable de traitement, au sens de la réglementation du Règlement UE 2016/679 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et de la Loi Informatique et Libertés du 6 janvier 1978 dans sa version modifiée.
 
 4\. Quelles données collectons-nous et comment ?
 
