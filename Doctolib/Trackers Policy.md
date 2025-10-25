@@ -2,7 +2,7 @@ Informations sur les Cookies et technologies analogues
 
 
 
-Doctolib utilise des cookies et des technologies analogues pour permettre et faciliter votre navigation,personnaliser le contenu qui vous est proposé ou réaliser des statistiques de visites. La présente politiqueexplique comment et pourquoi Doctolib utilise ces technologies et les choix qui vous sont proposés.
+Doctolib utilise des cookies et des technologies analogues pour assurer le bon fonctionnement et lasécurité de notre site et application, mesurer et analyser l’audience et la performance des campagnespublicitaires et de prévention, personnaliser les contenus, et à des fins d’analyse.
 
 
 
@@ -42,25 +42,7 @@ Il existe deux grandes catégories de Cookies :
 
 
 
-Quels sont les Cookies et leurs finalités ?
-
-
-
-Les Cookies déposés par la Plateforme Doctolib ont pour objectif de :
-
-● permettre le bon fonctionnement de la Plateforme Doctolib, la bonne exécution des services quevous sollicitez, ainsi que la conservation de votre consentement au dépôt des autres catégoriesde Cookies ; personnaliser les services et améliorer votre expérience tout au long de votreparcours sur la Plateforme Doctolib ;
-
-● nous permettre de comprendre comment vous accédez à la Plateforme et d'en suivre lafréquentation afin d'en mesurer la performance et nous aider à améliorer la qualité de nosservices ;
-
-● vous fournir un contenu adapté sur la Plateforme.
-
-Vous pouvez à tout moment vous informer, paramétrer vos Cookies, les accepter ou les refuser en vous
-
-rendant sur la page Gestion des cookies, dont le lien est rappelé en bas de chaque page de la Plateforme
-
-Doctolib. Vous pourrez indiquer vos préférences globales pour la Plateforme Doctolib, soit par finalité, soitpar fournisseur de services tiers.
-
-Vous disposez également d’autres possibilités de désactivation des Cookies, listées ci-après dans «Comment désactiver les Cookies ? ».
+Les Cookies placés sur la Plateforme Doctolib servent les finalités suivantes :
 
 
 
@@ -73,8 +55,6 @@ Doctolib utilise des Cookies strictement nécessaires au fonctionnement et à la
 
 
 Ces Cookies sont indispensables à la navigation sur la Plateforme Doctolib. Leur suppression peutentraîner des difficultés ou une impossibilité de naviguer sur la Plateforme Doctolib.
-
-
 
 Nom du Cookie et
 
@@ -180,23 +160,13 @@ clics) afin de générer des rapports
 
 statistiques. Les informations collectées par
 
-
-
-Session
-
-Nom du Cookie et
-
-du partenaire
-
-Description détaillée des finalités Durée de
-
-conservation
-
-
-
 le cookie sont remontées via l’adresse
 
 https://events-logs.doctolib.com/.
+
+
+
+Session
 
 
 
@@ -249,6 +219,14 @@ du processus de prise de rendez-vous.
 
 
 1 heure
+
+Nom du Cookie et
+
+du partenaire
+
+Description détaillée des finalités Durée de
+
+conservation
 
 
 
@@ -334,19 +312,11 @@ Ce Cookie permet d'assurer la sécurité du
 
 mécanisme de paiement pour la consultation
 
-1 an
-
-Nom du Cookie et
-
-du partenaire
-
-Description détaillée des finalités Durée de
-
-conservation
-
-
-
 vidéo.
+
+
+
+1 an
 
 
 
@@ -393,6 +363,14 @@ Ce Cookie permet de savoir si le navigateur
 accepte les cookies.
 
 1 milliseconde
+
+Nom du Cookie et
+
+du partenaire
+
+Description détaillée des finalités Durée de
+
+conservation
 
 
 
@@ -492,25 +470,15 @@ prévention avec des partenaires externes,
 
 sur les services de Doctolib et leurs
 
+éventuelles évolutions, ou encore sur le taux
+
+de satisfaction des utilisateurs.
+
 
 
 Données collectées
 
 : jusqu’à 3 mois
-
-Nom du Cookie et
-
-du partenaire
-
-Description détaillée des finalités Durée de
-
-conservation
-
-
-
-éventuelles évolutions, ou encore sur le taux
-
-de satisfaction des utilisateurs.
 
 
 
@@ -551,6 +519,14 @@ l’utilisateur.
 
 
 Session
+
+Nom du Cookie et
+
+du partenaire
+
+Description détaillée des finalités Durée de
+
+conservation
 
 
 
@@ -638,23 +614,19 @@ service de prise de rendez-vous.
 
 
 
-global-app-banner-clo Ce Cookie permet de limiter l’affichage d’une
+global-app-banner-clo
+
+sed (Doctolib)
+
+Ce Cookie permet de limiter l’affichage d’une
 
 fenêtre d’information lorsque l’utilisateur
 
+décide de la fermer.
+
+
+
 2 semaines
-
-Nom du Cookie et
-
-du partenaire
-
-Description détaillée des finalités Durée de
-
-conservation
-
-
-
-sed (Doctolib) décide de la fermer.
 
 
 
@@ -706,6 +678,14 @@ la Plateforme Doctolib.
 
 3 mois
 
+Nom du Cookie et
+
+du partenaire
+
+Description détaillée des finalités Durée de
+
+conservation
+
 
 
 guest_access_resourc
@@ -728,6 +708,84 @@ autorisé à accéder.
 
 
 
+AUTH_SESSION
+
+\_ID (Doctolib) Ce cookie stocke un identifiant unique pour
+
+la session utilisateur en cours. Il garantit la
+
+possibilité de s'inscrire et de se connecter, et
+
+que chaque session est associée de
+
+manière unique à son utilisateur.
+
+
+
+Session
+
+
+
+AUTH_SESSION
+
+\_ID_LEGACY
+
+(Doctolib)
+
+Ce cookie stocke un identifiant unique pour
+
+la session utilisateur en cours, garantissant
+
+la compatibilité avec les précédentes
+
+versions du système d'authentification de
+
+Doctolib.
+
+
+
+Session
+
+
+
+KC_RESTART
+
+(Doctolib) Ce cookie est créé au début du processus
+
+de connexion et contient un jeton qui est
+
+utilisé pour redémarrer le processus de
+
+connexion de l’utilisateur en cas de
+
+dépassement de ce délai
+
+
+
+Session
+
+
+
+Dl_frcid
+
+(Doctolib) Ce cookie protège le système
+
+d’authentification de Doctolib contre les
+
+attaques. Il enregistre le fait que l’utilisateur
+
+légitime a réussi à résoudre un CAPTCHA et
+
+par conséquent n’a pas à résoudre un
+
+CAPTCHA à chaque étape
+
+
+
+30 minutes
+
+
+
 Cookies de mesure d’audience
 
 
@@ -738,12 +796,6 @@ Doctolib utilise des Cookies de mesure d’audience afin d’adapter la Platefor
 
 Ces Cookies sont utilisés pour les finalités précisées ci-dessous lorsque l’utilisateur/le visiteur accepte lafinalité de mesure d’audience.
 
-
-
-Vous pouvez contrôler leur utilisation directement sur la Plateforme Doctolib en cliquant sur Gestion descookies.
-
-
-
 Nom du Cookie et
 
 du partenaire
@@ -751,6 +803,8 @@ du partenaire
 Description détaillée des finalités Durée de
 
 conservation
+
+
 
 acid (Doctolib) Ces Cookies permettent de suivre
 
@@ -856,11 +910,11 @@ services. Les informations collectées par le
 
 Cookie sont remontées via l’adresse
 
-https://events-logs.doctolib.com/.
-
 
 
 13 mois
+
+https://events-logs.doctolib.com/.
 
 
 
@@ -873,6 +927,8 @@ Ce Cookie permet d'assurer la continuité du
 suivi entre doctolib.fr et info.doctolib.fr.
 
 30 minutes
+
+
 
 a7did (Doctolib) Ce Cookie permet de suivre au cours d’une
 
@@ -922,10 +978,6 @@ Ces Cookies sont utilisés pour les finalités précisées ci-dessous lorsque l�
 
 
 
-Vous pouvez contrôler leur utilisation directement sur la Plateforme Doctolib en cliquant sur Gestion descookies.
-
-
-
 Nom du Cookie et du
 
 partenaire
@@ -962,6 +1014,10 @@ informations collectées par les
 
 Cookies sont envoyées à
 
+
+
+13 mois
+
 https://events-logs.doctolib.com.
 
 Ces Cookies sont utilisés aux
@@ -971,10 +1027,6 @@ fins spécifiées ci-dessus lorsque
 l’utilisateur/visiteur accepte les
 
 Cookies d’analyse et donne un
-
-
-
-13 mois
 
 consentement spécifique à
 
@@ -997,10 +1049,6 @@ Doctolib utilise des Cookies afin de mesurer la performance des campagnes de pr�
 
 
 Ces Cookies sont utilisés pour les finalités précisées ci-dessous lorsque l’utilisateur/le visiteur accepte lafinalité de mesure des campagnes de prévention.
-
-
-
-Vous pouvez contrôler leur utilisation directement sur la Plateforme Doctolib en cliquant sur Gestion descookies.
 
 
 
@@ -1098,10 +1146,6 @@ Ces cookies sont utilisés pour les finalités précisées ci-dessous que lorsqu
 
 
 
-Vous pouvez contrôler leur utilisation directement sur la Plateforme Doctolib en cliquant sur Gestion descookies.
-
-
-
 Nom du Cookie et
 
 du partenaire
@@ -1166,19 +1210,15 @@ Doctolib lorsque l'utilisateur l'a fermée.
 
 15 jours
 
+
+
 Cookies de personnalisation des campagnes deprévention
-
-
 
 Doctolib utilise des Cookies afin d’afficher des campagnes de prévention personnalisées sur laPlateforme Doctolib en fonction des utilisateurs.
 
 
 
 Ces cookies sont utilisés pour les finalités précisées ci-dessous que lorsque l’utilisateur / le visiteuraccepte la finalité de personnalisation des campagnes de prévention menées par des tiers.
-
-
-
-Vous pouvez contrôler leur utilisation directement sur la Plateforme Doctolib en cliquant sur Gestion descookies.
 
 
 
@@ -1244,10 +1284,6 @@ Ces cookies sont utilisés pour les finalités précisées ci-dessous que lorsqu
 
 
 
-Vous pouvez contrôler leur utilisation directement sur la Plateforme Doctolib en cliquant sur Gestion descookies.
-
-
-
 Nom du Cookie et
 
 du partenaire
@@ -1268,10 +1304,6 @@ actions de l’utilisateur sur la plateforme
 
 Doctolib à une campagne publicitaire
 
-
-
-30 jours
-
 Doctolib sur Google afin de mesurer la
 
 performance de ces campagnes, une fois
@@ -1279,6 +1311,10 @@ performance de ces campagnes, une fois
 seulement que l'utilisateur a cliqué sur une
 
 publicité.
+
+
+
+30 jours
 
 
 
@@ -1296,13 +1332,13 @@ Doctolib sur Meta afin de mesurer la
 
 performance de ces campagnes, une fois
 
-seulement que l'utilisateur a cliqué sur une
-
-publicité.
-
 
 
 30 jours
+
+seulement que l'utilisateur a cliqué sur une
+
+publicité.
 
 
 
@@ -1352,6 +1388,8 @@ Si votre terminal est utilisé par plusieurs personnes et lorsqu'un même termin
 
 Le partage avec d'autres personnes de l'utilisation de votre terminal et la configuration des paramètres devotre navigateur à l'égard des Cookies, relèvent de votre libre choix et de votre responsabilité.
 
+
+
 Comment désactiver les Cookies ?
 
 
@@ -1363,8 +1401,6 @@ Vous disposez de plusieurs possibilités pour gérer les Cookies.
 Vous pouvez tout d’abord utiliser notre module de Gestion des cookies, dont le lien est rappelé en bas de
 
 chaque page de la Plateforme Doctolib. Ce module vous permet d’indiquer vos préférences soitglobalement pour la Plateforme Doctolib, soit service par service.
-
-
 
 Vous pouvez également configurer votre logiciel de navigation de manière à ce que les Cookies soientrejetés, soit systématiquement, soit selon leur émetteur.
 
@@ -1404,4 +1440,4 @@ Si vous avez des questions ou des réclamations concernant le respect par Doctol
 
 
 
-Date : Juillet 2025
+Date : Octobre 2025
